@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#curl 'http://www.slayradio.org/api.php?query=nextshows' > shows.py || exit
+curl 'http://www.slayradio.org/api.php?query=nextshows' > shows.py || exit
 
 rm -f rss.xml ical.ics
 cat > rss.xml <<EOF
@@ -62,7 +62,7 @@ for s in shows['data']:
 	echo " </item>" >> rss.xml
 
 	DTSTART=`env TZ=UTC date -d "$DATE_UTC" '+%Y%m%dT%H%M00Z'`
-	DTEND=`env TZ=UTC date -d "$DATE_UTC +2 hours" '+%Y%m%dT%H%M00Z'`
+	DTEND=`env TZ=UTC date -d "$DATE_UTC +3 hours" '+%Y%m%dT%H%M00Z'`
 	echo "BEGIN:VEVENT" >> ical.ics
 	echo "DTSTART:$DTSTART" >> ical.ics
 	echo "DTEND:$DTEND" >> ical.ics
