@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#curl 'http://www.slayradio.org/api.php?query=nextshows' > shows.py || exit
+curl 'http://www.slayradio.org/api.php?query=nextshows' > shows.py || exit
 
 rm -f rss.xml ical.ics
 cat > rss.xml <<EOF
