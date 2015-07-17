@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SLAY Radio//Live show schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Stockholm
+X-WR-CALNAME:slay.shows
+X-WR-CALDESC:SLAY Radio live shows schedule
+UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART;TZID=20150715T210000Z
+DTEND;TZID=20150715T230000Z
+SUMMARY:Boz - BBB
+DESCRIPTION:It's the Taint of the Weeku2122 again, so it's time for Boz to talk utter bollocks in between your requests. All aboard the Train-Wreck, WOO WOOH!
+UID:1610@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=20150717T200000Z
+DTEND;TZID=20150717T220000Z
+SUMMARY:Gurt - Radio Awesome
+DESCRIPTION:It's another show! It's starting an hour earlier this week, though. It's the usual Radio Awesome stuff but Clarus may join again! Wait and see!
+UID:1612@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
