@@ -1,6 +1,6 @@
 #!/bin/sh
 
-curl 'http://www.slayradio.org/api.php?query=nextshows' > shows.py || exit
+#curl 'http://www.slayradio.org/api.php?query=nextshows' > shows.py || exit
 
 rm -f rss.xml ical.ics
 cat > rss.xml <<EOF
@@ -21,7 +21,7 @@ VERSION:2.0
 PRODID:-//SLAY Radio//Live show schedule//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-TIMEZONE:Europe/Stockholm
+X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
