@@ -8,8 +8,8 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20150715T210000Z
-DTEND:20150715T230000Z
+DTSTART:20150715T180000Z
+DTEND:20150715T200000Z
 SUMMARY:Boz - BBB
 DESCRIPTION:It's the Taint of the Weeku2122 again, so it's time for Boz to talk utter bollocks in between your requests. All aboard the Train-Wreck, WOO WOOH!
 UID:1610@slayradio.org
@@ -24,8 +24,8 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20150717T200000Z
-DTEND:20150717T220000Z
+DTSTART:20150717T170000Z
+DTEND:20150717T190000Z
 SUMMARY:Gurt - Radio Awesome
 DESCRIPTION:It's another show! It's starting an hour earlier this week, though. It's the usual Radio Awesome stuff but Clarus may join again! Wait and see!
 UID:1612@slayradio.org
