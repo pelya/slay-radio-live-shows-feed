@@ -4,8 +4,15 @@
  <title>SLAY Radio live shows</title>
  <description>Live show schedule</description>
  <link>http://www.slayradio.org/home.php#schedule</link>
- <lastBuildDate>Mon, 20 Jul 2015 13:00:02 +0300</lastBuildDate>
- <pubDate>Mon, 20 Jul 2015 13:00:02 +0300</pubDate>
+ <lastBuildDate>Mon, 20 Jul 2015 14:00:03 +0300</lastBuildDate>
+ <pubDate>Mon, 20 Jul 2015 14:00:03 +0300</pubDate>
  <ttl>240</ttl>
+ <item>
+  <title>Boz - BBB</title>
+  <description>It&quot;s the Taint of the Weeku2122, so it&quot;s time for Boz to utter complete bollocks in between your requests. All aboard the Train-Wreck, WOO WOOH!</description>
+  <link>http://www.slayradio.org/home.php#schedule</link>
+  <guid>1614</guid>
+  <pubDate>Wed, 22 Jul 2015 18:00:00 +0000</pubDate>
+ </item>
 </channel>
 </rss>
