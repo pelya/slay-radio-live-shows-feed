@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1615","airdate":"1437757200","name_switch":"off","DJ":"Gurt","showname":"Radio Awesome","blurb":"Back for the usual Friday antics! Join me and maybe Clarus if she's awake for another show! I'd type a better description but my fingers are cold and numb.","nice_showname":"<strong><big>Gurt<\/big><\/strong><br \/>Radio Awesome","nice_airdate":"Friday 24th July, 2015<br \/>at 19:00 USRT"}]}
+{"error":0,"message":"","data":[]}
