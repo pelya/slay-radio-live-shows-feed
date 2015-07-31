@@ -34,7 +34,7 @@ IFS='
 python -c "
 shows = `cat shows.py`
 for s in shows['data']:
-	print s['show_ID'] + '\t' + s['airdate'] + '\t' + s['DJ'] + '\t' + s['showname'] + '\t' + s['blurb']
+	print s['show_ID'] + '\t' + s['airdate'] + '\t' + s['DJ'].replace('\n','').replace('\"','') + '\t' + s['showname'].replace('\n','').replace('\"','') + '\t' + s['blurb'].replace('\n','').replace('\"','')
 " | while read UID DATE DJ TITLE DESCRIPTION; do
 	echo "'$UID' '$DATE' '$DJ' '$TITLE' '$DESCRIPTION'"
 
