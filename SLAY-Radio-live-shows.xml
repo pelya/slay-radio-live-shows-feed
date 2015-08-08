@@ -4,22 +4,22 @@
  <title>SLAY Radio live shows</title>
  <description>Live show schedule</description>
  <link>http://www.slayradio.org/home.php#schedule</link>
- <lastBuildDate>Sat, 08 Aug 2015 19:00:01 +0300</lastBuildDate>
- <pubDate>Sat, 08 Aug 2015 19:00:01 +0300</pubDate>
+ <lastBuildDate>Sat, 08 Aug 2015 20:00:01 +0300</lastBuildDate>
+ <pubDate>Sat, 08 Aug 2015 20:00:01 +0300</pubDate>
  <ttl>240</ttl>
- <item>
-  <title>Gurt - Radio Awesome</title>
-  <description>(Time shifted to Sat @ 7PM) It&quot;s back for yet another week! Enjoy the soothing sounds of stuff! I&quot;d think of a better write-up but it&quot;s 3AM and my brain is made of some kind of goo, much like it will be during the show!</description>
-  <link>http://www.slayradio.org/home.php#schedule</link>
-  <guid>1620</guid>
-  <pubDate>Sat, 08 Aug 2015 17:00:00 +0000</pubDate>
- </item>
  <item>
   <title>Gazoo - PMPVsHamburg</title>
   <description>Another week and another weekend show. I&quot;ll be there. Will you?I hope so. My friend.</description>
   <link>http://www.slayradio.org/home.php#schedule</link>
   <guid>1621</guid>
   <pubDate>Sun, 09 Aug 2015 18:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Gurt - Radio Awesome</title>
+  <description>It&quot;s back for yet another week! Enjoy the soothing sounds of stuff! I&quot;d think of a better write-up but it&quot;s 3AM and my brain is made of some kind of goo, much like it will be during the show!</description>
+  <link>http://www.slayradio.org/home.php#schedule</link>
+  <guid>1620</guid>
+  <pubDate>Fri, 14 Aug 2015 18:00:00 +0000</pubDate>
  </item>
 </channel>
 </rss>

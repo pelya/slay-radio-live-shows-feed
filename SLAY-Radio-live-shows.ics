@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20150808T170000Z
-DTEND:20150808T200000Z
-SUMMARY:Gurt - Radio Awesome
-DESCRIPTION:(Time shifted to Sat @ 7PM) It's back for yet another week! Enjoy the soothing sounds of stuff! I'd think of a better write-up but it's 3AM and my brain is made of some kind of goo, much like it will be during the show!
-UID:1620@slayradio.org
+DTSTART:20150809T180000Z
+DTEND:20150809T210000Z
+SUMMARY:Gazoo - PMPVsHamburg
+DESCRIPTION:Another week and another weekend show. I'll be there. Will you?I hope so. My friend.
+UID:1621@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20150809T180000Z
-DTEND:20150809T210000Z
-SUMMARY:Gazoo - PMPVsHamburg
-DESCRIPTION:Another week and another weekend show. I'll be there. Will you?I hope so. My friend.
-UID:1621@slayradio.org
+DTSTART:20150814T180000Z
+DTEND:20150814T210000Z
+SUMMARY:Gurt - Radio Awesome
+DESCRIPTION:It's back for yet another week! Enjoy the soothing sounds of stuff! I'd think of a better write-up but it's 3AM and my brain is made of some kind of goo, much like it will be during the show!
+UID:1620@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
