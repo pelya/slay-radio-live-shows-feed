@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20150816T180000Z
-DTEND:20150816T210000Z
-SUMMARY:Gazoo - PMPVsHamburg
-DESCRIPTION:It's the middle of August, and I can barely fathom that we've gotten this far into 2015. It's nearly 2016. And I'm living with my parents. While doing a Commodore 64 themed show in the basement. By most standards, this would be classified as 'not the means to an end', but the actual 'end' itself. Seriously...But while I'm writing this here, a part of me wonders who even bothers reading these texts. More importantly, why do I bother writing them? I mean, even big-time shows like old Tonight show, or as I like to call it 'The Conan 'o Brian show hosted by Jay Leno' (heh) probably had this text that nobody read. Written by an intern. While on the way to pick up breakfast. For another intern.Seriously, I'm cranking out A-grade material here, and when will it be blessed by living eyes? Not after I click this 'Create Show' button I'm pretty sure...
-UID:1623@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20150821T180000Z
 DTEND:20150821T210000Z
 SUMMARY:Gurt - Radio Awesome
