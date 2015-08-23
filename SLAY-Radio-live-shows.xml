@@ -4,9 +4,16 @@
  <title>SLAY Radio live shows</title>
  <description>Live show schedule</description>
  <link>http://www.slayradio.org/home.php#schedule</link>
- <lastBuildDate>Sun, 23 Aug 2015 05:00:02 +0300</lastBuildDate>
- <pubDate>Sun, 23 Aug 2015 05:00:02 +0300</pubDate>
+ <lastBuildDate>Sun, 23 Aug 2015 06:00:03 +0300</lastBuildDate>
+ <pubDate>Sun, 23 Aug 2015 06:00:03 +0300</pubDate>
  <ttl>240</ttl>
+ <item>
+  <title>Gazoo - PMPVsAustralia</title>
+  <description>A really short test show to see how things hold up down-under! :E</description>
+  <link>http://www.slayradio.org/home.php#schedule</link>
+  <guid>1627</guid>
+  <pubDate>Sun, 23 Aug 2015 12:00:00 +0000</pubDate>
+ </item>
  <item>
   <title>Gohanks - Retro For Sure</title>
   <description>So apparently there&quot;s a new DJ in town. Will he pull off a great show? Or will you run away scared for your lives (all 3 of them)? What will this be all about? Find out and listen to the premmiere live show - Retro For Sure with your host Gohanks!</description>
