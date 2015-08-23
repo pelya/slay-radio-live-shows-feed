@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20150823T120000Z
-DTEND:20150823T150000Z
-SUMMARY:Gazoo - PMPVsAustralia
-DESCRIPTION:A really short test show to see how things hold up down-under! :E
-UID:1627@slayradio.org
+DTSTART:20150825T180000Z
+DTEND:20150825T210000Z
+SUMMARY:Gohanks - Retro For Sure
+DESCRIPTION:So apparently there's a new DJ in town. Will he pull off a great show? Or will you run away scared for your lives (all 3 of them)? What will this be all about? Find out and listen to the premmiere live show - Retro For Sure with your host Gohanks!
+UID:1626@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20150825T180000Z
-DTEND:20150825T210000Z
-SUMMARY:Gohanks - Retro For Sure
-DESCRIPTION:So apparently there's a new DJ in town. Will he pull off a great show? Or will you run away scared for your lives (all 3 of them)? What will this be all about? Find out and listen to the premmiere live show - Retro For Sure with your host Gohanks!
-UID:1626@slayradio.org
+DTSTART:20150828T180000Z
+DTEND:20150828T210000Z
+SUMMARY:Gurt - Radio Awesome
+DESCRIPTION:Radio Awesome is back for another week! Tune in for more calamity and stupidity rolled into one! Zap to the extreme!
+UID:1628@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
