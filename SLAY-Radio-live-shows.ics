@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20150825T180000Z
-DTEND:20150825T210000Z
-SUMMARY:Gohanks - Retro For Sure
-DESCRIPTION:So apparently there's a new DJ in town. Will he pull off a great show? Or will you run away scared for your lives (all 3 of them)? What will this be all about? Find out and listen to the premmiere live show - Retro For Sure with your host Gohanks!
-UID:1626@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20150826T180000Z
 DTEND:20150826T210000Z
 SUMMARY:Boz - BBB
