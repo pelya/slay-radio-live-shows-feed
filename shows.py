@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1628","airdate":"1440784800","name_switch":"off","DJ":"Gurt","showname":"Radio Awesome","blurb":"Radio Awesome is back for another week! Tune in for more calamity and stupidity rolled into one! Zap to the extreme!","nice_showname":"<strong><big>Gurt<\/big><\/strong><br \/>Radio Awesome","nice_airdate":"Friday 28th August, 2015<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
