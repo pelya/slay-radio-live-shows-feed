@@ -4,8 +4,8 @@
  <title>SLAY Radio live shows</title>
  <description>Live show schedule</description>
  <link>http://www.slayradio.org/home.php#schedule</link>
- <lastBuildDate>Sun, 30 Aug 2015 00:00:02 +0300</lastBuildDate>
- <pubDate>Sun, 30 Aug 2015 00:00:02 +0300</pubDate>
+ <lastBuildDate>Sun, 30 Aug 2015 01:00:02 +0300</lastBuildDate>
+ <pubDate>Sun, 30 Aug 2015 01:00:02 +0300</pubDate>
  <ttl>240</ttl>
  <item>
   <title>Gazoo - PMPVsAustralia</title>
@@ -13,6 +13,13 @@
   <link>http://www.slayradio.org/home.php#schedule</link>
   <guid>1630</guid>
   <pubDate>Sun, 30 Aug 2015 11:30:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Gurt - Radio Awesome</title>
+  <description>We&quot;re back again for another week! Endure hours of music and prattling Antipodeans, and the only reward you get is bragging rights! It&quot;s the usual mumbo jumbo. It&quot;s cool, though.</description>
+  <link>http://www.slayradio.org/home.php#schedule</link>
+  <guid>1631</guid>
+  <pubDate>Fri, 04 Sep 2015 18:00:00 +0000</pubDate>
  </item>
 </channel>
 </rss>
