@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20150830T113000Z
+DTEND:20150830T143000Z
+SUMMARY:Gazoo - PMPVsAustralia
+DESCRIPTION:G'day Mate, how ya goin' ?It's Sunday across most of the world, and I'm doing whatevz' to do a show for you. A down'n'under show. Crazy right? A new continent. What have I been up to? Well - I've been doing a bit to PlanMixPlay, and soon we might have some video.And when I say soon, I mean not soon, because I'm kind of a moron.If you're still reading, you might as well tune in and listen, cause it'll be way better than the lame jokes you'd find in this text.
+UID:1630@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
