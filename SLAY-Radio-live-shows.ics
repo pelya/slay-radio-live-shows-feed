@@ -55,4 +55,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150908T180000Z
+DTEND:20150908T210000Z
+SUMMARY:Gohanks - Retro For Sure
+DESCRIPTION:Crazy Polish guy is back for what's left of this magnifficent audience. Let's have some more fun together listening to unzy choones and reminisce the good old times.
+UID:1634@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
