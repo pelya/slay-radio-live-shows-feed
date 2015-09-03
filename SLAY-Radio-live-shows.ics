@@ -24,8 +24,8 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20150904T200000Z
-DTEND:20150904T230000Z
+DTSTART:20150904T180000Z
+DTEND:20150904T210000Z
 SUMMARY:Gurt - Radio Awesome
 DESCRIPTION:We're back again for another week! Endure hours of music and prattling Antipodeans, and the only reward you get is bragging rights! It's the usual mumbo jumbo. It's cool, though.
 UID:1631@slayradio.org

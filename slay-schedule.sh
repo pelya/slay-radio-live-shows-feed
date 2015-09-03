@@ -27,7 +27,10 @@ X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 EOF
 
+DST="`python -c 'import time ; print time.daylight'`"
 
+TZ="CET"
+[ "$DST" = 1 ] && TZ="CEST"
 
 IFS='	
 '
@@ -37,11 +40,6 @@ for s in shows['data']:
 	print s['show_ID'] + '\t' + s['airdate'] + '\t' + s['DJ'].replace('\n','').replace('\"','') + '\t' + s['showname'].replace('\n','').replace('\"','') + '\t' + s['blurb'].replace('\n','').replace('\"','')
 " | while read UID DATE DJ TITLE DESCRIPTION; do
 	echo "'$UID' '$DATE' '$DJ' '$TITLE' '$DESCRIPTION'"
-
-	DST="`python -c 'import time ; print time.daylight'`"
-	echo "DST: $DST"
-	TZ="CET"
-	[ "$DST" = 1 ] && TZ="CEST"
 
 	DATE_UTC="`python -c \"import os, time ; os.environ['TZ'] = '$TZ' ; time.tzset() ; print time.strftime('%a, %d %b %Y %H:%M:%S %z', time.localtime($DATE))\"`"
 	echo "Timezone: $TZ DST: $DST DATE UTC: $DATE_UTC"
