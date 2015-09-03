@@ -31,7 +31,7 @@ DST="`python -c 'import time ; print time.daylight'`"
 
 TZ="CET"
 [ "$DST" = 1 ] && TZ="CEST"
-[ "$DST" = 1 ] && TZ="EEST"
+[ "$DST" = 1 ] && TZ="C"
 
 IFS='	
 '
