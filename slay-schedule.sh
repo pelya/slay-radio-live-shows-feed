@@ -42,7 +42,7 @@ for s in shows['data']:
 " | while read UID DATE DJ TITLE DESCRIPTION; do
 	echo "'$UID' '$DATE' '$DJ' '$TITLE' '$DESCRIPTION'"
 
-	DATE_UTC="`python -c \"import os, time ; os.environ['TZ'] = '$TZ' ; time.tzset() ; print time.strftime('%a, %d %b %Y %H:%M:%S %z', time.gmtime($DATE))\"`"
+	DATE_UTC="`python -c \"import os, time ; os.environ['TZ'] = '$TZ' ; time.tzset() ; print time.strftime('%a, %d %b %Y %H:%M:%S %z', time.localtime($DATE))\"`"
 	echo "Timezone: $TZ DST: $DST DATE UTC: $DATE_UTC"
 
 	DESCRIPTION="`echo \"$DESCRIPTION\" | sed 's/^- *//'`"
