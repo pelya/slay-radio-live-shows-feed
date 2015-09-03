@@ -84,6 +84,7 @@ echo 'END:VCALENDAR' >> ical.ics
 
 todos ical.ics # Convert iCal to Windows-style newlines, this is required by iCal format
 mv -f rss.xml SLAY-Radio-live-shows.xml
+rm -f SLAY-Radio-live-shows.xml # RSS feeds are available directly from SLAYRadio.org
 mv -f ical.ics SLAY-Radio-live-shows.ics
 
 # Upload it to server
