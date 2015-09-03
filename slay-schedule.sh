@@ -39,8 +39,8 @@ for s in shows['data']:
 	echo "'$UID' '$DATE' '$DJ' '$TITLE' '$DESCRIPTION'"
 
 	DST="`python -c 'import time ; print time.daylight'`"
-	TZ="Europe/Stockholm"
-	[ "$DST" = 1 ] && TZ="Europe/London"
+	TZ="CET"
+	[ "$DST" = 1 ] && TZ="CEST"
 
 	DATE_UTC="`python -c \"import os, time ; os.environ['TZ'] = '$TZ' ; time.tzset() ; print time.strftime('%a, %d %b %Y %H:%M:%S %z', time.localtime($DATE))\"`"
 	echo "Timezone: $TZ DATE UTC: $DATE_UTC"
