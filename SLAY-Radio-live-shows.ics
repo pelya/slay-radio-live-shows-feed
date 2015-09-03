@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20150903T190000Z
-DTEND:20150903T220000Z
-SUMMARY:KraxxUltima - The Crack ReOpens
-DESCRIPTION:He's back for another round of nonsen...Errr No, of course not that, but Commodore related tune and remixes :)After about a year's silence Kraxx is finally back on air to satisfy listeners of C64 and Amiga music, mixed with the usual amount of talk and other effects in between.Seeya on the show Slayers!  :D
-UID:1632@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20150904T190000Z
 DTEND:20150904T220000Z
 SUMMARY:Gurt - Radio Awesome
