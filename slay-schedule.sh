@@ -39,6 +39,7 @@ for s in shows['data']:
 	echo "'$UID' '$DATE' '$DJ' '$TITLE' '$DESCRIPTION'"
 
 	DST="`python -c 'import time ; print time.daylight'`"
+	echo "DST: $DST"
 	TZ="CET"
 	[ "$DST" = 1 ] && TZ="CEST"
 
