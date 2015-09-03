@@ -40,7 +40,7 @@ for s in shows['data']:
 
 	DST="`python -c 'import time ; print time.daylight'`"
 	TZ="Europe/Stockholm"
-	[ "$DST" = 1 ] && TZ="Europe/Kiev"
+	#[ "$DST" = 1 ] && TZ="Europe/Kiev"
 
 	DATE_FORMATTED="`env TZ=$TZ python -c \"import time ; print time.strftime('%a, %d %b %Y %H:%M:%S %z', time.gmtime($DATE))\"`"
 	DATE_UTC="`env TZ=$TZ python -c \"import time ; print time.strftime('%a, %d %b %Y %H:%M:%S %z', time.gmtime($DATE))\"`"
