@@ -7,4 +7,52 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20150903T180000Z
+DTEND:20150903T210000Z
+SUMMARY:KraxxUltima - The Crack ReOpens
+DESCRIPTION:He's back for another round of nonsen...Errr No, of course not that, but Commodore related tune and remixes :)After about a year's silence Kraxx is finally back on air to satisfy listeners of C64 and Amiga music, mixed with the usual amount of talk and other effects in between.Seeya on the show Slayers!  :D
+UID:1632@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150904T180000Z
+DTEND:20150904T210000Z
+SUMMARY:Gurt - Radio Awesome
+DESCRIPTION:We're back again for another week! Endure hours of music and prattling Antipodeans, and the only reward you get is bragging rights! It's the usual mumbo jumbo. It's cool, though.
+UID:1631@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150908T180000Z
+DTEND:20150908T210000Z
+SUMMARY:Gohanks - Retro For Sure
+DESCRIPTION:Crazy Polish guy is back for what's left of this magnifficent audience. Let's have some more fun together listening to unzy choones and reminisce the good old times.
+UID:1634@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
