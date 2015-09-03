@@ -39,13 +39,10 @@ for s in shows['data']:
 	echo "'$UID' '$DATE' '$DJ' '$TITLE' '$DESCRIPTION'"
 
 	DST="`python -c 'import time ; print time.daylight'`"
-	#TZ="Europe/Stockholm"
+	TZ="Europe/Stockholm"
 	#[ "$DST" = 1 ] && TZ="Europe/Kiev"
-	TZ="Asia/Hong_Kong"
 
-	DATE_FORMATTED="`env TZ=$TZ python -c \"import time ; print time.strftime('%a, %d %b %Y %H:%M:%S %z', time.gmtime($DATE))\"`"
-	DATE_UTC="`env TZ=$TZ python -c \"import time ; print time.strftime('%a, %d %b %Y %H:%M:%S %z', time.gmtime($DATE))\"`"
-	echo "DATE formatted: $DATE_FORMATTED"
+	DATE_UTC="`python -c \"import time ; os.environ['TZ'] = '$TZ' ; print time.strftime('%a, %d %b %Y %H:%M:%S %z', time.gmtime($DATE))\"`"
 	echo "DATE UTC: $DATE_UTC"
 
 	DESCRIPTION="`echo \"$DESCRIPTION\" | sed 's/^- *//'`"
@@ -59,7 +56,7 @@ for s in shows['data']:
 	echo "  <description>`echo $DESCRIPTION | sed \"s/'/\&quot;/g\"`</description>" >> rss.xml
 	echo "  <link>http://www.slayradio.org/home.php#schedule</link>" >> rss.xml
 	echo "  <guid>$UID</guid>" >> rss.xml
-	echo "  <pubDate>$DATE_FORMATTED</pubDate>" >> rss.xml
+	echo "  <pubDate>$DATE_UTC</pubDate>" >> rss.xml
 	echo " </item>" >> rss.xml
 
 	DTSTART=`env TZ=UTC date -d "$DATE_UTC" '+%Y%m%dT%H%M00Z'`
