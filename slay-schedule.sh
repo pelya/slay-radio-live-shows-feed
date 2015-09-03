@@ -40,10 +40,10 @@ for s in shows['data']:
 
 	DST="`python -c 'import time ; print time.daylight'`"
 	TZ="Europe/Stockholm"
-	#[ "$DST" = 1 ] && TZ="Europe/Kiev"
+	[ "$DST" = 1 ] && TZ="Europe/Kiev"
 
 	DATE_UTC="`python -c \"import os, time ; os.environ['TZ'] = '$TZ' ; time.tzset() ; print time.strftime('%a, %d %b %Y %H:%M:%S %z', time.gmtime($DATE))\"`"
-	echo "DATE UTC: $DATE_UTC"
+	echo "Timezone: $TZ DATE UTC: $DATE_UTC"
 
 	DESCRIPTION="`echo \"$DESCRIPTION\" | sed 's/^- *//'`"
 	TITLE="`echo \"$DJ - $TITLE\" | sed 's/^- *//'`"
