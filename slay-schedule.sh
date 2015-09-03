@@ -42,7 +42,7 @@ for s in shows['data']:
 	TZ="Europe/Stockholm"
 	#[ "$DST" = 1 ] && TZ="Europe/Kiev"
 
-	DATE_UTC="`python -c \"import time ; os.environ['TZ'] = '$TZ' ; print time.strftime('%a, %d %b %Y %H:%M:%S %z', time.gmtime($DATE))\"`"
+	DATE_UTC="`python -c \"import os, time ; os.environ['TZ'] = '$TZ' ; print time.strftime('%a, %d %b %Y %H:%M:%S %z', time.gmtime($DATE))\"`"
 	echo "DATE UTC: $DATE_UTC"
 
 	DESCRIPTION="`echo \"$DESCRIPTION\" | sed 's/^- *//'`"
