@@ -39,8 +39,9 @@ for s in shows['data']:
 	echo "'$UID' '$DATE' '$DJ' '$TITLE' '$DESCRIPTION'"
 
 	DST="`python -c 'import time ; print time.daylight'`"
-	TZ="Europe/Stockholm"
+	#TZ="Europe/Stockholm"
 	#[ "$DST" = 1 ] && TZ="Europe/Kiev"
+	TZ="Asia/Hong_Kong"
 
 	DATE_FORMATTED="`env TZ=$TZ python -c \"import time ; print time.strftime('%a, %d %b %Y %H:%M:%S %z', time.gmtime($DATE))\"`"
 	DATE_UTC="`env TZ=$TZ python -c \"import time ; print time.strftime('%a, %d %b %Y %H:%M:%S %z', time.gmtime($DATE))\"`"
