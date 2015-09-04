@@ -30,7 +30,7 @@ EOF
 DST="`python -c 'import time ; print time.daylight'`"
 
 TZ="Europe/Stockholm"
-[ "$DST" = 1 ] && TZ="Europe/London"
+#[ "$DST" = 1 ] && TZ="Europe/London"
 
 IFS='	
 '
