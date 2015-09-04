@@ -29,7 +29,8 @@ EOF
 
 DST="`python -c 'import time ; print time.daylight'`"
 
-TZ="Europe/Stockholm"
+#TZ="Europe/Stockholm"
+TZ="UTC"
 [ "$DST" = 1 ] && TZ="UTC"
 
 IFS='	
