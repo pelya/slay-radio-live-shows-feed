@@ -40,6 +40,22 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20150910T180000Z
+DTEND:20150910T210000Z
+SUMMARY:KraxxUltima - The Crack ReOpens Again
+DESCRIPTION:Again? really? Yep ,it will happen. Tune in for some Commodore related fun and make your requests for the occasion. Amiga tunes are highly welcomed as well :) Seeya!
+UID:1638@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20150911T180000Z
 DTEND:20150911T210000Z
 SUMMARY:Gurt - Radio Awesome
