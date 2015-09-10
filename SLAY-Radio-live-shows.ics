@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20150909T180000Z
-DTEND:20150909T210000Z
-SUMMARY:Boz - BBB
-DESCRIPTION:It's the Taint of the Weeku2122 again, so it's time for Boz to babble complete bollocks in between your requests. All aboard the Train-Wreck, WOO WOOH!
-UID:1636@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20150910T180000Z
 DTEND:20150910T210000Z
 SUMMARY:KraxxUltima - The Crack ReOpens Again
@@ -45,6 +29,22 @@ DTEND:20150911T210000Z
 SUMMARY:Gurt - Radio Awesome
 DESCRIPTION:Prepare your bodies and ears and things for another live show! There's music and an idiot who talks! Is this your idea of fun? If so, tune in and...erm...
 UID:1637@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150915T180000Z
+DTEND:20150915T210000Z
+SUMMARY:Gohanks - Retro For Sure
+DESCRIPTION:I'm actually back for more! Crazy right?! With this awesome audience anything seems possible :). I hope you guys will have as much fun as I will :D. Join me for the third official Retro For Sure!
+UID:1639@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
