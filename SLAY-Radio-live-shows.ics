@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20150913T123000Z
-DTEND:20150913T153000Z
-SUMMARY:Gazoo - PMPVsAustralia
-DESCRIPTION:Sneaky hidden attack show!Nothing to say, less to do, here's a show filled with bally-hoo.
-UID:1640@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20150915T180000Z
 DTEND:20150915T210000Z
 SUMMARY:Gohanks - Retro For Sure
