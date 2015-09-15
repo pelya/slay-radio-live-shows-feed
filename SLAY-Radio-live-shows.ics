@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20150915T180000Z
-DTEND:20150915T210000Z
-SUMMARY:Gohanks - Retro For Sure
-DESCRIPTION:I'm actually back for more! Crazy right?! With this awesome audience anything seems possible :). I hope you guys will have as much fun as I will :D. Join me for the third official Retro For Sure!
-UID:1639@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20150916T180000Z
 DTEND:20150916T210000Z
 SUMMARY:Boz - BBB
@@ -45,6 +29,22 @@ DTEND:20150917T210000Z
 SUMMARY:KraxxUltima - The Crack Repaired
 DESCRIPTION:Hello and welcome back to the crack! Playing tracks without cracks and no playbacks makes you scratch your backs. Basically just playing your Commodore type requests and we're gonna have fun doing it :)
 UID:1642@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150918T180000Z
+DTEND:20150918T210000Z
+SUMMARY:Gurt - Radio Awesome
+DESCRIPTION:It's another Radio Awesome! Yet more music and rambling and things. Tune in, join us on IRC, request stuff, do things basically!(Insert witty remark here)
+UID:1643@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
