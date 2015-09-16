@@ -39,4 +39,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150922T180000Z
+DTEND:20150922T210000Z
+SUMMARY:Gohanks - Retro For Sure
+DESCRIPTION:Well the week is starting to fill up with shows quite regularly now, so I won't be one to dissapoint! I invite you guys and galls of slayworld to join me for yet another epic quest!
+UID:1644@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
