@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20150920T113000Z
+DTEND:20150920T143000Z
+SUMMARY:Gazoo - PMPVsMajoran
+DESCRIPTION:Peepulz! Wasssaaaaaaaaaaaah! Erm... Ahem... I mean... Hallo fine esteemed gentlemans and gentleladys.You might have noticed a slight change in show name. No, I haven't left Australia, so I'm still very much Vs. with Australia, but I've recently made one of the best decisions ever by actually investing a little bit of money in myself and PMP. In other words, I now officially have a small development space dedicated to PlanMixPlay at Majoran Distilleries. I'll be spending a few months polishing up PlanMixPlay and getting it to the next important milestone.With a little luck, I may get to do a show on the re-vamped version here in Australia. Fingers crossed!Anyway - This blurb was supposed to be about the show - so uhm. It's a C-64 show. Listen to it. This text commands you to.
+UID:1645@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20150922T180000Z
 DTEND:20150922T210000Z
 SUMMARY:Gohanks - Retro For Sure
