@@ -55,4 +55,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150925T180000Z
+DTEND:20150925T210000Z
+SUMMARY:Gurt - Radio Awesome
+DESCRIPTION:Radio Awesome is back for another week! No, really! I'd put something witty here but I've had this window open for two hours and it ain't gonna happen.
+UID:1649@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
