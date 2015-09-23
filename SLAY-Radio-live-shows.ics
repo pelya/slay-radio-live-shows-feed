@@ -55,4 +55,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150929T180000Z
+DTEND:20150929T210000Z
+SUMMARY:Gohanks - Retro For Sure
+DESCRIPTION:More antics, more retro rants and more fun! Tune in and chill to some good Commodore SIDs and remixes. Make some requests and chat with us on IRC!
+UID:1651@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
