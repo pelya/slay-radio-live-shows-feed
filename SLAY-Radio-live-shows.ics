@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20150930T180000Z
-DTEND:20150930T210000Z
-SUMMARY:Boz - BBB
-DESCRIPTION:It's the Taint of the Weeku2122 again, so it's time for Boz to utter complete bollocks in between your requests. It's the birthday special too, which means absolutely nothing. All aboard the Train-Wreck, WOO WOOH!
-UID:1653@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20151002T180000Z
 DTEND:20151002T210000Z
 SUMMARY:Gurt - Radio Awesome
@@ -45,6 +29,22 @@ DTEND:20151006T210000Z
 SUMMARY:Gohanks - Retro For Sure
 DESCRIPTION:I'm glad this is slowly becomin a regular thing and hopefully so do you guys! Tune in and check out what's new, what's old and what's retro for sure!
 UID:1654@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151008T180000Z
+DTEND:20151008T210000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Hey back again huh ;) For your Commodore daily needs of course. Request songs ,slay awhile and chat your hearts away! Oh and have fun too while you're at it.
+UID:1655@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
