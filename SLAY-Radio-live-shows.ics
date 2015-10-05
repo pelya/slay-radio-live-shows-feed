@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151009T180000Z
+DTEND:20151009T210000Z
+SUMMARY:Gurt - Radio Awesome
+DESCRIPTION:It's a Radio Awesome! I can't think of a blurb right now because I need sleep, as usual, but I needed to book the show, so this is a show description.Allegedly.
+UID:1657@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
