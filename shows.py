@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1657","airdate":"1444413600","name_switch":"off","DJ":"Gurt","showname":"Radio Awesome","blurb":"It's a Radio Awesome! I can't think of a blurb right now because I need sleep, as usual, but I needed to book the show, so this is a show description.Allegedly.","nice_showname":"<strong><big>Gurt<\/big><\/strong><br \/>Radio Awesome","nice_airdate":"Friday 9th October, 2015<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
