@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151022T180000Z
+DTEND:20151022T210000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Ready for some more Commodore remixes and originial tunes?  We sure are :)  Tune in to the show for some fun!
+UID:1661@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
