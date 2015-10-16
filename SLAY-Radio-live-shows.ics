@@ -8,8 +8,8 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20151016T180000Z
-DTEND:20151016T210000Z
+DTSTART:20151016T190000Z
+DTEND:20151016T220000Z
 SUMMARY:Gurt - Radio Awesome
 DESCRIPTION:It's Friday again, which means it's time for another Radio Awesome! Hop along and listen to some prattling, make some requests, and whatever else happens usually on Friday night that we can't remember due to the wonders of alcohol!
 UID:1660@slayradio.org
