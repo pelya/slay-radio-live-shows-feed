@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151030T190000Z
+DTEND:20151030T220000Z
+SUMMARY:Gohanks - Retro For Sure
+DESCRIPTION:With Square games behind the back, Retro For Sure heads back into more familliar topics. This week we'll talk a bit about Lotus Series and guess what that means?! A lot of unz! :)
+UID:1668@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
