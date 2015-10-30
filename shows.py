@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1668","airdate":"1446231600","name_switch":"off","DJ":"Gohanks","showname":"Retro For Sure","blurb":"With Square games behind the back, Retro For Sure heads back into more familliar topics. This week we'll talk a bit about Lotus Series and guess what that means?! A lot of unz! :)","nice_showname":"<strong><big>Gohanks<\/big><\/strong><br \/>Retro For Sure","nice_airdate":"Friday 30th October, 2015<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
