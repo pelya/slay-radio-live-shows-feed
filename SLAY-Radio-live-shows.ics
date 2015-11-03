@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151107T190000Z
+DTEND:20151107T220000Z
+SUMMARY:Gohanks - Retro For Sure
+DESCRIPTION:Once again not in the usual time slot, but I said it might be expected last time. Anyway weekend is a good time to do a live show and this time you won't even have to wake up early, so we can party without any worries! Join the fun! This week we're talking about Monkey Island.
+UID:1670@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
