@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20151106T190000Z
-DTEND:20151106T220000Z
-SUMMARY:Gurt - Radio Awesome
-DESCRIPTION:I'm back from holiday, so it's time to inflict another show on people! Join me for the usual mumbo jumbo. I'd say summat fancy here but like, it's only two days, if I waste time trying to think of what to put here it'll be 12 hours instead, so yeah. Show.
-UID:1671@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20151107T190000Z
 DTEND:20151107T220000Z
 SUMMARY:Gohanks - Retro For Sure
