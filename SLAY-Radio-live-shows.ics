@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20151107T190000Z
-DTEND:20151107T220000Z
-SUMMARY:Gohanks - Retro For Sure
-DESCRIPTION:Once again not in the usual time slot, but I said it might be expected last time. Anyway weekend is a good time to do a live show and this time you won't even have to wake up early, so we can party without any worries! Join the fun! This week we're talking about Monkey Island.
-UID:1670@slayradio.org
+DTSTART:20151108T190000Z
+DTEND:20151108T220000Z
+SUMMARY:Gazoo - PMPVsHamburg
+DESCRIPTION:What? Huh? Who? Gazoo?Yes. I've been off the air for the past 2 months. Not necessarily happy about that, but sometimes life gets in the way and in this case, a particularly curious situation stopped me from broadcasting. Was it dingos chewing on the cable? Kangaroos boxing me out of house and home? Do not fret - all will be revealed this Sunday.Well... Most things will. Ok - some things. Alright fine, one or two tiny tid-bits may. Perhaps. Possibly. If you're lucky.But I should be so lucky! Spend the Sunday evening with me - and I'll tell you all about the exciting future! I promise, I'll play some tunes too!
+UID:1672@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20151108T190000Z
-DTEND:20151108T220000Z
-SUMMARY:Gazoo - PMPVsHamburg
-DESCRIPTION:What? Huh? Who? Gazoo?Yes. I've been off the air for the past 2 months. Not necessarily happy about that, but sometimes life gets in the way and in this case, a particularly curious situation stopped me from broadcasting. Was it dingos chewing on the cable? Kangaroos boxing me out of house and home? Do not fret - all will be revealed this Sunday.Well... Most things will. Ok - some things. Alright fine, one or two tiny tid-bits may. Perhaps. Possibly. If you're lucky.But I should be so lucky! Spend the Sunday evening with me - and I'll tell you all about the exciting future! I promise, I'll play some tunes too!
-UID:1672@slayradio.org
+DTSTART:20151114T190000Z
+DTEND:20151114T220000Z
+SUMMARY:Gohanks - Retro For Sure
+DESCRIPTION:Once again not in the usual time slot, but I said it might be expected last time. Anyway weekend is a good time to do a live show and this time you won't even have to wake up early, so we can party without any worries! Join the fun! This week we're talking about Monkey Island.
+UID:1670@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
