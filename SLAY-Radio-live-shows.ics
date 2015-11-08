@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20151108T190000Z
-DTEND:20151108T220000Z
-SUMMARY:Gazoo - PMPVsHamburg
-DESCRIPTION:What? Huh? Who? Gazoo?Yes. I've been off the air for the past 2 months. Not necessarily happy about that, but sometimes life gets in the way and in this case, a particularly curious situation stopped me from broadcasting. Was it dingos chewing on the cable? Kangaroos boxing me out of house and home? Do not fret - all will be revealed this Sunday.Well... Most things will. Ok - some things. Alright fine, one or two tiny tid-bits may. Perhaps. Possibly. If you're lucky.But I should be so lucky! Spend the Sunday evening with me - and I'll tell you all about the exciting future! I promise, I'll play some tunes too!
-UID:1672@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20151114T190000Z
 DTEND:20151114T220000Z
 SUMMARY:Gohanks - Retro For Sure
