@@ -24,6 +24,22 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20151115T190000Z
+DTEND:20151115T220000Z
+SUMMARY:Gazoo - PMPVsHamburg
+DESCRIPTION:Yes. It is time. Hot on the heels of last weeks disaster - here's another PMPVsNonsense show.There's not much to say except C-64, DJ Snorkles for sure, and a bit o' PMP.Looking forward to speaking to you!
+UID:1675@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20151119T190000Z
 DTEND:20151119T220000Z
 SUMMARY:KraxxUltima - The Ultimate Crack
