@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20151117T190000Z
+DTEND:20151117T220000Z
+SUMMARY:Gohanks - Retro For Sure
+DESCRIPTION:Some description... Ok, you know the drill - be here, chat with us on IRC and listen to my awful rambling and some great commodore music :)
+UID:1676@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20151119T190000Z
 DTEND:20151119T220000Z
 SUMMARY:KraxxUltima - The Ultimate Crack
