@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151127T190000Z
+DTEND:20151127T220000Z
+SUMMARY:Gurt - Radio Awesome
+DESCRIPTION:Radio Awesome is back for another week! Hooray! Enjoy live show Friday antics, make some requests, sooth yourself with some blathering, et cetera.
+UID:1680@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
