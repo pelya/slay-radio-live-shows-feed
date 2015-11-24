@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20151124T190000Z
-DTEND:20151124T220000Z
-SUMMARY:Gohanks - Retro For Sure
-DESCRIPTION:Join us again for some Commodore music and a chat about Maniac Mansion, only on this weeks Retro For Sure.
-UID:1678@slayradio.org
+DTSTART:20151126T190000Z
+DTEND:20151126T220000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Welcome back from the winter cold! (at least here it's snowy, slushy and daft weather) Let's have fun once again with your Commodore or Amiga type requests and my wierd nature of course.
+UID:1681@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
