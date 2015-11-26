@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20151126T190000Z
-DTEND:20151126T220000Z
-SUMMARY:KraxxUltima - The Ultimate Crack
-DESCRIPTION:Welcome back from the winter cold! (at least here it's snowy, slushy and daft weather) Let's have fun once again with your Commodore or Amiga type requests and my wierd nature of course.
-UID:1681@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20151127T190000Z
 DTEND:20151127T220000Z
 SUMMARY:Gurt - Radio Awesome
