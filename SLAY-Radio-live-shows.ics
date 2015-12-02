@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20151202T190000Z
-DTEND:20151202T220000Z
-SUMMARY:Boz - BBB
-DESCRIPTION:WELL IT'S ABOUT TIME! is probably something that none of you said; but nevertheless, it's time for Boz to utter complete bollocks in between your requests. All aboard the Train-Wreck, WOO WOOH!
-UID:1685@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20151203T190000Z
 DTEND:20151203T220000Z
 SUMMARY:KraxxUltima - The Ultimate Advent
@@ -45,6 +29,22 @@ DTEND:20151204T220000Z
 SUMMARY:Gurt - Radio Awesome
 DESCRIPTION:It's another show! Things happen! Music comes out! Woo!
 UID:1683@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151206T190000Z
+DTEND:20151206T220000Z
+SUMMARY:Gazoo - PMPVsC0d1l1ty
+DESCRIPTION:Yes, it is another odd show name.Who cares?Wait... You do? Well then bro-fist to the P3wd1ep1e army and why are you still reading this? Go listen when this show is on...
+UID:1686@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
