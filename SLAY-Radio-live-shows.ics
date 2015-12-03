@@ -8,10 +8,10 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20151203T190000Z
-DTEND:20151203T220000Z
+DTSTART:20151203T200000Z
+DTEND:20151203T230000Z
 SUMMARY:KraxxUltima - The Ultimate Advent
-DESCRIPTION:Advent? sure. It's almost x-mas time and all that hype again so why not?  Request music ,and it should be played as per usual, with a bit of small talk in between. And not too much singing. Winter is upon us!
+DESCRIPTION:It's almost x-mas time and all that hype again so why not?  Request Commodore/Amiga music ,and it should be played as per usual, with a bit of small talk in between. Have fun!edit.  Show starts one hour later than usual, at 21:00 USRT.  (real life sometimes gets in the way..)
 UID:1684@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
