@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151210T190000Z
+DTEND:20151210T220000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Wintertime is nice isn't it?  The snow ,the darkness and gluhwein or coffee while enjoying Commodore remixes. Tune in here for at least the music part.  Request away and we will hear it play!
+UID:1687@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
