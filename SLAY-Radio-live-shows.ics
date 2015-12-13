@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20151213T190000Z
+DTEND:20151213T220000Z
+SUMMARY:Gazoo - PMPVs2ndAdvent
+DESCRIPTION:I'm too busy to write a blurb. You write it.
+UID:1691@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20151215T190000Z
 DTEND:20151215T220000Z
 SUMMARY:Gohanks - Retro For Sure
@@ -24,11 +40,43 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20151220T190000Z
+DTEND:20151220T220000Z
+SUMMARY:Gazoo - PMPVs3rdAdvent
+DESCRIPTION:Omg, show announced more than a week in advance. No blurb thou.
+UID:1692@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20151225T190000Z
 DTEND:20151225T220000Z
 SUMMARY:Gurt - A Very Radio Awesome Christmas
 DESCRIPTION:Oi! Put down the plonk long enough to tune your radio receiver doodah in to SLAY Radio on Christmas night, because there's a show on! Due to popular demand, of course. Come join me in some last-minute Christmas music, maybe some Boxing Day music. Whatever that is. Frank McGuigan's Boxing SID or something.
 UID:1690@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160103T190000Z
+DTEND:20160103T220000Z
+SUMMARY:Gazoo - PMPVs2016
+DESCRIPTION:It's the future.
+UID:1693@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
