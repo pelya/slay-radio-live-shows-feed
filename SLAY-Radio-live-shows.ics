@@ -24,6 +24,22 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20151224T190000Z
+DTEND:20151224T220000Z
+SUMMARY:KraxxUltima - Little Christmas Show
+DESCRIPTION:Ahhh yes. It is that time again. Time to open those pesky little (or big) silly things given to us in different colored burnable wrappings. Or you can tune in here, and listen to a x-mas-like kinda show, requesting well anything you might like and we shall try to have them played :)Ho Ho Ho!
+UID:1694@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20151225T190000Z
 DTEND:20151225T220000Z
 SUMMARY:Gurt - A Very Radio Awesome Christmas
