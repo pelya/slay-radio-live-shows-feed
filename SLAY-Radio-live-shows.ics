@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20151223T190000Z
-DTEND:20151223T220000Z
-SUMMARY:Boz - BBB Proper Chrimbo Special
-DESCRIPTION:DO THEY KNOW IT'S GIANA SISTERS AT ALL? Ho ho ho, and welcome to the Christmas Edition of the BBB. Boz talks utter bollocks in between songs that have cynical stabs at the Christmas market. All aboard the Christmas Train-Wreck, WOO WOOH!
-UID:1695@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20151224T190000Z
 DTEND:20151224T220000Z
 SUMMARY:KraxxUltima - Little Christmas Show
