@@ -39,4 +39,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160107T190000Z
+DTEND:20160107T220000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Hello everybody! Hope ya'll have had a great loud banging and champagning, jolly swinging and also smashing fun New Years weekend :)  Let's start up the year 2016 with some Commodore remixes and requests, and generally have a good time.Cheers!
+UID:1697@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
