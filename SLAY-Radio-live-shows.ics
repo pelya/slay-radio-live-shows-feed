@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20151231T210000Z
+DTEND:20160101T000000Z
+SUMMARY:GurtyGurt 'n Gohanks - GGG New Year's special!
+DESCRIPTION:Join us for a new year's special with GurtyGurt and Gohanks! We'll either have some fun or start a dissaster like nothing ever registered in the history of man kind! Get some cracklers and fireworks, join us on IRC and listen to some goode muzak!
+UID:1696@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20160103T190000Z
 DTEND:20160103T220000Z
 SUMMARY:Gazoo - PMPVs2016
