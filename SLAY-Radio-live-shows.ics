@@ -24,6 +24,22 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20160102T190000Z
+DTEND:20160102T220000Z
+SUMMARY:Gohanks - Retro For Sure
+DESCRIPTION:Join us for a special show with a guest star - Uthar! Fresh into 2016, we'll do some reminiscing, see what's new on the Commodore scene and generally talk nonsence, while listening to some good choonz!
+UID:1698@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20160103T190000Z
 DTEND:20160103T220000Z
 SUMMARY:Gazoo - PMPVs2016
