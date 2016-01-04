@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20160106T190000Z
+DTEND:20160106T220000Z
+SUMMARY:Boz - BBB
+DESCRIPTION:It's the first BBB of 2016. Not that its something to celebrate because it's still pretty much just Boz talking complete bollocks in between your requests. All aboard the Train-Wreck, WOO WOOH!
+UID:1699@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20160107T190000Z
 DTEND:20160107T220000Z
 SUMMARY:KraxxUltima - The Ultimate Crack
