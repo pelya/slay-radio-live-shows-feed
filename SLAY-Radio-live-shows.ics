@@ -55,4 +55,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160109T190000Z
+DTEND:20160109T220000Z
+SUMMARY:Leoni and Boz - Saturday Silliness
+DESCRIPTION:It's been a while... but Leoni and Boz are back for a Saturday Silliness! All the usual shenanigans from Him and Her while we play your requests. SS - We Don't Need No Stinkin' Catchphrase!u2122
+UID:1701@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
