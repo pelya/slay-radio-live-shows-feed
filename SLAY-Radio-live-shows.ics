@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20160107T163000Z
+DTEND:20160107T193000Z
+SUMMARY:Burning Star - The Burning Farewell
+DESCRIPTION:All cycles must be closed at some point and it's The Burning Sensation's time for that. This will be my farewell show. Hope to you see you all there (or most of you!) for some laughs and ze muzik and what not! YARRRR! :D
+UID:1703@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20160107T190000Z
 DTEND:20160107T220000Z
 SUMMARY:KraxxUltima - The Ultimate Crack
