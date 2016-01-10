@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20160110T190000Z
-DTEND:20160110T220000Z
-SUMMARY:Gazoo - PMPVs2ManyDJs
-DESCRIPTION:The show title will hint at some of what I'll be talking about during the show.This blurb will unfortunately be far less informative.I apologize.
-UID:1702@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20160114T190000Z
 DTEND:20160114T220000Z
 SUMMARY:KraxxUltima - The Ultimate Crack
