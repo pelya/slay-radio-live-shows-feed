@@ -39,4 +39,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160115T190000Z
+DTEND:20160115T220000Z
+SUMMARY:Gurt - Radio Awesome
+DESCRIPTION:YES! MORE! I can't think of a good description as usual, it's the usual Friday night cruddle. Listen, join the chat, make requests, whatever takes your fancy!
+UID:1706@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
