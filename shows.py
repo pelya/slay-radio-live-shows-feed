@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1707","airdate":"1453057200","name_switch":"off","DJ":"Gazoo","showname":"PMPVsAGDQ","blurb":"Well well well. It's blurb time let's see what fun things I can come up with. Well... Uhh...\n\nDamn.\n\nTopics this week:\n\n- Awesome Games Done Quick (ADGQ)\n- That Dragon, Cancer - Forum 'rage\n- Other gaming related stuff","nice_showname":"<strong><big>Gazoo<\/big><\/strong><br \/>PMPVsAGDQ","nice_airdate":"Sunday 17th January, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
