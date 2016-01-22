@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20160122T190000Z
-DTEND:20160122T220000Z
-SUMMARY:Gurt - Radio Awesome
-DESCRIPTION:It's another show! It's the usual thing! Make some requests or something!
-UID:1709@slayradio.org
+DTSTART:20160124T190000Z
+DTEND:20160124T220000Z
+SUMMARY:Gazoo - PMPVsTBA
+DESCRIPTION:It's a show. I'll be there. Will you?We'll see.
+UID:1710@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
