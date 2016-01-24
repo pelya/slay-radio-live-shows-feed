@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"1711","airdate":"1453921200","name_switch":"off","DJ":"Boz","showname":"BBB","blurb":"Oh Noes! It's time for Boz to babble complete bollocks in between your requests. All aboard the Train-Wreck, WOO WOOH!","nice_showname":"<strong><big>Boz<\/big><\/strong><br \/>BBB","nice_airdate":"Wednesday 27th January, 2016<br \/>at 20:00 USRT"}]}
