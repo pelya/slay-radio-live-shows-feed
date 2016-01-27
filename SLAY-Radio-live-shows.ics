@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20160127T190000Z
-DTEND:20160127T220000Z
-SUMMARY:Boz - BBB
-DESCRIPTION:Oh Noes! It's time for Boz to babble complete bollocks in between your requests. All aboard the Train-Wreck, WOO WOOH!
-UID:1711@slayradio.org
+DTSTART:20160128T190000Z
+DTEND:20160128T220000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Hello everybody! Kraxx is back for what could be his last show before the rehab trip soon to be (tune in to hear more) ...Nevertheless ,request some remixes and tunes as per usual and they will shower our ears for awhile ;)
+UID:1713@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
