@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20160128T190000Z
-DTEND:20160128T220000Z
-SUMMARY:KraxxUltima - The Ultimate Crack
-DESCRIPTION:Hello everybody! Kraxx is back for what could be his last show before the rehab trip soon to be (tune in to hear more) ...Nevertheless ,request some remixes and tunes as per usual and they will shower our ears for awhile ;)
-UID:1713@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20160129T190000Z
 DTEND:20160129T220000Z
 SUMMARY:Gurt - Radio Awesome
