@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20160207T190000Z
-DTEND:20160207T220000Z
-SUMMARY:Gazoo - PMPVsFlatearthers
-DESCRIPTION:We'll be talking a bit about- Flatearthers- A recent flatearth convert- NFS: Most Wanted 2012- How integrated DLC is in that game- Other stuff, including that one topic you just have to hear omg - too hot for TV!How could these things not excite you?
-UID:1716@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20160209T190000Z
 DTEND:20160209T220000Z
 SUMMARY:Gohanks - Retro For Sure
