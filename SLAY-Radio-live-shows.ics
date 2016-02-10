@@ -24,6 +24,22 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20160216T190000Z
+DTEND:20160216T220000Z
+SUMMARY:Gohanks - Retro For Sure
+DESCRIPTION:What? This again? No plese someone tell me it's just a dream?! ... Sorry guys it's not a dream. Retro For Sure is back to torment you once more with the stories of old. What tale will this episode unfold? Find out and tune in! Only on SLAY Radio!
+UID:1722@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20160220T190000Z
 DTEND:20160220T220000Z
 SUMMARY:Reyn, Marcel, Slaygon and Boz - The ADSR Show
