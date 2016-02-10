@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160220T190000Z
+DTEND:20160220T220000Z
+SUMMARY:Reyn, Marcel, Slaygon and Boz - The ADSR Show
+DESCRIPTION:Oh no! Someone has let the animals out of the zoo again! Join Marcel,Slaygon and Boz at the Church of Reyn for another night of... well let's call it fun shall we? 
+UID:1720@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
