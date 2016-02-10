@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20160210T190000Z
-DTEND:20160210T220000Z
-SUMMARY:Boz - BBB
-DESCRIPTION:It's the Taint of the Week again, so it's time for Boz to utter complete bollocks in between your requests. All aboard the Train-Wreck, WOO WOOH!
-UID:1719@slayradio.org
+DTSTART:20160214T190000Z
+DTEND:20160214T220000Z
+SUMMARY:Gazoo - PMPVsGullability
+DESCRIPTION:Seems like last show got a bit extra crispy with truthers, earthers, mooners and you know whatev'z.A little more of that coming up this show, but it'll probably be a lot of various themes.I'm gullible enough to think that'll do for a blurb.
+UID:1721@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
