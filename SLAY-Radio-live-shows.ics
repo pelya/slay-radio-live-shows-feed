@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20160214T190000Z
-DTEND:20160214T220000Z
-SUMMARY:Gazoo - PMPVsGullability
-DESCRIPTION:Seems like last show got a bit extra crispy with truthers, earthers, mooners and you know whatev'z.A little more of that coming up this show, but it'll probably be a lot of various themes.I'm gullible enough to think that'll do for a blurb.
-UID:1721@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20160216T190000Z
 DTEND:20160216T220000Z
 SUMMARY:Gohanks - Retro For Sure
