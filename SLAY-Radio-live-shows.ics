@@ -24,6 +24,22 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20160221T190000Z
+DTEND:20160221T220000Z
+SUMMARY:Gazoo - PMPVsEmpathy
+DESCRIPTION:To-that day's-show- Steam refundin' for fun 'n profit- Alan Wake- Sarah Palin and the game changers- Kanye (yeezy) East and the Life of JebusJoin or don't. Nothing really matters anyway.
+UID:1725@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20160223T190000Z
 DTEND:20160223T220000Z
 SUMMARY:Gohanks - Retro For Sure
