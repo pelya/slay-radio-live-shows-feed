@@ -39,4 +39,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160226T190000Z
+DTEND:20160226T220000Z
+SUMMARY:Gurt - Radio Awesome
+DESCRIPTION:Friday showtime! After or during a hard day at work, find yourself a comfy chair, plonk yourself down in it, consume a soothing adult beverage and make some music requests!
+UID:1727@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
