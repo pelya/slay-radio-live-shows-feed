@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160228T190000Z
+DTEND:20160228T220000Z
+SUMMARY:Gazoo - PMPVsEntitlement
+DESCRIPTION:Last show we talked about the value of a game and its related sale price.I think that's an interesting conversation which I would like to continue with you, if you're so inclined. See you Sunday evening!
+UID:1728@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
