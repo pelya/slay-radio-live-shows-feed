@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1728","airdate":"1456686000","name_switch":"off","DJ":"Gazoo","showname":"PMPVsEntitlement","blurb":"Last show we talked about the value of a game and its related sale price.\n\nI think that's an interesting conversation which I would like to continue with you, if you're so inclined. See you Sunday evening!","nice_showname":"<strong><big>Gazoo<\/big><\/strong><br \/>PMPVsEntitlement","nice_airdate":"Sunday 28th February, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
