@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20160318T190000Z
-DTEND:20160318T220000Z
-SUMMARY:Gurt - Radio Awesome
-DESCRIPTION:(NB: Show may delay a week due to work commitments)  Time for more prattling and music! It's the usual stuff, in usual form, with the usual suspects! So come and request your usual - it's the right thing to do, right?
-UID:1732@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20160322T200000Z
 DTEND:20160322T230000Z
 SUMMARY:Gohanks - C64 SID Mix by LPChip
