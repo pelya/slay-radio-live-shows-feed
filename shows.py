@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1736","airdate":"1458932400","name_switch":"off","DJ":"Gurt","showname":"Radio Awesome","blurb":"It's Apparently! It's booked rather late, but it's on this week! Put on your pants (or don't, whatever rocks your boat) and enjoy some remixes, and make some requests because that would be right nice of you!","nice_showname":"<strong><big>Gurt<\/big><\/strong><br \/>Radio Awesome","nice_airdate":"Friday 25th March, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}

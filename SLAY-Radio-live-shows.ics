@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20160325T190000Z
-DTEND:20160325T220000Z
-SUMMARY:Gurt - Radio Awesome
-DESCRIPTION:It's Apparently! It's booked rather late, but it's on this week! Put on your pants (or don't, whatever rocks your boat) and enjoy some remixes, and make some requests because that would be right nice of you!
-UID:1736@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
