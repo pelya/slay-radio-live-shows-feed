@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20160417T180000Z
+DTEND:20160417T210000Z
+SUMMARY:Gazoo - PMPVsHiatus
+DESCRIPTION:Hey.Friend.Yeah, ok, acquaintance. I mean... Look. It's been a while, and I'm sorry for not calling. Or texting. But look, it was a good run, wasn't it? I mean - I held it together for about 3-4 months with a weekly show.At least... I think I held it together ok. Yeah, sometimes interests wane and other things come in-between.Such is the life of a celeb-c64-radio-show streamer man. Constantly battling down fans and beating off love-sick fans. If - btw - you see any, just let them know where and when to tune in.Anyway... Let's catch up. I'll do better. I promise. Ok? Ok.
+UID:1738@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
