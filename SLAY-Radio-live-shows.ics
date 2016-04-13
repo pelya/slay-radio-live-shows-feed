@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20160415T180000Z
+DTEND:20160415T210000Z
+SUMMARY:Gurt - Radio Awesome
+DESCRIPTION:Oh, it's that idiot again. Pish! But there's a show and that's good, right? Requests and stuff.
+UID:1741@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20160417T180000Z
 DTEND:20160417T210000Z
 SUMMARY:Gazoo - PMPVsHiatus
