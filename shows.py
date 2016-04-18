@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"1742","airdate":"1461175200","name_switch":"off","DJ":"Boz","showname":"BBB","blurb":"It's the Taint of the Week\u2122 again, so it's time -- HOPEFULLY -- for Boz to utter complete bollocks in between your requests. It's been a few weeks since he's been around too, so HOPEFULLY he'll be here this time! All aboard the Train-Wreck, WOO WOOH!","nice_showname":"<strong><big>Boz<\/big><\/strong><br \/>BBB","nice_airdate":"Wednesday 20th April, 2016<br \/>at 20:00 USRT"}]}
