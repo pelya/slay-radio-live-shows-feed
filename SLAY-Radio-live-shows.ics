@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20160424T180000Z
-DTEND:20160424T210000Z
-SUMMARY:Gazoo - PMPVsPMP2
-DESCRIPTION:I had hoped I could tease some stuff here and declare success, but despite a valiant effort PMP2 is still just beyond reach. I'll do my best tomorrow and see if I can manage, but I'm quite wary of using PMP2 without it being just tested a teeny tiny bit.Regardless - a show there will certainly be.
-UID:1744@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
