@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20160504T180000Z
+DTEND:20160504T210000Z
+SUMMARY:Boz - BBB
+DESCRIPTION:Boz is Back after yet another break for another show on the Taint of the Weeku2122. Request your favourite tunes and he'll play them in between his inconsistent bollocks. All aboard the Train-Wreck, WOO WOOH!
+UID:1748@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20160508T180000Z
 DTEND:20160508T210000Z
 SUMMARY:Gazoo - PMPVsEnigma
