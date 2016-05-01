@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20160501T180000Z
-DTEND:20160501T210000Z
-SUMMARY:Gazoo - PMPVsPMP2Again
-DESCRIPTION:Hey yall,I got so sad seeing all those !shows being triggered on EFnet #SlayRadio with the distressing response of 'No show is currently scheduled.', that I reached deep inside and clicked about 5 buttons and filled out a few forms, leading to the result you see here before you.A tremendously poor effort at engaging you as a listener by abusing the description of the show as a means of conveying how writing it came about.I guess you get what you pay for.
-UID:1745@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20160508T180000Z
 DTEND:20160508T210000Z
 SUMMARY:Gazoo - PMPVsEnigma
