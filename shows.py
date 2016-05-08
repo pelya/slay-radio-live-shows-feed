@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1747","airdate":"1462730400","name_switch":"off","DJ":"Gazoo","showname":"PMPVsEnigma","blurb":"Gohanks asked politely and I agreed to help him out - so you get the benefit of this little cooperative work!","nice_showname":"<strong><big>Gazoo<\/big><\/strong><br \/>PMPVsEnigma","nice_airdate":"Sunday 8th May, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
