@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20160515T190000Z
+DTEND:20160515T220000Z
+SUMMARY:Gazoo - PMPVsLateNite
+DESCRIPTION:This show is a bit later than usual. Perhaps even a bit later than the posted time, but I'll do my best to make it here by 21:00.Sorry if I don't quite make it!
+UID:1750@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
