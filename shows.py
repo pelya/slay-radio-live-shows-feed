@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1751","airdate":"1463594400","name_switch":"off","DJ":"Boz and Kate","showname":"BBB","blurb":"It's the Taint of the Week\u2122 again, so it's time for Boz to utter complete bollocks in between your requests. Thankfully, Kate will join in so that there's at least a LITTLE culture going on! All abord the Train-Wreck, WOO WOOH!","nice_showname":"<strong><big>Boz and Kate<\/big><\/strong><br \/>BBB","nice_airdate":"Wednesday 18th May, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
