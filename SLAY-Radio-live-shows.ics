@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20160522T180000Z
-DTEND:20160522T210000Z
-SUMMARY:Gazoo - PMPVsContinuousDevelopments
-DESCRIPTION:Yes indeed. It's that time of the week. I've been toiling and slaving behind the curtains in order to bring you only the very best in last-moment effort.Astound, at how I wait until the very last seconds prior to the show, before coming up with compelling content.Gasp, at how I look up basic facts which could easily been prepared in advance.And finally, shock at how I make light of it all, in a vain attempt to cover up my lack of professionalism.
-UID:1752@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20160529T180000Z
 DTEND:20160529T210000Z
 SUMMARY:Gazoo - PMPVsSanePlanningSensibleTomorrow
