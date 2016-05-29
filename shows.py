@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"1756","airdate":"1464804000","name_switch":"off","DJ":"Bozzy and the Bint","showname":"BBKB (Boz Bytes Kate's Bits)","blurb":"It's the Taint of the Week\u2122 again, so it's time for Boz to talk utter bollocks and Kate to counteract the bollockiness. Yes, we made that word up. All aboard the Train-Wreck, WOO WOOH!","nice_showname":"<strong><big>Bozzy and the Bint<\/big><\/strong><br \/>BBKB (Boz Bytes Kate's Bits)","nice_airdate":"Wednesday 1st June, 2016<br \/>at 20:00 USRT"}]}
