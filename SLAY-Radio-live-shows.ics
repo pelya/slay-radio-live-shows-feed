@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20160529T180000Z
-DTEND:20160529T210000Z
-SUMMARY:Gazoo - PMPVsSanePlanningSensibleTomorrow
-DESCRIPTION:What's this? Another show? Scheduled nearly a week in advance?Are you seeing things? Is this perhaps merely a database entry to make sure some piece of eletromatronic code works as intended?!It is. But rejoice. A show will result regardless!
-UID:1753@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
