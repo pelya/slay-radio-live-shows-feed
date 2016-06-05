@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20160605T180000Z
-DTEND:20160605T210000Z
-SUMMARY:Gazoo - PMPVsCurl
-DESCRIPTION:Well, well, well.It's the weekend again. Or rather - it will be. Now that the stakes are higher than ever (boz' favorite butcher joke not withstanding), I guess it's time I put something a little more elaborate in these blurbs.Possible Topics on Sunday might include:  - Online critique  - Online entitlement  - Super Mario Galaxy  - PMP Progress
-UID:1758@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
