@@ -39,4 +39,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160612T180000Z
+DTEND:20160612T210000Z
+SUMMARY:Gazoo - PMPVsGrievances
+DESCRIPTION:It's the weekend! Or rather - it will be. Chances you're reading this on the weekend are roughly 2/7 - but honestly, who's counting?I am. On you! To join me this Sunday and listen to me on my soapbox, c-64 remixes coming out of your speakerboxes, and perhaps one last jab at a former champ who used to box.Now that I've sufficiently run that tasteless box joke into the ground, how about we all just go about our business, good? Good.
+UID:1763@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
