@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20160619T180000Z
-DTEND:20160619T210000Z
-SUMMARY:Gazoo - PMPVsFeatures
-DESCRIPTION:Hey you,Yes. I am actually addressing you. Yes, yes, try to pretend for a brief moment that I'm not the text you're reading on your screen. Pretend instead that I'm an individual next to you, or at least some sort of fully realized automaton mimicking human behavior at a near uncanny valley level.I have cool things to tell you about this weeks show. The coolest being a new low-rant diet I'm introducing. I know ranting and raving is partially what people tune in for. But once in a while, it's good to only focus on positive and good things, and that will be the goal of this weeks show.That - AND all of the neat features on the horizon. So tune in, stick around, and have some fun with me and the gang!
-UID:1766@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
