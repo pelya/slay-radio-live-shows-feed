@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160626T180000Z
+DTEND:20160626T210000Z
+SUMMARY:Gazoo - PMPVsWeirdDreams
+DESCRIPTION:Let us immediately get down to brass tacks:Weird Dreams.Weird Dreams is a video game released for the Amiga in 1989, and for the Commodore-64 in 1990.It is not a good game.In a past show, I made mention of how there are numerous past examples of strange abnormal games making it through (what is often described as) the dream-crushing clutches of the publishers.Weird Dreams is a perfect example of this, and it is - in my opinion - a game that perhaps had been better off not making it to market. Then again, variety is the spice of life and I know there are individuals who remember this game fondly.Join my Sunday evening as I do my utmost to throw a wet blanket all over those bright-eyed memories. Especially, if it's only to tell me that I've got it all wrong!
+UID:1769@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
