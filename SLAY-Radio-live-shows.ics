@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20160707T180000Z
-DTEND:20160707T210000Z
-SUMMARY:KraxxUltima - The Unpacked Crack
-DESCRIPTION:Hello everybody! Finally back home and ready for another season of cracked shows and fun.These 4 months have slowly but steadily passed since my last show back in spring. I am happy to be back in action.  So, request C64/Amiga tunes ,both originals and remixes. It works nicely either way. And remember to have fun above all else =)Oh ,and if i'm lucky with deliveries i'll have a new mixer soon too. 
-UID:1772@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
