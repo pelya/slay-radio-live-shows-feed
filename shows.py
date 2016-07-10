@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1774","airdate":"1468173600","name_switch":"off","DJ":"Gazoo","showname":"PMPVsApologeticDisclosures","blurb":"It's a show.\n\nTopics:\n\n- Disclosures\n- Apologizing","nice_showname":"<strong><big>Gazoo<\/big><\/strong><br \/>PMPVsApologeticDisclosures","nice_airdate":"Sunday 10th July, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
