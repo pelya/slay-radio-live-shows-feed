@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"1775","airdate":"1468432800","name_switch":"off","DJ":"Bozzy and the Bint","showname":"BBKB","blurb":"It's the Taint of the Week\u2122 again, so it's time for Boz to talk incessant bollocks in between your requests. Luckily, Kate is around to translate some of it for you. All aboard the Train-Wreck, WOO WOOH!","nice_showname":"<strong><big>Bozzy and the Bint<\/big><\/strong><br \/>BBKB","nice_airdate":"Wednesday 13th July, 2016<br \/>at 20:00 USRT"}]}

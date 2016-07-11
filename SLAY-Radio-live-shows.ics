@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20160713T180000Z
+DTEND:20160713T210000Z
+SUMMARY:Bozzy and the Bint - BBKB
+DESCRIPTION:It's the Taint of the Weeku2122 again, so it's time for Boz to talk incessant bollocks in between your requests. Luckily, Kate is around to translate some of it for you. All aboard the Train-Wreck, WOO WOOH!
+UID:1775@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
