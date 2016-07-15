@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20160717T180000Z
+DTEND:20160717T210000Z
+SUMMARY:Gazoo - PMPVsTeaser
+DESCRIPTION:I came, I saw, I conquered the long lasting bug that had been plaguing the 'start of' show times on this site. The keen observer may have noticed that some of the start times just didn't seem to mesh with reality.Well fear not my number concerned companion. The nasty non-accurate numbers are no more!In other news I hunkered down this week and cut a teaser/promo for PlanMixPlay. I'll talk a bit about it, but I'll also be sure to try my best to have something better to talk about. Like how not to lead your younger fans to a life of gambling. That one's pretty easy, but it seems worth at least mentioning.Seriously though I'll see what I can do to come up with something fascinating to say on Sunday.
+UID:1777@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
