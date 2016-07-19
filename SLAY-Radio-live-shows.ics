@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160721T180000Z
+DTEND:20160721T210000Z
+SUMMARY:KraxxUltima - The Ultrasonic Crack
+DESCRIPTION:Once again Kraxx is back into the fray ,Cannons ready and Damn the torpedoes!Request Commodore 64 or Amiga tunes of your choosing ,while this guy speaks though the mixer once and then.Happy tunage ,and keep yer boats afloat =)
+UID:1779@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
