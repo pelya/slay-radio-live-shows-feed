@@ -39,4 +39,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160724T180000Z
+DTEND:20160724T210000Z
+SUMMARY:Gazoo - PMPVsTBA2
+DESCRIPTION:Good day to you internet person.Right off the bat, yes the PMPVsTBA is/was/continues to be a previously made amusing gag. But it fits the bill in terms of pre-preemptively announcing something you're perhaps not entirely ready to announce.One thing is for certain however. There will be a show this Sunday and we'll be talking about some things. Important things?What things you say? Errr... Don't ask, don't tell?See you Sunday!
+UID:1780@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
