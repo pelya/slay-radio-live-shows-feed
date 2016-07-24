@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"1781","airdate":"1469642400","name_switch":"off","DJ":"Boz","showname":"BBB","blurb":"It's the Taint of the Week\u2122 again and Boz is flying solo this time around. Tune in and listen to your requests while he flails around talking utter bollocks. All aboard the Train-Wreck, WOO WOOH!","nice_showname":"<strong><big>Boz<\/big><\/strong><br \/>BBB","nice_airdate":"Wednesday 27th July, 2016<br \/>at 20:00 USRT"}]}
