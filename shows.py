@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1783","airdate":"1469815200","name_switch":"off","DJ":"Gurt","showname":"Radio Awesome","blurb":"Shoooooooooow!","nice_showname":"<strong><big>Gurt<\/big><\/strong><br \/>Radio Awesome","nice_airdate":"Friday 29th July, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
