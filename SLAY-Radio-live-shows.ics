@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20160731T180000Z
+DTEND:20160731T210000Z
+SUMMARY:Gazoo - PMPVsTheGathering
+DESCRIPTION:Given how close we are to the 'main' event, it seemed prudent to build upon that.What else will occur during the show? Who knows! Tune in and find out!
+UID:1784@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"1784","airdate":"1469988000","name_switch":"off","DJ":"Gazoo","showname":"PMPVsTheGathering","blurb":"Given how close we are to the 'main' event, it seemed prudent to build upon that.\n\nWhat else will occur during the show? Who knows! Tune in and find out!","nice_showname":"<strong><big>Gazoo<\/big><\/strong><br \/>PMPVsTheGathering","nice_airdate":"Sunday 31st July, 2016<br \/>at 20:00 USRT"}]}
