@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20160804T180000Z
-DTEND:20160804T210000Z
-SUMMARY:KraxxUltima - Tracks with Cracks
-DESCRIPTION:Well ,summer has entered it's later weeks so it's getting darker and colder at night by each day.    Another show ,another showname (lol) So, tune in and request some C64 or Amiga tunes to keep warm =)
-UID:1786@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR

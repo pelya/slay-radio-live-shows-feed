@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1786","airdate":"1470333600","name_switch":"off","DJ":"KraxxUltima","showname":"Tracks with Cracks","blurb":"Well ,summer has entered it's later weeks so it's getting darker and colder at night by each day.    \n\nAnother show ,another showname (lol) So, tune in and request some C64 or Amiga tunes to keep warm =)\n","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Tracks with Cracks","nice_airdate":"Thursday 4th August, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
