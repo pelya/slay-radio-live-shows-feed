@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20160814T180000Z
+DTEND:20160814T210000Z
+SUMMARY:Gazoo - PMPVsThePostGathering
+DESCRIPTION:Back from the quite predictable one-week hiatus, I've got quite the talky show in store because there's quite a bit to speak about.So let's see what's on tonight's menu:- The Gathering (obviously)- No Man's Sky (less about the game, more about the politics)- PlanMixPlay future show(s)- FutureHopefully I'll see you there. Who knows, given the lengthy script I've written we might go a little bit over the std. 2 hour broadcast.
+UID:1788@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
