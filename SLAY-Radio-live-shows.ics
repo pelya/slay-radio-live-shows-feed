@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20160813T190000Z
+DTEND:20160813T220000Z
+SUMMARY:KraxxUltima - The minor Impromptu !
+DESCRIPTION:After a fine calzone , Kraxx had an idea ...why not try a liveshow to conpensate for the one lost this week.  Request C64 or Amiga tunes for the occasion. And have fun in this August warmth  =)
+UID:1789@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20160814T180000Z
 DTEND:20160814T210000Z
 SUMMARY:Gazoo - PMPVsThePostGathering
