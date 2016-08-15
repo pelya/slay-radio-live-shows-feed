@@ -24,6 +24,22 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20160818T180000Z
+DTEND:20160818T210000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:It's getting darker and colder, and all the more am i happy about it. How about you?  Well, there's always time for more musical madness. Tune in here and let's get warm with your Commodore-type requests =)
+UID:1792@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20160819T180000Z
 DTEND:20160819T210000Z
 SUMMARY:Gurt - Radio Awesome
