@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20160821T180000Z
-DTEND:20160821T210000Z
-SUMMARY:Gazoo - PMPVsCriticism
-DESCRIPTION:The next-to-last show, straight from the heart of Hamburg to your ear-drums. So what's planned for this stellar show you might ask? Well rumor has it that PMP might finally get that live audio load feature that's been talked to much about.But let's not set our expectations too high. Here's Sunday's kosher menu:- Criticism on a grand scale- Effects on the wider world- Are we all doomed?Hey twobulls :)
-UID:1793@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
