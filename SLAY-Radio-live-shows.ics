@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160828T180000Z
+DTEND:20160828T210000Z
+SUMMARY:Gazoo - PMPVsGermany
+DESCRIPTION:Given that this will, for foreseeable future, be my very last show in Germany - it feels fitting to entitle it so. But the topic's of the show will actually revolve quite little around my migratory move. There are far more interesting topics on the horizon if you ask me.Well... Maybe I'll talk a tiny bit about moving.Topics for tonight:- The end of Gawker and associated media/journalistic/stuff- Penny Auctions (are the tool of the devil)- Migrating/Moving 20,000 km- Possibly an amazingly unique and new feature in PlanMixPlayStay Frosty!
+UID:1795@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
