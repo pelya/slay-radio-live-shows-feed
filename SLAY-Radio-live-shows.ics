@@ -24,6 +24,22 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20160825T180000Z
+DTEND:20160825T210000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Welcome back to yet another of those things eh. If you have the need for more C64 and Amiga tunes played whilst our madman (the DJ) tries to entertain you during the dying summer days, then tune in =)  and have fun.
+UID:1796@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20160828T180000Z
 DTEND:20160828T210000Z
 SUMMARY:Gazoo - PMPVsGermany
