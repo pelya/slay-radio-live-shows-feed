@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160901T180000Z
+DTEND:20160901T210000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Heya folks!  It's another week, and autumn cracks its grin, and another showtime is afoot.  Request your favourite tunes ,be it C64, Amiga remixes or original that can be played and it shall happen =)   Tune in and have fun!
+UID:1798@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
