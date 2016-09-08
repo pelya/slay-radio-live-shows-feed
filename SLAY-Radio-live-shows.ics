@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20160908T180000Z
-DTEND:20160908T210000Z
-SUMMARY:KraxxUltima - The Ultimate Crack
-DESCRIPTION:Welcome to another circus of sounding from the fellow up north. Request your favourite tunes ,be it C64, Amiga remixes or original that can be played and it shall happen =)   Tune in and have fun!edit. POSTPONED until 8th of September, (because of lack of sleep) . Sorry about that  :/
-UID:1798@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20160911T103000Z
 DTEND:20160911T133000Z
 SUMMARY:Gazoo - PMPVsAdelaide
