@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20160911T103000Z
-DTEND:20160911T133000Z
-SUMMARY:Gazoo - PMPVsAdelaide
-DESCRIPTION:After a brief hiatus, PMPVsThing is back in full force. I probably should check whether or not my microphone survived the trip across the planet, but sometimes surprises can be fun!What'll be on the agenda? Well - perhaps a little bit about how different Australia is to Europe and perhaps also just a little bit about the C-64 as well.As you can probably already tell, it'll be a bit of a hap-hazard spontaneous show. So same as usual!
-UID:1800@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
