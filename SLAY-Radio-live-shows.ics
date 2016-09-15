@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20160915T180000Z
-DTEND:20160915T210000Z
-SUMMARY:KraxxUltima - The Uncracked Track
-DESCRIPTION:Another week means more tracks. So tune in and make your requests for Commodore music and similar audio bliss.   Let's have a good time to enhance the week =)
-UID:1801@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20160916T180000Z
 DTEND:20160916T210000Z
 SUMMARY:Gurt - Radio Awesome
