@@ -55,4 +55,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160925T103000Z
+DTEND:20160925T133000Z
+SUMMARY:Gazoo - PMPVsMusitec
+DESCRIPTION:Hello fellow internet dweller,Yes - there's been a little bit of a hiatus, and there's bound to continue to be one or two more as I get settled here on the other side of the planet, but those are the breaks. I trust you will excuse the somewhat messy transition, as long as there's a show or two to hold you over.Speaking of hold over shows - this would be one of those. There's no current agenda as such, but if I manage I'll be sure to squeeze in the time to write up a script. No promises though.Hope to see you on Sunday!
+UID:1806@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
