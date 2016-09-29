@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1808","airdate":"1475172000","name_switch":"off","DJ":"KraxxUltima","showname":"Trax with Krax","blurb":"It's not a new showname. My sanity is just temporary i assure you :)   Anyway , enjoy some musical madness with your Commodore requests flowing in and embracing our Thursday night as it was meant to be.","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Trax with Krax","nice_airdate":"Thursday 29th September, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
