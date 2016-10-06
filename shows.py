@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1810","airdate":"1475776800","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax","blurb":"Yea the show names are getting lamer by the hour ,but what the hell it's October and the season for weirdness anyway :)  Tune in and make yer Commodore requests as usual ,and have fun!","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax","nice_airdate":"Thursday 6th October, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
