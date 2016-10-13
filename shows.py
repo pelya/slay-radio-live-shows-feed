@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1812","airdate":"1476381600","name_switch":"off","DJ":"KraxxUltima","showname":"Trax with Krax","blurb":"Hello and welcome to yet again another Thursday night musical madness show. As usual ,Commodore requests are very much welcome, and we shall all have a good time longing for the upcoming Halloween times, and this weekend =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Trax with Krax","nice_airdate":"Thursday 13th October, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}

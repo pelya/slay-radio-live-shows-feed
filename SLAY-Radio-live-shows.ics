@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20161013T180000Z
-DTEND:20161013T210000Z
-SUMMARY:KraxxUltima - Trax with Krax
-DESCRIPTION:Hello and welcome to yet again another Thursday night musical madness show. As usual ,Commodore requests are very much welcome, and we shall all have a good time longing for the upcoming Halloween times, and this weekend =)
-UID:1812@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
