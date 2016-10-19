@@ -24,6 +24,22 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20161020T180000Z
+DTEND:20161020T210000Z
+SUMMARY:KraxxUltima - Trax with Krax
+DESCRIPTION:Your swedish archnut is once again on air ,doing the things one would expect this time of year...being silly and playing Commodore tunes requested by you and/or aliens from Mars or elsewhere.  Tune in and prepare for Halloween times =)
+UID:1815@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20161021T180000Z
 DTEND:20161021T210000Z
 SUMMARY:Gurt - Radio Awesome
