@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T180000Z
+DTEND:20161021T210000Z
+SUMMARY:Gurt - Radio Awesome
+DESCRIPTION:Shooooooooooooow! The regular music, requests and jabbering about whatever the hell happened to me in Japan and didn't stay in Japan (especially the Commodore-relevant).
+UID:1814@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
