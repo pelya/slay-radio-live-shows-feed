@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1814","airdate":"1477072800","name_switch":"off","DJ":"Gurt","showname":"Radio Awesome","blurb":"Shooooooooooooow! The regular music, requests and jabbering about whatever the hell happened to me in Japan and didn't stay in Japan (especially the Commodore-relevant).","nice_showname":"<strong><big>Gurt<\/big><\/strong><br \/>Radio Awesome","nice_airdate":"Friday 21st October, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
