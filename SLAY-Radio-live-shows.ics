@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20161027T093000Z
-DTEND:20161027T123000Z
-SUMMARY:Gazoo - PMPVsDeployment
-DESCRIPTION:It's an inbetween show, just so you don't completely forget about me and PMP.Yes that's right. I can't promise that things will go absolutely flawless, but I'll see if I can't at  least make things tolerable.Some news, some c64 music, and lots of jabber from yours truly.
-UID:1818@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20161027T180000Z
 DTEND:20161027T210000Z
 SUMMARY:KraxxUltima - Trax with Krax
