@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1821","airdate":"1478199600","name_switch":"off","DJ":"KraxxUltima","showname":"The Ultimate Crack","blurb":"The archnut from up north is here again, doing what he does best ..gibberish. Nah rather playing fine Commodore tunes requests from you. Tune in and have fun =) ","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>The Ultimate Crack","nice_airdate":"Thursday 3rd November, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
