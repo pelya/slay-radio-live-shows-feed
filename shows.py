@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1825","airdate":"1479582000","name_switch":"off","DJ":"KraxxUltima","showname":"The Minor Impromptu","blurb":"Seems the only time possible for a show this week, so there we are =)   Request yer Commodore stuff like always , and have some Saturday night fun!","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>The Minor Impromptu","nice_airdate":"Saturday 19th November, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
