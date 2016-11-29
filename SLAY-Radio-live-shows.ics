@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161201T190000Z
+DTEND:20161201T220000Z
+SUMMARY:KraxxUltima - Krax plays Trax
+DESCRIPTION:Heya all and welcome to the first December show it seems. Let's keep warm with some good old Commodore tunes! And new ones. So tune in and request away =)
+UID:1829@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
