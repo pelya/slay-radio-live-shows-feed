@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1829","airdate":"1480618800","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax","blurb":"Heya all and welcome to the first December show it seems. Let's keep warm with some good old Commodore tunes! And new ones. So tune in and request away =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax","nice_airdate":"Thursday 1st December, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
