@@ -39,4 +39,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161208T190000Z
+DTEND:20161208T220000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Yo ho ho! It's that time of the week again , weekend closing in and also x-mas holidays fast approaching. But we always have the music, so tune in and request some Commodore tunes to keep warm :)
+UID:1832@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
