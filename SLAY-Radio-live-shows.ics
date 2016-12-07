@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20161207T100000Z
-DTEND:20161207T130000Z
-SUMMARY:Gazoo - PMPVsReverseChristmas
-DESCRIPTION:It's been a month long hiatus and the time has come to get things moving again here at PlanMixPlay HQ - now located in the city of Melbourne. The world has both changed a lot and barely changed at all. But platitudes aside, here we (You and I) are still focusing on all things C-64.I think it's safe to say that the following items will likely be on the upcoming show:- C-64 Music- Recent PlanMixPlay Developments- C-64 Music- Relocation to Melbourne- C-64 MusicI hope to see you for the official inaugural show. Bare with me if there are any technical difficulties. This will be the first time I do a show from this location/connection/setup etc.
-UID:1831@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20161207T190000Z
 DTEND:20161207T220000Z
 SUMMARY:Bozzy and the Bint - BBKB
