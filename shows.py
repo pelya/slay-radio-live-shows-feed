@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1832","airdate":"1481223600","name_switch":"off","DJ":"KraxxUltima","showname":"The Ultimate Crack","blurb":"Yo ho ho! It's that time of the week again , weekend closing in and also x-mas holidays fast approaching. But we always have the music, so tune in and request some Commodore tunes to keep warm :)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>The Ultimate Crack","nice_airdate":"Thursday 8th December, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
