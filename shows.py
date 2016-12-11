@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"1833","airdate":"1481569200","name_switch":"on","DJ":"Ziona","showname":"The 2016 X-perience","blurb":"Join ziona when she visits X-2016 and interviews a whole bunch of the visitors!\n\nIf you missed X, here's a chance to catch up a bit!","nice_showname":"<strong>The 2016 X-perience<\/strong> with Ziona","nice_airdate":"Monday 12th December, 2016<br \/>at 20:00 USRT"}]}
