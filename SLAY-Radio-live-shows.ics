@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20161214T190000Z
-DTEND:20161214T220000Z
-SUMMARY:Bozzy and the Bint - BBKB
-DESCRIPTION:It's a Christmas Taint of the Weeku2122, so Boz is going to talk utter bollocks in between your requests. Thankfully, Kate is here to translate some of it into English. It's our Christmas Special as well, with 11 days still to go! All aboard the Train-Wreck, WOO WOOH!
-UID:1834@slayradio.org
+DTSTART:20161215T190000Z
+DTEND:20161215T220000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Well X-mas time again. Happens every year so none can be done about that, except listening to radio liveshows and humoring the madman doing Thursday night action. Request some C64/Amiga tunes and have fun!
+UID:1835@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
