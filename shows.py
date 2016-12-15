@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1835","airdate":"1481828400","name_switch":"off","DJ":"KraxxUltima","showname":"The Ultimate Crack","blurb":"Well X-mas time again. Happens every year so none can be done about that, except listening to radio liveshows and humoring the madman doing Thursday night action. Request some C64\/Amiga tunes and have fun!","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>The Ultimate Crack","nice_airdate":"Thursday 15th December, 2016<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}

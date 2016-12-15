@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20161215T190000Z
-DTEND:20161215T220000Z
-SUMMARY:KraxxUltima - The Ultimate Crack
-DESCRIPTION:Well X-mas time again. Happens every year so none can be done about that, except listening to radio liveshows and humoring the madman doing Thursday night action. Request some C64/Amiga tunes and have fun!
-UID:1835@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
