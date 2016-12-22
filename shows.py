@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1836","airdate":"1482436800","name_switch":"off","DJ":"KraxxUltima","showname":"Impromptu Pre-Xmas Show","blurb":"Let's have a cozy time just 2 days before the holidays ,so tune in and request me some Commodore tunes. Pour up yourselves some champagne or gluhwein =)\n\nStarting one hour later than usual ,so we'll be going until midnight.","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Impromptu Pre-Xmas Show","nice_airdate":"Thursday 22nd December, 2016<br \/>at 21:00 USRT"}]}
+{"error":0,"message":"","data":[]}

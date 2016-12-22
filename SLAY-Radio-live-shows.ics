@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20161222T200000Z
-DTEND:20161222T230000Z
-SUMMARY:KraxxUltima - Impromptu Pre-Xmas Show
-DESCRIPTION:Let's have a cozy time just 2 days before the holidays ,so tune in and request me some Commodore tunes. Pour up yourselves some champagne or gluhwein =)Starting one hour later than usual ,so we'll be going until midnight.
-UID:1836@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
