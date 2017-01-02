@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"1838","airdate":"1483556400","name_switch":"off","DJ":"Bozzy and the Bint","showname":"BBKB","blurb":"It's the Taint of the Week\u2122 and it's also the first show of 2017 for Boz and Kate! Boz does his usual routine of talking utter bollocks and Kate tries to translate it into English. All aboard the Train-Wreck, WOO WOOH!","nice_showname":"<strong><big>Bozzy and the Bint<\/big><\/strong><br \/>BBKB","nice_airdate":"Wednesday 4th January, 2017<br \/>at 20:00 USRT"}]}
