@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1839","airdate":"1483642800","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax","blurb":"New year means new stuff to do and more snow to plough though..oh not only will there be snow ,but also a Show! So, request some Commodore tunes ,get yer favorite leftover drinks and have fun ^_^","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax","nice_airdate":"Thursday 5th January, 2017<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
