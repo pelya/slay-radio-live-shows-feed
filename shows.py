@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"1840","airdate":"1484247600","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax","blurb":"Welcome to another Thursday outing. Request me some C64\/Amiga tunes, and let's have a fun evening =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax","nice_airdate":"Thursday 12th January, 2017<br \/>at 20:00 USRT"}]}
