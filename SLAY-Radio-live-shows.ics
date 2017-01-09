@@ -24,11 +24,43 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20170111T190000Z
+DTEND:20170111T220000Z
+SUMMARY:Bozzy and the Bint - BBKB
+DESCRIPTION:It's the Taint of the Weeku2122 again, so it's time for Boz to talk utter bollocks in between your requests. Thankfully, Kate is here to translate some of it into English for you. All aboard the Train-Wreck, WOO WOOH!
+UID:1842@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20170112T190000Z
 DTEND:20170112T220000Z
 SUMMARY:KraxxUltima - Krax plays Trax
 DESCRIPTION:Welcome to another Thursday outing. Request me some C64/Amiga tunes, and let's have a fun evening =)
 UID:1840@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170115T090000Z
+DTEND:20170115T120000Z
+SUMMARY:Gazoo - PMPVsWhyDonTIHaveATempate
+DESCRIPTION:C-64 Music, New Years stuff, PlanMixPlay, Revolution X
+UID:1843@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
