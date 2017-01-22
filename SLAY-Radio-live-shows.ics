@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170122T090000Z
-DTEND:20170122T120000Z
-SUMMARY:Gazoo - PMPVsYouTubeCareers
-DESCRIPTION:Hello you lovely individual,It's time for another show, and this time we'll be delving back again into my mind regarding YouTube, and the growing trend of youths throwing their caution (and future) to the wind and opting to become full-time YouTubers.Smart? Dumb? Wise? Insane?Some of these questions will be answered!And as always, a plethora of Commodore 64 classics.Be there and be square!
-UID:1850@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170124T190000Z
 DTEND:20170124T220000Z
 SUMMARY:ziona - The first Free-flow Show
