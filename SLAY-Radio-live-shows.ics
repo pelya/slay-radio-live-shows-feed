@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170124T190000Z
-DTEND:20170124T220000Z
-SUMMARY:ziona - The first Free-flow Show
-DESCRIPTION:Hello Dear Slay-People! Another show coming up, but this time without any concept, so feel free to ask any request, what belongs to C64, Amiga-or general demoscene! Join the fun and figure out, how much I can talk to you (and myself) on-the-flow ;) Cheers!
-UID:1851@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170125T190000Z
 DTEND:20170125T220000Z
 SUMMARY:Bozzy and the Bint - BBKB
