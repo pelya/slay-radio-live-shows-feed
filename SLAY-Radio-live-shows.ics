@@ -39,4 +39,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170129T090000Z
+DTEND:20170129T120000Z
+SUMMARY:Gazoo - PMPVsMisc
+DESCRIPTION:It's been a very busy few weeks, so the planned script for this weeks show is even more meager than usual, but hey - c-64 tunez are never in short supply.I will talk a little bit about:- Ori and the blind forest- The Walking Dead- Stuff
+UID:1854@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
