@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1854","airdate":"1485680400","name_switch":"off","DJ":"Gazoo","showname":"PMPVsMisc","blurb":"It's been a very busy few weeks, so the planned script for this weeks show is even more meager than usual, but hey - c-64 tunez are never in short supply.\n\nI will talk a little bit about:\n- Ori and the blind forest\n- The Walking Dead\n- Stuff","nice_showname":"<strong><big>Gazoo<\/big><\/strong><br \/>PMPVsMisc","nice_airdate":"Sunday 29th January, 2017<br \/>at 10:00 USRT"}]}
+{"error":0,"message":"","data":[]}
