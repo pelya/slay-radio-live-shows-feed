@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170131T190000Z
-DTEND:20170131T220000Z
-SUMMARY:ziona - Your requests mixed with special desserts
-DESCRIPTION:Hey Everyone! Amongst your usual requests, this evening we gonna put to our plate some special tunes, what most of you probably didn't hear yet, including some snacks from Matt Gray's Reformation Kickstarter project, or tasty pieces of Symphony64! And - as always - we also add a little bit of demoscene stuff as a flavour. Stay tuned! :) 
-UID:1855@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170201T190000Z
 DTEND:20170201T220000Z
 SUMMARY:Bozzy and the Bint - BBKB
