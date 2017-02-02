@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20170202T190000Z
-DTEND:20170202T220000Z
-SUMMARY:KraxxUltima - The Uncracked Tracks
-DESCRIPTION:New showname mayhaps ,yet more uplifting trax for us to enjoy, while taking on your Commodore requests as usual =) Have fun!
-UID:1857@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
