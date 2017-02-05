@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20170205T090000Z
-DTEND:20170205T120000Z
-SUMMARY:Gazoo - PMPVsVisuals
-DESCRIPTION:Hello dear internet person,Hopefully you've had a solid weekend and am here to top it off with a delicious helping of C-64 tunes. In which case I've got you covered like apples on an apple-tree.What? Topics, you say? Well... Uhm...- Visuals.- Arcade Games.- Random stuff.See you there and see you be square!
-UID:1858@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
