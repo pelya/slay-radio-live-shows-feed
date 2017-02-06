@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"1859","airdate":"1486494000","name_switch":"off","DJ":"ziona","showname":"A little boost of energy","blurb":"You know what? Let's play some kick-ass uplifting energetic tunes this week, no matter if it is rocky\/metal\/dancy\/trancy -  request your favourites of those! Party mood on! :)","nice_showname":"<strong><big>ziona<\/big><\/strong><br \/>A little boost of energy","nice_airdate":"Tuesday 7th February, 2017<br \/>at 20:00 USRT"}]}

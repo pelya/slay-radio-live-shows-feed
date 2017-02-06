@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20170207T190000Z
+DTEND:20170207T220000Z
+SUMMARY:ziona - A little boost of energy
+DESCRIPTION:You know what? Let's play some kick-ass uplifting energetic tunes this week, no matter if it is rocky/metal/dancy/trancy -  request your favourites of those! Party mood on! :)
+UID:1859@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
