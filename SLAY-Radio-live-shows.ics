@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170219T090000Z
+DTEND:20170219T120000Z
+SUMMARY:Gazoo - PMPVsDoubleFeature
+DESCRIPTION:Hey fellow human,Let's think about what topics we can put into this show... Well, since this show is being announced, way, way, waaaay, in advance (which is quite uncommon for PMP shows as you may know), there isn't going to be much in the way of predictions for topics. I do have one single thing I'll throw in there:- Multi-player only games that have no player base within... months?- Feature 1- Feature 2I dare not put more stuff in here in regards to feature 1 and 2, as deadlines have a habit of never really working out. But let's see we go this time.See you at the show!
+UID:1860@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
