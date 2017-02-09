@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170209T190000Z
-DTEND:20170209T220000Z
-SUMMARY:KraxxUltima - Krax plays Trax
-DESCRIPTION:Once more we steer this unsinkable ship steadily over the waveforms of the great Commodore ocean. Tune in and request your favorites =)  Have fun!
-UID:1863@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170210T190000Z
 DTEND:20170210T220000Z
 SUMMARY:Gurt - Radio Awesome
