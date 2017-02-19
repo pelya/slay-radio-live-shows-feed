@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170219T190000Z
-DTEND:20170219T220000Z
-SUMMARY:Remix64.com - Remixer of the Year Awards 2016
-DESCRIPTION:The time has come to celebrate and acknowledge the remixers' work in the C64 community by presenting the yearly ROTY Awards, as voted by the users at www.rexmi64.com. This year it's SLAY Radio's turn to give out the awards and give you a run-down of what happened in 2016.
-UID:1861@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170221T190000Z
 DTEND:20170221T220000Z
 SUMMARY:ziona - Comeback Tuesday
