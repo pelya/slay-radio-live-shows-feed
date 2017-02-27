@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170226T090000Z
-DTEND:20170226T120000Z
-SUMMARY:Gazoo - PMPVsDeadlines
-DESCRIPTION:A rule of thumb in software engineering is that any estimate on development can safely be multiplied by about three. I would say the past few weeks with PlanMixPlay certainly add more to the proof pile for this rule of thumb. I've had some features in mind that have seemingly been on the way for ages now. While every show inches closer, I still don't dare to guarantee anything this time around.So instead of me meandering on about what may or may not happen, here are some sure definites:- C64 Remixes- Banter/RanterJoin me for perhaps what will or will not be a very notable episode. I can say this for certain, it will definitely be a show!
-UID:1868@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170301T190000Z
 DTEND:20170301T220000Z
 SUMMARY:Bozzy and the Bint - BBKB
