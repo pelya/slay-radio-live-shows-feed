@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170228T190000Z
-DTEND:20170228T220000Z
-SUMMARY:ziona - The If-it-works Show :) 
-DESCRIPTION:My soundcard had a near-death experience, but it works again - I wouldn't say it is 100% stable, so in a very few weeks time it has to go to service. Until that time, if dear Scarlett is cooperating with me, I'll try do my best to entertain you with our common beloved earworms!ANYWAY, cross your fingers for Scarlett, so she can serve us well (hopefully not depending on her mood)! :)
-UID:1872@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170301T190000Z
 DTEND:20170301T220000Z
 SUMMARY:Bozzy and the Bint - BBKB
