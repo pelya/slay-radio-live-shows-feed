@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170305T090000Z
+DTEND:20170305T120000Z
+SUMMARY:Gazoo - PMPVsFutures
+DESCRIPTION:We're through the looking glass here people. The visuals have begun and they're not likely to stop any time soon. In fact, if I can manage, I might even take things a step further, but that depends a lot on how much free time I manage to scrape together.All I'm saying is that these pixels don't just assemble themselves.In addition to that - c64 stuff and general hijinx as always.Topics include the future.
+UID:1874@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
