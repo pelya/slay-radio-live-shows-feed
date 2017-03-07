@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170307T190000Z
-DTEND:20170307T220000Z
-SUMMARY:ziona - Tuesday of your first or all-time favourites
-DESCRIPTION:Hey all Slayers around! What if that Tuesday everyone would request either one of his/her ALL-TIME favourites ever made, or your FIRST remix / SID / demoscene tune ever that you fell in love with, maybe even took you here? :) Other requests are also welcomed, but let's try to focus, because I'm curious about your taste, and I'll place my own bets too for some tracks! And it turns out we'll have a special Slayer-guest showing up too: let me introduce you Vegan64 a bit! 
-UID:1875@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170308T190000Z
 DTEND:20170308T220000Z
 SUMMARY:Bozzy and the Bint - BBKB
