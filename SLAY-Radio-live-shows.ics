@@ -8,11 +8,27 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170312T090000Z
-DTEND:20170312T120000Z
-SUMMARY:Gazoo - PMPVsYouTube
-DESCRIPTION:We've had PMPVsYouTubeCareers, but this time the topic is YouTube itself for a bit. The venture into the visual domain has not been without a few obstacles along the way. There's been a bit of Content ID'ing and some integration hassle. Given that the visual portion of the show is not going away any time soon, it seems like an appropriate thing to talk about at this juncture.So let's take a trip together, back into the the past, some of the present, and perhaps even the future. I promise there'll be some delicious C-64 along the way!See ya'll there!
-UID:1878@slayradio.org
+DTSTART:20170314T190000Z
+DTEND:20170314T220000Z
+SUMMARY:ziona - Tuesday Tuning
+DESCRIPTION:Hello Everyone! Again a Tuesday, again a little bit of fun, filled with our so-much-beloved remixes, a few exclusive specials and some original retro-tunes! And we'll have a secret guest joining us for a while from our community as well! :) SLAY tuned! 
+UID:1879@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170315T190000Z
+DTEND:20170315T220000Z
+SUMMARY:Bozzy and the Bint - BBKB
+DESCRIPTION:It's the Taint of the Weeku2122 again, so it's time for Boz to utter complete bollocks in between your requests. Thankfully, Kate is also here to translate some of it into English. All aboard the Train-Wreck, WOO WOOH!
+UID:1880@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
