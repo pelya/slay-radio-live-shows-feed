@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170314T190000Z
-DTEND:20170314T220000Z
-SUMMARY:ziona - Tuesday Tuning
-DESCRIPTION:Hello Everyone! Again a Tuesday, again a little bit of fun, filled with our so-much-beloved remixes, a few exclusive specials and some original retro-tunes! And we'll have a secret guest joining us for a while from our community as well! :) SLAY tuned! 
-UID:1879@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170315T190000Z
 DTEND:20170315T220000Z
 SUMMARY:Bozzy and the Bint - BBKB
