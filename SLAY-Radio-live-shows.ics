@@ -39,4 +39,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170316T190000Z
+DTEND:20170316T220000Z
+SUMMARY:KraxxUltima - The Uncracked Tracks
+DESCRIPTION:Welcome to Thursday again ,where we listen to Commodore tunes that you request at will.   Once more the Krax will rule the Slayaxy, and we shall have release. (whatever that means)  Tune in and expand your waves =)
+UID:1881@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
