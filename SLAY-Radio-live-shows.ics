@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170323T190000Z
-DTEND:20170323T220000Z
-SUMMARY:KraxxUltima - The Uncracked Tracks
-DESCRIPTION:It's almost weekend again. Funny it happens every week actually :P  So it's also time for music. Enlist aboard my unsinkable ship ,request some C64 or Amiga tunes ,and enjoy the voyage.
-UID:1885@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170326T090000Z
 DTEND:20170326T120000Z
 SUMMARY:Gazoo - PMPVsContentID
