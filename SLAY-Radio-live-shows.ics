@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170328T180000Z
+DTEND:20170328T210000Z
+SUMMARY:ziona - Back with a Blaster! 
+DESCRIPTION:Hey Everyone! Since Scarlett, the Soundcard got a little sick sometimes, she spends her holiday now in service, meanwhile Brent, the Blaster takes her place, and guess what - we can continue our usual Tuesday fun! Ask for your favourites of original retro-tunes or remixes, and also we will have a secret guest to introduce, just like the last 2 times! Have fun! =)
+UID:1886@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
