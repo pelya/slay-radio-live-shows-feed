@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170326T090000Z
-DTEND:20170326T120000Z
-SUMMARY:Gazoo - PMPVsContentID
-DESCRIPTION:Hello internet friend.I have tales of intrigue and mystery. But I'm afraid all of these tales are copyrighted by some people who are not me. Leading me to not being able to share them with you. Which I suppose is fair. Where exactly was I going with this again?Who knows. Honestly, I don't even know why you're still reading this. It's as if you think there might be some additional value to find in this later part of the text. As if some text-shaped gem in the form of a funny quip or a joke might be lurking at the very end. Yet you know, as the common-sense individual you are, that these jokes would be leading the entire text rather than following it. I'm sorry, but no, only the dregs of humor get left to the very end. There's nothing here at the end for you but the slow and sad mounting realization that no funny is forthcoming. No jokes. No anecdotes. No wordplay.Nothing.Except perhaps one final encouragement to tune in on Sunday and share a good time with me. Hmm. I really should lead with this material rather than finish with it.Damn.
-UID:1884@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170328T180000Z
 DTEND:20170328T210000Z
 SUMMARY:ziona - Back with a Blaster! 
