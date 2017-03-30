@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1888","airdate":"1490896800","name_switch":"off","DJ":"KraxxUltima","showname":"The Ultimate Crack","blurb":"Spring winds blows ,summer heat soon comes, and here we are enjoying tunes for the night as we do. So ,tune in and request some Commodore music like ever before =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>The Ultimate Crack","nice_airdate":"Thursday 30th March, 2017<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
