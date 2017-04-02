@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20170402T100000Z
-DTEND:20170402T130000Z
-SUMMARY:Gazoo - PMPVsGenericHappiness
-DESCRIPTION:Hey Yall,I ran out of good ideas for show titles, so this is what popped out of my head in the end. Like it or lump it. Anyway - sorry for the late show announcement, but given that I've been fairly steady with one every weekend I figured it'll be bearable. Topics on tonight show:- Melbs Jacket Kickstarter- Alien movie franchise- Jeroen Tel Kickstarter- Bits'n'Bobs- C64 musically goodnessSee you on Sunday!
-UID:1889@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
