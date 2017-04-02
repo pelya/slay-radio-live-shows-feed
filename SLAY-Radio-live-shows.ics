@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20170404T180000Z
+DTEND:20170404T210000Z
+SUMMARY:ziona - April tunes in!
+DESCRIPTION:Heya Everyone!Hope your week starts great, awesome weather here, finally spring really started, and as usual on Tuesdays, showtime's coming up with our favourite remixes and stuff! As you could get used to - I'll again have a special guest who is hanging around SLAYRadio since a while and no, we won't talk on our native language, I can promise =)Sit back, relax, and enjoy!
+UID:1890@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
