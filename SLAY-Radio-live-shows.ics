@@ -39,4 +39,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170409T100000Z
+DTEND:20170409T130000Z
+SUMMARY:Gazoo - PMPVsLackOfProgress
+DESCRIPTION:Hello you,There's little progress to show this time I fear. But even so, the show must go on. Given the new time-difference there's been an uptick in listeners/watchers!Also - C64 music 'n stuff!
+UID:1893@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
