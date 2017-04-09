@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1893","airdate":"1491732000","name_switch":"off","DJ":"Gazoo","showname":"PMPVsLackOfProgress","blurb":"Hello you,\n\nThere's little progress to show this time I fear. But even so, the show must go on. Given the new time-difference there's been an uptick in listeners\/watchers!\n\nAlso - C64 music 'n stuff!","nice_showname":"<strong><big>Gazoo<\/big><\/strong><br \/>PMPVsLackOfProgress","nice_airdate":"Sunday 9th April, 2017<br \/>at 12:00 USRT"}]}
+{"error":0,"message":"","data":[]}
