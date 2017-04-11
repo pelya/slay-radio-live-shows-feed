@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170411T180000Z
-DTEND:20170411T210000Z
-SUMMARY:ziona - Tuesday Tuning with history lesson
-DESCRIPTION:Again Tuesday and again an evening with me, hanging along with some favourite tunes of yours! As usual, I'll introduce some specialities to your ears as well, just like our next interview-subject, who is probably one of the most active listeners of the remix-scene ever - he provided me loads of valuable infos, how this entire thing started, so we gonna talk about the history of the SID and remix scene today too! SLAY tuned =) 
-UID:1895@slayradio.org
+DTSTART:20170412T180000Z
+DTEND:20170412T210000Z
+SUMMARY:Bozzy and the Bint - BBKB
+DESCRIPTION:It's the Taint of the Weeku2122 again, so it's time for Boz to talk utter bollocks in between your requests. Thankfully, Kate is here to translate some of it into English. All aboard the Train-Wreck, WOO WOOH!
+UID:1894@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20170412T180000Z
-DTEND:20170412T210000Z
-SUMMARY:Bozzy and the Bint - BBKB
-DESCRIPTION:It's the Taint of the Weeku2122 again, so it's time for Boz to talk utter bollocks in between your requests. Thankfully, Kate is here to translate some of it into English. All aboard the Train-Wreck, WOO WOOH!
-UID:1894@slayradio.org
+DTSTART:20170413T180000Z
+DTEND:20170413T210000Z
+SUMMARY:KraxxUltima - The Uncracked Tracks
+DESCRIPTION:Once more onto the b(r)each dear friends! Kraxx is here to hold yer hand until springtime is over and we can all enjoy summer. Enjoy the music and request C64 and Amiga tunes for the night =)
+UID:1896@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
