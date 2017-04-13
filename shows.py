@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1896","airdate":"1492106400","name_switch":"off","DJ":"KraxxUltima","showname":"The Uncracked Tracks","blurb":"Once more onto the b(r)each dear friends! Kraxx is here to hold yer hand until springtime is over and we can all enjoy summer. Enjoy the music and request C64 and Amiga tunes for the night =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>The Uncracked Tracks","nice_airdate":"Thursday 13th April, 2017<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
