@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170418T180000Z
-DTEND:20170418T210000Z
-SUMMARY:ziona - Tuesday Fun with bits of Re-vision
-DESCRIPTION:Yo Everyone! Here we go again with our usual tunes! And guess, what happened at Easter weekend - one of the biggest demoscene party took place at Germany, called Revision 2017! The guys who have been there said, it was amazing, and the competition releases were also very high-end! So I'll introduce you some of those. And the blurb is not over yet, since we'll have a guest this week, whose name is also very well-known at the remix scene as a musician, and he is member of more bands as well - I am looking forward to interview him! SLAY tuned! =)
-UID:1897@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170419T180000Z
 DTEND:20170419T210000Z
 SUMMARY:Bozzy and the Bint - BBKB
