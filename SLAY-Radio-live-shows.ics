@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170430T100000Z
-DTEND:20170430T130000Z
-SUMMARY:Gazoo - PMPVsFanInfringement
-DESCRIPTION:Hello Internet people,Hopefully you're all doing well. Apologies for the recent hiatus, there's been a lot to do these past weekends and there'll likely be quite a bit more in the future. Hopefully I'll be able to settle in to a periodic rhythm in the near future, but until then, I'm afraid the sporadic shows will have to suffice.This weeks show will be a bit about fan games and the consequences of embarking on them without proper clearance. Also - C64 fun as usual!Be there and be a square!
-UID:1903@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170503T180000Z
 DTEND:20170503T210000Z
 SUMMARY:Bozzy and the Bint - BBKB
