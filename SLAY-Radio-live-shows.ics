@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170502T180000Z
-DTEND:20170502T210000Z
-SUMMARY:ziona - May the Show be with you!
-DESCRIPTION:Hey Everyone again. May just started, and we're back with Commodore-, Amiga- and demoscene tunes! And a secret guest of course, who is quite new to the remix scene, but his name is already known, because he achieved some things :) SLAY with us!
-UID:1905@slayradio.org
+DTSTART:20170503T180000Z
+DTEND:20170503T210000Z
+SUMMARY:Bozzy and the Bint - BBKB
+DESCRIPTION:It's the Taint of the Weeku2122 so it's time for Boz to utter complete bollocks in between your requests. Thankfully, Kate is here to translate some of it into English. All aboard the Train-Wreck, WOO WOOH!
+UID:1904@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20170503T180000Z
-DTEND:20170503T210000Z
-SUMMARY:Bozzy and the Bint - BBKB
-DESCRIPTION:It's the Taint of the Weeku2122 so it's time for Boz to utter complete bollocks in between your requests. Thankfully, Kate is here to translate some of it into English. All aboard the Train-Wreck, WOO WOOH!
-UID:1904@slayradio.org
+DTSTART:20170504T180000Z
+DTEND:20170504T210000Z
+SUMMARY:KraxxUltima - The Uncracked Tracks
+DESCRIPTION:The spring heat is almost upon us where i live ,and already had 2 barbecue feasts. The Thursday we feast in Commodore tunes. Your requests and other picks alike. Tune in and enjoy the night =)
+UID:1906@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
