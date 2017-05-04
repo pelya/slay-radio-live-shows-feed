@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1906","airdate":"1493920800","name_switch":"off","DJ":"KraxxUltima","showname":"The Uncracked Tracks","blurb":"The spring heat is almost upon us where i live ,and already had 2 barbecue feasts. The Thursday we feast in Commodore tunes. Your requests and other picks alike. Tune in and enjoy the night =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>The Uncracked Tracks","nice_airdate":"Thursday 4th May, 2017<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
