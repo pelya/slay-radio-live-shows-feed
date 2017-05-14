@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1910","airdate":"1494756000","name_switch":"off","DJ":"Gazoo","showname":"PMPVsCinder","blurb":"Hello.\n\nThere will be a show this Sunday.\n\nThat is all.\n\nSigned,\n\nMe (not you)","nice_showname":"<strong><big>Gazoo<\/big><\/strong><br \/>PMPVsCinder","nice_airdate":"Sunday 14th May, 2017<br \/>at 12:00 USRT"}]}
+{"error":0,"message":"","data":[]}
