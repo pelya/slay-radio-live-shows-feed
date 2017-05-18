@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20170518T190000Z
-DTEND:20170518T220000Z
-SUMMARY:KraxxUltima - Impromptu in the Rain
-DESCRIPTION:Lots of rain outside today. Uncanny almost. Where's the sun ? It's not here anyway :/  Well , tune in with me tonite for awhile and warm up with yer C64 or Amiga requests, and have a cozy nite with a beer or whatever and have fun =)  Starts at 21.00 (One hour later than usual, ('cause of reasons.)
-UID:1913@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
