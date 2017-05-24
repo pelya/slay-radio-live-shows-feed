@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170524T180000Z
-DTEND:20170524T210000Z
-SUMMARY:Boz - BBB
-DESCRIPTION:Boz is flying solo again, so let's have a BBB! Talking utter bollocks in between your requests. All aboard the Train-Wreck, WOO WOOH!
-UID:1915@slayradio.org
+DTSTART:20170525T180000Z
+DTEND:20170525T210000Z
+SUMMARY:KraxxUltima - The Uncracked Tracks
+DESCRIPTION:Well here we are again with another show , riddled with great music and an unusually low frequency of celebrity deaths for this week. But anyways , please tune in and request some C64 and Amiga tunes for the night =)Note.  Because of the death of uber-famous british actor Sir Roger Moore ,this show now has a theme!
+UID:1916@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20170525T180000Z
-DTEND:20170525T210000Z
-SUMMARY:KraxxUltima - The Uncracked Tracks
-DESCRIPTION:Well here we are again with another show , riddled with great music and an unusually low frequency of celebrity deaths for this week. But anyways , please tune in and request some C64 and Amiga tunes for the night =)Note.  Because of the death of uber-famous british actor Sir Roger Moore ,this show now has a theme!
-UID:1916@slayradio.org
+DTSTART:20170531T180000Z
+DTEND:20170531T210000Z
+SUMMARY:Boz - BBB
+DESCRIPTION:Boz is flying solo again, so let's have a BBB! Talking utter bollocks in between your requests. All aboard the Train-Wreck, WOO WOOH!
+UID:1915@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
