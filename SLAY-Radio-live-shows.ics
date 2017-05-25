@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170525T180000Z
-DTEND:20170525T210000Z
-SUMMARY:KraxxUltima - The Uncracked Tracks
-DESCRIPTION:Well here we are again with another show , riddled with great music and an unusually low frequency of celebrity deaths for this week. But anyways , please tune in and request some C64 and Amiga tunes for the night =)Note.  Because of the death of uber-famous british actor Sir Roger Moore ,this show now has a theme!
-UID:1916@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170531T180000Z
 DTEND:20170531T210000Z
 SUMMARY:Boz - BBB
