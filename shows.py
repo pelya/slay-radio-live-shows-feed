@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"1921","airdate":"1496772000","name_switch":"off","DJ":"ziona","showname":"WB Tuesday!","blurb":"Hey Everyone! \n\nTuesday, showday again, so request your favourite SIDs, remixes or demoscene tunes, and a well-known Dutchie joins us, as my guest! SLAY tuned!","nice_showname":"<strong><big>ziona<\/big><\/strong><br \/>WB Tuesday!","nice_airdate":"Tuesday 6th June, 2017<br \/>at 20:00 USRT"}]}

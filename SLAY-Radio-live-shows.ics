@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20170606T180000Z
+DTEND:20170606T210000Z
+SUMMARY:ziona - WB Tuesday!
+DESCRIPTION:Hey Everyone! Tuesday, showday again, so request your favourite SIDs, remixes or demoscene tunes, and a well-known Dutchie joins us, as my guest! SLAY tuned!
+UID:1921@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
