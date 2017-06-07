@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20170607T180000Z
-DTEND:20170607T210000Z
-SUMMARY:Bozzy and the Bint - BBKB
-DESCRIPTION:SHE'S BACK! And just in time because Boz really wasn't grasping the English language very well at all. So join a refreshed Kate and Boz for another load of bollocks in between your requests. All aboard the Train-Wreck, WOO WOOH!
-UID:1922@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
