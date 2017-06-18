@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170618T180000Z
-DTEND:20170618T210000Z
-SUMMARY:KraxxUltima - Cracked Impromptu Industries
-DESCRIPTION:Well , here's a little extra show to make up for an extra busy summer week, since no regular show was made this time. And hopefully the Behringer won't bring too much noise. Request your Commodore tunes as per usual as you wish =)  Have fun!   (and Stone Oakvalley (sids/mods) seems to be down for some reason.)
-UID:1927@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170621T180000Z
 DTEND:20170621T210000Z
 SUMMARY:Bozzy and the Bint - BBKB
