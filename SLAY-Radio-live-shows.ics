@@ -8,10 +8,10 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170622T180000Z
-DTEND:20170622T210000Z
+DTSTART:20170622T182000Z
+DTEND:20170622T212000Z
 SUMMARY:KraxxUltima - The Ultimate Uncrack
-DESCRIPTION:Welcome back on track , hopefully uncracked and so.  Request your Commodore tracks as usual , and have some fun =)
+DESCRIPTION:Welcome back on track , hopefully uncracked and so.  Request your Commodore tracks as usual , and have some fun =)Edit.  Postponed for 20 mins , mixer issues.Start at 20:20  !
 UID:1929@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
