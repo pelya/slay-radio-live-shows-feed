@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1931","airdate":"1498759200","name_switch":"off","DJ":"KraxxUltima","showname":"The Uncracked Tracks","blurb":"Hello and welcome again to more Kraxxity antics ,with the usual Commodore tunes and taking your requests in, flowing similar to the water that sinks any boat. Except this boat won't sink. \nTune in and Enjoy =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>The Uncracked Tracks","nice_airdate":"Thursday 29th June, 2017<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
