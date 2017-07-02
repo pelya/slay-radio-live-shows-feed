@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20170704T180000Z
+DTEND:20170704T210000Z
+SUMMARY:ziona - Makke-it-happen show!
+DESCRIPTION:Hey Slayz0rs! :)Amongst the remixes, originals and demoscene tracks, guess who is going to visit my virtual studio the next Tuesday! Yeah, the guy who did a lot of great tracks, lent his voice to a bunch of remixes, and SLAYRadio signals as well, not to mention he was also leading liveshows in the past here :) He did some of the earliest remixes, what I got my hands on, when I started to listen to them! Please, welcome along with me Makke! =) SLAY tuned! 
+UID:1933@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
