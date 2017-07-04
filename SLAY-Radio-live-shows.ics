@@ -39,4 +39,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170706T180000Z
+DTEND:20170706T210000Z
+SUMMARY:KraxxUltima - The Uncracked Tracks
+DESCRIPTION:Ahoy everyone and welcome to another summer Thursday night with your mad host Kraxx ,once again steering the unsinkable ship through the soundwaves of the ocean of audacity. Request your Commodore favorites as usual ,and have some fun!
+UID:1935@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
