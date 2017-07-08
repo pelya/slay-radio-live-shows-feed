@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20170708T180000Z
-DTEND:20170708T210000Z
-SUMMARY:Gohanks - Retro For Sure
-DESCRIPTION:The long awaited return is finally approaching. Bear with me for a while listening to great C64 tunes and rambling on about retro stuff. Might be a bumpy ride, getting back in the show saddle and re-learning stuff...
-UID:1936@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
