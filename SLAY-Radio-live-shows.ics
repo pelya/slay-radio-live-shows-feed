@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170718T180000Z
-DTEND:20170718T210000Z
-SUMMARY:ziona feat. Vincenzo and Necropolo - The u00c1rok Party show! 
-DESCRIPTION:Ladies and Gentlemen! We very much look forward to the next Tuesday, which gonna be really special: Vincenzo and Necropolo will be my guests - this time, LIVE, in my virtual studio straightly from Budapest!u00c1rok Party, the biggest Hungarian 8-bit party will be held for the 19th time already this year, save the date: 11-13th August of 2017! And we all are participants since many years already - this is mostly what we gonna talk about!Cargo, one of the main organizers of u00c1rok will be our Skype guest for a while, and we will talk about lots of nice stories, you could hear lots of great remixes, mostly done for u00c1rok Party remix competitions!Have fun with us, and SLAY tuned!  
-UID:1940@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170719T180000Z
 DTEND:20170719T210000Z
 SUMMARY:Bozzy and the Bint - BBKB
