@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20170725T180000Z
+DTEND:20170725T210000Z
+SUMMARY:ziona - Showtime with a Show Voice - Hanna! 
+DESCRIPTION:Hello Everyone!Here we go, another Tuesday is approaching, prepare all your requests possible, and I am really proud to present Hanna Kappelin (yes, from Visa Ru00f6ster!) as my guest! Join us, request your favourites, ask questions from her, have fun - SLAY tuned! YAY! =)
+UID:1943@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
