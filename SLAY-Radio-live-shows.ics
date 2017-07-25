@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170725T180000Z
-DTEND:20170725T210000Z
-SUMMARY:ziona - Showtime with a Show Voice - Hanna! 
-DESCRIPTION:Hello Everyone!Here we go, another Tuesday is approaching, prepare all your requests possible, and I am really proud to present Hanna Kappelin (yes, from Visa Ru00f6ster!) as my guest! Join us, request your favourites, ask questions from her, have fun - SLAY tuned! YAY! =)
-UID:1943@slayradio.org
+DTSTART:20170726T180000Z
+DTEND:20170726T210000Z
+SUMMARY:Bozzy and the Bint - BBKB
+DESCRIPTION:It's the Taint of the Weeku2122 again, so it's time for Boz to utter complete bollocks in between your requests. Thankfully, Kate is here to translate some of it into English. All aboard the Train-Wreck, WOO WOOH!
+UID:1944@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20170726T180000Z
-DTEND:20170726T210000Z
-SUMMARY:Bozzy and the Bint - BBKB
-DESCRIPTION:It's the Taint of the Weeku2122 again, so it's time for Boz to utter complete bollocks in between your requests. Thankfully, Kate is here to translate some of it into English. All aboard the Train-Wreck, WOO WOOH!
-UID:1944@slayradio.org
+DTSTART:20170727T180000Z
+DTEND:20170727T210000Z
+SUMMARY:KraxxUltima - The Ultimate Uncrack
+DESCRIPTION:Shiver me timbers! Arrrr Kraxx is back again (big surprise right) ,with more high-sailing antics and playing your Commodore C64/Amiga requests as fuel to keep the ship afloat , this time with stronger sails =)
+UID:1946@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
