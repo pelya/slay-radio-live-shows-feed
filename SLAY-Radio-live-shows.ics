@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170727T180000Z
-DTEND:20170727T210000Z
-SUMMARY:KraxxUltima - The Ultimate Uncrack
-DESCRIPTION:Shiver me timbers! Arrrr Kraxx is back again (big surprise right) ,with more high-sailing antics and playing your Commodore C64/Amiga requests as fuel to keep the ship afloat , this time with stronger sails =)
-UID:1946@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170801T180000Z
 DTEND:20170801T210000Z
 SUMMARY:ziona feat. S...omeone Completely Unknown - The pre-Gathering show! 
