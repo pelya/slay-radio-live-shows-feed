@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170802T180000Z
-DTEND:20170802T210000Z
-SUMMARY:Bozzy and the Bint - BBKB
-DESCRIPTION:It's the Tain of the Weeku2122, so it's time for Boz to speak utter bollocks in between your requests. Thankfully, Kate is also here to translate some of it into English.It's also the show before the Last SLAY Radio Gathering, so we might have a chat about that too.All aboard the Train-Wreck, WOO WOOH!
-UID:1947@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170803T180000Z
 DTEND:20170803T210000Z
 SUMMARY:KraxxUltima - The Uncrackable Uncorked Uncle of Uncertain Universes
