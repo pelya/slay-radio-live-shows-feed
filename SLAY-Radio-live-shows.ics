@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20170803T182000Z
-DTEND:20170803T212000Z
-SUMMARY:KraxxUltima - The Uncrackable Uncorked Uncle of Uncertain Universes
-DESCRIPTION:Okay  ,.lamest showname ever ,granted. But another cozy summer Thursday nontheless. Tune in and request yer favorite C64/Amiga tunes , enjoy the mood and weather if possible, since we're sailing the high seas of The Commodore ocean.. can be quite windy and wavy =)Edit.  20 minute delayed start .  All is well =)
-UID:1948@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
