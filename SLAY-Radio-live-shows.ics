@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20170811T190000Z
-DTEND:20170811T220000Z
-SUMMARY:ziona - u00c1rok Party Live Set 2017
-DESCRIPTION:It happened already a year before (and apparently this was the reason what took me back to this wonderful community :), but this year it's gonna be broadcasted! A live DJ set of some favourite remixes of mine is coming up. SLAY tuned, as always! :) 
-UID:1951@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
