@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20170815T180000Z
+DTEND:20170815T210000Z
+SUMMARY:ziona - The post-Gathering and u00c1rok show
+DESCRIPTION:Hello Everyone! Back from the party weekends, here we go again, with awesome people at the Gathering, awesome releases at u00c1rok and very nice 8-bit demoscene memories! So this is on the plate for the upcoming show! SLAY tuned! :) 
+UID:1954@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20170816T180000Z
 DTEND:20170816T210000Z
 SUMMARY:Bozzy and the Bint - BBKB
