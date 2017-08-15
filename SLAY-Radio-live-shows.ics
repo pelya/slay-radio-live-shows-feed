@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170817T180000Z
+DTEND:20170817T210000Z
+SUMMARY:KraxxUltima - The Uncracked Tracks
+DESCRIPTION:Summer is slowly reaching its final weeks ,but the fun never ends for Slayers. Tune in and request some nice Commodore 64 and Amiga tunage ,as we steer forward through the ocean of sonic audacity =)
+UID:1955@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
