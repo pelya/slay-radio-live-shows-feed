@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1955","airdate":"1502992800","name_switch":"off","DJ":"KraxxUltima","showname":"The Uncracked Tracks","blurb":"Summer is slowly reaching its final weeks ,but the fun never ends for Slayers. Tune in and request some nice Commodore 64 and Amiga tunage ,as we steer forward through the ocean of sonic audacity =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>The Uncracked Tracks","nice_airdate":"Thursday 17th August, 2017<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
