@@ -8,38 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170822T180000Z
-DTEND:20170822T210000Z
-SUMMARY:ziona - In-between-parties show with Gohanks
-DESCRIPTION:Hello Everyone! After the afterparty-show last week, still eventful weekends are ahead of me, and I do hope I can meet some of you at Datastorm and Function as well in September! And my interview guest this time is Gohanks, who will be hopefully back on air soon! Until that time, let's learn a bit more about him! SLAY tuned! :)
-UID:1957@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20170823T180000Z
-DTEND:20170823T210000Z
-SUMMARY:Bozzy and the Bint - BBKB
-DESCRIPTION:It's the Taint of the Weeku2122 again, so it's time for Boz to utter complete bollocks in between your requests. Thankfully, Kate is here to translate some of it into English. All aboard the Train-Wreck, WOO WOOH!
-UID:1956@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20170901T180000Z
 DTEND:20170901T210000Z
 SUMMARY:Gurt - Radio Awesome
