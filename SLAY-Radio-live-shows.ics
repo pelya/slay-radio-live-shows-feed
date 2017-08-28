@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20170829T180000Z
+DTEND:20170829T210000Z
+SUMMARY:ziona - On-the-flow show with an Ace
+DESCRIPTION:Hello Dear Listeners! Another Tuesday, another ziona-show with hopefully great remixes and SIDs what you could request, and since I am on the flow, I got an Ace too to introduce! So, Ace_dk, a very faithful listener will join us for an interview. And don't forget - next weekend is Datastorm party in the beautiful city of Gothenburg! Hope you SLAY tuned for all the fun! =) 
+UID:1959@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20170901T180000Z
 DTEND:20170901T210000Z
 SUMMARY:Gurt - Radio Awesome
