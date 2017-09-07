@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170906T180000Z
-DTEND:20170906T210000Z
-SUMMARY:Bozzy and the Bint - BBKB
-DESCRIPTION:It's the Taint of the Weeku2122 again, so it's time for Boz to utter complete bollocks in between your requests. Thankfully, Kate is here to translate some of it into English. All aboard the Train-Wreck, WOO WOOH!
-UID:1963@slayradio.org
+DTSTART:20170907T180000Z
+DTEND:20170907T210000Z
+SUMMARY:KraxxUltima - The Ultimate Uncrack
+DESCRIPTION:Fall is upon us ,it's getting cooler up here. Swimming is now a matter of visiting bathhouses :/Anyway , Kraxx is here to keep us warm for another Thursday night. So, request your Commodore favorites and lets get the show on the road (or boat).
+UID:1964@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
