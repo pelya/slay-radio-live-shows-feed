@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20170912T180000Z
+DTEND:20170912T210000Z
+SUMMARY:ziona - Post-Function show with SIDNIFY
+DESCRIPTION:Hey again, Slayers! Coming back after last week's break with awesome party-experiences behind, because last weekend was for me all about Function 2017 demoscene party, held in Budapest, Hungary. From many great releases, we will play some in-between your requests.Also, the two guys of SIDNIFY did an awesome gig on stage, therefore we gonna have a chat with them about their experiences and extremely energetic, fantastic remixes! SLAY tuned =)
+UID:1965@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
