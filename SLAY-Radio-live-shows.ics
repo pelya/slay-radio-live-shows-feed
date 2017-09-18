@@ -7,4 +7,36 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20170919T180000Z
+DTEND:20170919T210000Z
+SUMMARY:ziona - Tuesday Tuning with Uthar
+DESCRIPTION:Hello Slayers! This time we will have a faithful listener as a special guest, who is around SLAY Radio for a long time. We met at the SLAY Gathering this year, and the guy's name is Uthar! And as you can expect, your favourite remixes and SIDs are coming up too, so prepare your requests, tune in and have some fun with us! :) 
+UID:1968@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T180000Z
+DTEND:20170920T210000Z
+SUMMARY:Bozzy and the Bint - BBKB
+DESCRIPTION:It's the Taint of the Weeku2122 again, so it's time for Boz to utter complete bollocks between your requests. Thankfully, Kate is here to translate some of it into English. All aboard the Train-Wreck, WOO WOOH!
+UID:1969@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
