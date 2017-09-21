@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"1970","airdate":"1506016800","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax","blurb":"Colder days requires warmer tracks, so let's keep the trend going and the balls rolling. Request anything Commodore related to heat up the night =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax","nice_airdate":"Thursday 21st September, 2017<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
