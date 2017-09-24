@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20170926T180000Z
+DTEND:20170926T210000Z
+SUMMARY:ziona - The Bozzzssspecial!
+DESCRIPTION:Dear Slayers,In the upcoming show you can welcome our most prominent, amazing, beautiful, smart, awesome Nobel Prize winning broadcaster (for discovering the DNA of radio)! And he's gonna be my interview guest on air! You can harass him with any questions, and perhaps, maybe, you can learn a lot more about him than in those 12 years of his SLAY Radio career being the Chief Annoyance Officer! ;)Don't forget to prepare your requests too, otherwise we have to play his requests and I won't skip the opportunity to annoy him with his most favourite auto-tuned remix too! SLAY tuuuned! =)
+UID:1972@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20170927T180000Z
 DTEND:20170927T210000Z
 SUMMARY:Bozzy and the Bint - BBKB
