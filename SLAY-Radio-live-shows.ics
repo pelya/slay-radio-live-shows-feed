@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20170928T180000Z
-DTEND:20170928T210000Z
-SUMMARY:KraxxUltima - Krax plays Trax
-DESCRIPTION:Hello and welcome to another Thursday evening filled with great remixes and post-summer madness. Halloween times are approaching and let's get into the mood for the times to come. Request your favorite Commodore tunes and enjoy the night =)
-UID:1974@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20171003T180000Z
 DTEND:20171003T210000Z
 SUMMARY:ziona and Slaygon - From First to Last (The Contrast remixshow)
