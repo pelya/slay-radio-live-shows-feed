@@ -1,6 +1,8 @@
 #!/bin/sh
 
-curl 'http://www.slayradio.org/api.php?query=nextshows' > shows.py || exit
+curl 'http://www.slayradio.org/api.php?query=nextshows' > shows-new.py || exit
+mv -f shows.py shows-prev.py
+mv -f shows-new.py shows.py
 
 rm -f rss.xml ical.ics
 cat > rss.xml <<EOF
@@ -37,6 +39,11 @@ IFS='
 '
 python -c "
 shows = `cat shows.py`
+showsPrev = `cat shows-prev.py`
+data = shows['data']
+for s in showsPrev['data']:
+	if not (s['show_ID'] in [i['show_ID'] for i in data]):
+		data.append(s)
 for s in shows['data']:
 	print s['show_ID'] + '\t' + s['airdate'] + '\t' + s['DJ'].replace('\n','').replace('\"','') + '\t' + s['showname'].replace('\n','').replace('\"','') + '\t' + s['blurb'].replace('\n','').replace('\"','')
 " | while read UID DATE DJ TITLE DESCRIPTION; do
