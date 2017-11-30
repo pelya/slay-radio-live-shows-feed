@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20171130T190000Z
-DTEND:20171130T220000Z
-SUMMARY:KraxxUltima - End of November Show
-DESCRIPTION:It's the end of November ,though the middle of the stormy season at least from where i'm standing. The Commodore Ocean is where we wanna be, and with Kraxx as your captain we steer unsafely through the waves of audial audacity. Request away and have fun! =)
-UID:2001@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
