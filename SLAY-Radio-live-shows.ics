@@ -55,20 +55,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20171205T190000Z
-DTEND:20171205T220000Z
-SUMMARY:ziona - Wacky Tuesday with Wenchie
-DESCRIPTION:Hi Everyone, I'm back, this time alone, but not lonely - Wenchie, an old listener of SLAY Radio will be the guest of the show, and she might have great SLAY stories in her pocket! Don't forget your C64, Amiga or demoscene requests. Join us, and have fun! =)
-UID:2002@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
