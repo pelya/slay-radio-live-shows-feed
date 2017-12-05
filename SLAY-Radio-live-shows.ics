@@ -40,6 +40,22 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20171207T190000Z
+DTEND:20171207T220000Z
+SUMMARY:KraxxUltima - Krax plays Trax
+DESCRIPTION:It is quite calm on the high Commodore seas these days ,not much action ...Arrrrrr! But no reason for saltiness, because you're all with us requesting great tunes as we keep warm =)
+UID:2004@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20171217T130000Z
 DTEND:20171217T160000Z
 SUMMARY:IImmortal vs PhasedBased - Sunday Detox
