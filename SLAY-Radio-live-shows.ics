@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20171207T190000Z
-DTEND:20171207T220000Z
-SUMMARY:KraxxUltima - Krax plays Trax
-DESCRIPTION:It is quite calm on the high Commodore seas these days ,not much action ...Arrrrrr! But no reason for saltiness, because you're all with us requesting great tunes as we keep warm =)
-UID:2004@slayradio.org
+DTSTART:20171217T130000Z
+DTEND:20171217T160000Z
+SUMMARY:IImmortal vs PhasedBased - Sunday Detox
+DESCRIPTION:Hi all,It has been a few years and it took some work and determination to get back again. But with some serious help from PhasedBased we are finally back. I would like to invite you to join us for a lazy Sunday afternoon, feeling the hangover just slip away while we listen to some easy going tunes.
+UID:1992@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20171217T130000Z
-DTEND:20171217T160000Z
-SUMMARY:IImmortal vs PhasedBased - Sunday Detox
-DESCRIPTION:Hi all,It has been a few years and it took some work and determination to get back again. But with some serious help from PhasedBased we are finally back. I would like to invite you to join us for a lazy Sunday afternoon, feeling the hangover just slip away while we listen to some easy going tunes.
-UID:1992@slayradio.org
+DTSTART:20171207T190000Z
+DTEND:20171207T220000Z
+SUMMARY:KraxxUltima - Krax plays Trax
+DESCRIPTION:It is quite calm on the high Commodore seas these days ,not much action ...Arrrrrr! But no reason for saltiness, because you're all with us requesting great tunes as we keep warm =)
+UID:2004@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
