@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20171211T190000Z
+DTEND:20171211T220000Z
+SUMMARY:ziona and Slaygon - Achtung - MONDAY with Der Danko!
+DESCRIPTION:Hi All SLAYfellaz,First time since ziona is doing shows, a Monday will replace a Tuesday evening occasionally, but you can expect the usual show with the special guest star Danko, who did lots, LOTS of SIDs and also he is a professional producer since the '90s. Nowadays he is a member of the Fairlight demogroup as well. Since he is an adopted brother of Slaygon, our beloved Leader will join to co-host the show too :)SLAY tuned with us and request your favourite songs! 
+UID:2005@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20171217T130000Z
 DTEND:20171217T160000Z
 SUMMARY:IImmortal vs PhasedBased - Sunday Detox
