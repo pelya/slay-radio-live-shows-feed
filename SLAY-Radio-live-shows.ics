@@ -39,4 +39,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T190000Z
+DTEND:20171221T220000Z
+SUMMARY:KraxxUltima - The Ultimate Winter Solstice
+DESCRIPTION:We're getting close to Xmas ,and in case Santa might be wearing a eyepatch, shugging rum and yelling Arrrrr! while balancing on a pegleg,..We still have a show going down. Request your favorite C64 or Amiga tunes and enjoy winter solstice! 
+UID:2009@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
