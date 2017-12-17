@@ -39,20 +39,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20171217T130000Z
-DTEND:20171217T160000Z
-SUMMARY:IImmortal vs PhasedBased - Sunday Detox
-DESCRIPTION:Hi all,It has been a few years and it took some work and determination to get back again. But with some serious help from PhasedBased we are finally back. I would like to invite you to join us for a lazy Sunday afternoon, feeling the hangover just slip away while we listen to some easy going tunes.
-UID:1992@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
