@@ -39,20 +39,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20171219T190000Z
-DTEND:20171219T220000Z
-SUMMARY:ziona and Slaygon - Pre-Christmas with master LMan
-DESCRIPTION:Hello Everyone! We finish this year slightly before christmas, and we have an amazing guest coming up! LMan, a real SID wizard and remixer joins us for an interview, you can also ask anything you wanted to know about him. And since this looks like the last show of the year from ziona (and maybe Slaygon), we wish you a Merry Christmas and a Very Happy New Year too! Gonna be back on 2nd January.
-UID:2008@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
