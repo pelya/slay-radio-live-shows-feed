@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20171229T100000Z
+DTEND:20171229T130000Z
+SUMMARY:KraxxUltima - KraxxUltima - The Middle Days - Improp - Second
+DESCRIPTION:Well ... It's strange isn't it ? Well , it must happen anyway ...It's the Middle Days ....We want this, we kindof need this , and we definitly wanna deny this...it's THe Second half of the Middle Days of ...whatever. Happy New Years to anyone who still cares :D  Cheers!
+UID:2013@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
