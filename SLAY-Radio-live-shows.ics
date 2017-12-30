@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20171230T203000Z
+DTEND:20171230T233000Z
+SUMMARY:K8-bit & Boz - Boz & Kate - A Highland Fling.
+DESCRIPTION:THERE HAS BEEN AN AWAKENING.  Or possibly an invasion.  Boz has visited Bonny Scotland to visit K8-bit.. and we're going to do a wee impromptu...
+UID:2014@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
