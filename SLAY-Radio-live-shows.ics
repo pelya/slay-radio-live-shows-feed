@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20180102T190000Z
-DTEND:20180102T220000Z
-SUMMARY:ziona and Slaygon - Farewell 2017
-DESCRIPTION:Welcome to 2018, Dear Slayers! 2017 is over, and it finished with 140 C64 remixes and 45 new Amiga remixes. We're gonna play some in this show, and don't forget that ROTY Awards voting is also closing soon! We are summarizing the past year, so prepare your requests from 2017, and we are going to prepare our favourites too! Happy New Year Everyone! 
-UID:2015@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
