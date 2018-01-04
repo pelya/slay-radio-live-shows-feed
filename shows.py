@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2016","airdate":"1515092400","name_switch":"off","DJ":"KraxxUltima","showname":"Krax indeed plays Trax again","blurb":"Late scheduling going here, but there's a show ^^. Tune in ,request some Commodore songs ,enjoy the new year and have fun =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax indeed plays Trax again","nice_airdate":"Thursday 4th January, 2018<br \/>at 20:00 USRT"}]}
