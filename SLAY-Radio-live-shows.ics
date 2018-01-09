@@ -39,4 +39,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T190000Z
+DTEND:20180111T220000Z
+SUMMARY:KraxxUltima - Krax plays Trax
+DESCRIPTION:How's the new year treating you all? Hopefully a nice year. Filled and refilled with great tunes i'd bet. Kraxx is here to once again bring some wackiness into it all. Request C64 and Amiga tunes and stay warm! =)
+UID:2019@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
