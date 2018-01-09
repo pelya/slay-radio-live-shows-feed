@@ -39,20 +39,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180109T190000Z
-DTEND:20180109T220000Z
-SUMMARY:ziona and Slaygon - The Anniversary Show
-DESCRIPTION:A year ago, on the 10th of January, a girl with shaking legs, struggling and sweating, went live on air on SLAY Radio for the first time ever. Even though she almost had a heart attack pressing the button at the start, she enjoyed to play her blippy-bloppy things very much, so she kept going on Tuesdays after this beautiful evening. Later on she figured she feels too boring alone on air so she started to dig up people on the remix scene for interviews. After passively observing the scene for 13 years, having conversation with all those people who did the beloved tracks seemed like another dream come true for Ziona. Slaygon silently followed the events in the background providing tech support when it was needed, till the moment they figured out there are undeniable vibes ringing between them. So here we go, welcome to Ziona's Anniversary Show with maybe Slaygon, if he's not gonna be too tired to join! :)  Thank you so much everyone for being with me this beautiful year! <3
-UID:2017@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
