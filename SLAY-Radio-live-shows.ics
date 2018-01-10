@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180110T190000Z
-DTEND:20180110T220000Z
-SUMMARY:Bozzy and the Bint - BBKB
-DESCRIPTION:It's the start of the year WOO-HOO! But Boz still can't speak properly, so Kate is here to translate some of it. All aboard the Train-Wreck, WOO WOOH!
-UID:2018@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
