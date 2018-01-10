@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20180110T190000Z
-DTEND:20180110T220000Z
-SUMMARY:Bozzy and the Bint - BBKB
-DESCRIPTION:It's the start of the year WOO-HOO! But Boz still can't speak properly, so Kate is here to translate some of it. All aboard the Train-Wreck, WOO WOOH!
-UID:2018@slayradio.org
+DTSTART:20180111T190000Z
+DTEND:20180111T220000Z
+SUMMARY:KraxxUltima - Krax plays Trax
+DESCRIPTION:How's the new year treating you all? Hopefully a nice year. Filled and refilled with great tunes i'd bet. Kraxx is here to once again bring some wackiness into it all. Request C64 and Amiga tunes and stay warm! =)
+UID:2019@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20180111T190000Z
-DTEND:20180111T220000Z
-SUMMARY:KraxxUltima - Krax plays Trax
-DESCRIPTION:How's the new year treating you all? Hopefully a nice year. Filled and refilled with great tunes i'd bet. Kraxx is here to once again bring some wackiness into it all. Request C64 and Amiga tunes and stay warm! =)
-UID:2019@slayradio.org
+DTSTART:20180110T190000Z
+DTEND:20180110T220000Z
+SUMMARY:Bozzy and the Bint - BBKB
+DESCRIPTION:It's the start of the year WOO-HOO! But Boz still can't speak properly, so Kate is here to translate some of it. All aboard the Train-Wreck, WOO WOOH!
+UID:2018@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
