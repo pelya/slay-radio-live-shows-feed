@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"2019","airdate":"1515697200","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax","blurb":"How's the new year treating you all? Hopefully a nice year. Filled and refilled with great tunes i'd bet. Kraxx is here to once again bring some wackiness into it all. Request C64 and Amiga tunes and stay warm! =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax","nice_airdate":"Thursday 11th January, 2018<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
