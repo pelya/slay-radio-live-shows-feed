@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20180118T190000Z
+DTEND:20180118T220000Z
+SUMMARY:KraxxUltima - Krax certainly plays more Trax
+DESCRIPTION:Hello everybody and how ya'll doing? Lots of snow up here and a bit of storm winds ,but nothing a wierd pirate of the high seas can't handle. Tune in why don't ya ,and request some awesome Commodore remixes for old Kraxx :D
+UID:2021@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
