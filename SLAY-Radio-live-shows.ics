@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20180130T190000Z
+DTEND:20180130T220000Z
+SUMMARY:ziona and maybe Slaygon - Comeback with Mahoney
+DESCRIPTION:Hello Slayfolks,After a 2 week logistic break in our lives, we will open up the interview year with Pex Tufvesson Mahoney, the genius who did several awesome things for the scene, including programs thought to be beyond C64's limitations, loads of remixes, and at last year's Datastorm in-depth interview with Chris Huelsbeck as well. Feel free to ask questions and prepare your requests as well! WE. ARE. BACH. SLAY tuned! =)
+UID:2023@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
