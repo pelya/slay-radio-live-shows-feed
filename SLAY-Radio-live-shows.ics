@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20180201T190000Z
+DTEND:20180201T220000Z
+SUMMARY:KraxxUltima - Krax plays Trax
+DESCRIPTION:Ahoy slayers, and welcome once more to the show that will bring peace to the radioactive galaxy! I'm your captain of uncertainly and let's have your Commodore requests played for great justice =)  Have Fun!
+UID:2025@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20180131T190000Z
 DTEND:20180131T220000Z
 SUMMARY:Bozzy and the Bint - BBKB
