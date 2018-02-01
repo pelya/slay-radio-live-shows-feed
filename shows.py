@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"2025","airdate":"1517511600","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax","blurb":"Ahoy slayers, and welcome once more to the show that will bring peace to the radioactive galaxy! I'm your captain of uncertainly and let's have your Commodore requests played for great justice =)  Have Fun!","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax","nice_airdate":"Thursday 1st February, 2018<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
