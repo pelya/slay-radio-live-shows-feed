@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180207T190000Z
+DTEND:20180207T220000Z
+SUMMARY:Bozzy and the Bint - BBKB
+DESCRIPTION:It's the Taint of the Weeku2122 so it's time for Boz to utter complete bollocks in between your requests. Thankfully, Kate is here to translate some of it into English. All aboard the Train-Wreck, WOO WOOH!
+UID:2027@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
