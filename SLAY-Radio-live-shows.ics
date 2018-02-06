@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20180206T190000Z
-DTEND:20180206T220000Z
-SUMMARY:ziona and Slaygon - An evening with Mark TDK Knight
-DESCRIPTION:Hello Everyone! Please, welcome the upcoming Tuesday show with a professional musician, who was on stage at BIT Live, has written the awesome music of F1 racing and several other games, and his heart still beats for Amiga as well, amongst many other things! Prepare your requests and questions, and SLAY tuned with us! =)
-UID:2026@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20180207T190000Z
 DTEND:20180207T220000Z
 SUMMARY:Bozzy and the Bint - BBKB
@@ -45,6 +29,22 @@ DTEND:20180208T220000Z
 SUMMARY:KraxxUltima - Krax plays Trax
 DESCRIPTION:Welcome back to Thursday night madness with your captain of the Commodore ship yonder, sailing the high seas of audio audacity. Request your favorites and enjoy the ride =)
 UID:2028@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180206T190000Z
+DTEND:20180206T220000Z
+SUMMARY:ziona and Slaygon - An evening with Mark TDK Knight
+DESCRIPTION:Hello Everyone! Please, welcome the upcoming Tuesday show with a professional musician, who was on stage at BIT Live, has written the awesome music of F1 racing and several other games, and his heart still beats for Amiga as well, amongst many other things! Prepare your requests and questions, and SLAY tuned with us! =)
+UID:2026@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
