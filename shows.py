@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"2028","airdate":"1518116400","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax","blurb":"Welcome back to Thursday night madness with your captain of the Commodore ship yonder, sailing the high seas of audio audacity. Request your favorites and enjoy the ride =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax","nice_airdate":"Thursday 8th February, 2018<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
