@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20180213T190000Z
-DTEND:20180213T220000Z
-SUMMARY:ziona and Slaygon - Telsday with Jeroen
-DESCRIPTION:Ladies and Gentlemen! In the upcoming show we will have an opportunity to welcome a legend of SID music, whose Myth was the main reason why Ziona joined the 8-bit scene back in the 2000's. Jeroen will talk about all of his musical career and is open to answer your questions. Prepare your requests - we will be most happy if they are related to him.SLAY tuned! 
-UID:2029@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20180214T190000Z
 DTEND:20180214T220000Z
 SUMMARY:Bozzy and the Bint - BBKB
@@ -45,6 +29,22 @@ DTEND:20180215T220000Z
 SUMMARY:KraxxUltima - Krax plays Trax
 DESCRIPTION:Back again and steering our Commodore vessel further towards audial audacity and soundwaves,despite the everlasting snowing. Tune in,request your tunes,and have mucho fun! =)
 UID:2031@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180213T190000Z
+DTEND:20180213T220000Z
+SUMMARY:ziona and Slaygon - Telsday with Jeroen
+DESCRIPTION:Ladies and Gentlemen! In the upcoming show we will have an opportunity to welcome a legend of SID music, whose Myth was the main reason why Ziona joined the 8-bit scene back in the 2000's. Jeroen will talk about all of his musical career and is open to answer your questions. Prepare your requests - we will be most happy if they are related to him.SLAY tuned! 
+UID:2029@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
