@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20180220T190000Z
+DTEND:20180220T220000Z
+SUMMARY:ziona and Slaygon - The Last Ninja show
+DESCRIPTION:Hello All the Ninjas around here! Special show upcoming. We gonna dedicate an entire show to the remixes made of Last Ninja series, but do not be afraid - it doesn't mean we gonna play the same melodies for an hour =) We go subtune by subtune in order of the SIDs, and pick one excellent remix of each of them, from Last Ninja 1 to 4, if time will be on our side (if it takes longer than three hours, well... we consider to do a second take of it later :) Join us, and if you request, please, ask for your favourite Last Ninja tune this time! Again - we play one of each subtunes. So it might be yours =) SLAY tuned! 
+UID:2032@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
