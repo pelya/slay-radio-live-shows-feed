@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20180221T190000Z
-DTEND:20180221T220000Z
-SUMMARY:Remix64.com - Remixer of the Year Awards 2017
-DESCRIPTION:Yet again, we celebrate and acknowledge the work of the remixers in the C64 and Amiga community by presenting the yearly ROTY Awards, as voted by the users at remix64.com.This year it's SceneSat Radio's turn to give out the awards and give you a run-down of what happened in 2017.As usual the show will be jointly broadcast on SLAY Radio and SceneSat Radio, and show chat will be on EFNet in the channel #remix64.
-UID:2034@slayradio.org
+DTSTART:20180222T190000Z
+DTEND:20180222T220000Z
+SUMMARY:KraxxUltima - Krax plays Trax
+DESCRIPTION:Ahoy thar, and join us on the audacity vessel, sailing the Commodore ocean. Request away to yer hearts content. Seeya there! =)
+UID:2033@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20180222T190000Z
-DTEND:20180222T220000Z
-SUMMARY:KraxxUltima - Krax plays Trax
-DESCRIPTION:Ahoy thar, and join us on the audacity vessel, sailing the Commodore ocean. Request away to yer hearts content. Seeya there! =)
-UID:2033@slayradio.org
+DTSTART:20180221T190000Z
+DTEND:20180221T220000Z
+SUMMARY:Remix64.com - Remixer of the Year Awards 2017
+DESCRIPTION:Yet again, we celebrate and acknowledge the work of the remixers in the C64 and Amiga community by presenting the yearly ROTY Awards, as voted by the users at remix64.com.This year it's SceneSat Radio's turn to give out the awards and give you a run-down of what happened in 2017.As usual the show will be jointly broadcast on SLAY Radio and SceneSat Radio, and show chat will be on EFNet in the channel #remix64.
+UID:2034@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
