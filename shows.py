@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"2033","airdate":"1519326000","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax","blurb":"Ahoy thar, and join us on the audacity vessel, sailing the Commodore ocean. Request away to yer hearts content. Seeya there! =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax","nice_airdate":"Thursday 22nd February, 2018<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
