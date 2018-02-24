@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20180227T190000Z
+DTEND:20180227T220000Z
+SUMMARY:ziona and Slaygon - The Less Ninja show
+DESCRIPTION:Hello Everyone again, Since last week we only had time to play the remixes made out of Last Ninja 1 and 2, we still have the 3rd take left, and we think we should finish this thing properly :)Therefore the first part of the show is definitely dedicated to Last Ninja 3, and after it we will likely get back to some regular requests. SLAY tuned with us and the Ninja himself! 
+UID:2035@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
