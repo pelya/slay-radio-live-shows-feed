@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"2037","airdate":"1519930800","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax again","blurb":"New month and one step closer to summertime ,the time when the birds and the bees get it on , and the oceans are sailable once more. \nTune and request some great Commodore songs\/remixes for your audacious captain. Happy listening! =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax again","nice_airdate":"Thursday 1st March, 2018<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
