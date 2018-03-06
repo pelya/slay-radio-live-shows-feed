@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180306T190000Z
-DTEND:20180306T220000Z
-SUMMARY:ziona and Slaygon - Wibbly-wobbly evening
-DESCRIPTION:Hello Slayers,We are back and we won't be alone! Wobbler joins us around 9-ish via Skype, who's been active on the remix scene since day 1, and recently came out with 11 new remixes after 6 years of break. Join us and request your favourites, also we wouldn't mind if some songs would be related to him - there are over 30 remixes to choose from! SLAY tuned! 
-UID:2038@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
