@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20180306T190000Z
-DTEND:20180306T220000Z
-SUMMARY:ziona and Slaygon - Wibbly-wobbly evening
-DESCRIPTION:Hello Slayers,We are back and we won't be alone! Wobbler joins us around 9-ish via Skype, who's been active on the remix scene since day 1, and recently came out with 11 new remixes after 6 years of break. Join us and request your favourites, also we wouldn't mind if some songs would be related to him - there are over 30 remixes to choose from! SLAY tuned! 
-UID:2038@slayradio.org
+DTSTART:20180308T190000Z
+DTEND:20180308T220000Z
+SUMMARY:KraxxUltima - Krax plays Trax indeed
+DESCRIPTION:Another fine week into March, light snowfall and warmer weather. And my voice has improved after a cold.So climb aboard the unsinkable ship, pour a nice drink, and request some great remixes for the gang and your Commodore captain. Have a jollyrogery fun time =)
+UID:2039@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20180308T190000Z
-DTEND:20180308T220000Z
-SUMMARY:KraxxUltima - Krax plays Trax indeed
-DESCRIPTION:Another fine week into March, light snowfall and warmer weather. And my voice has improved after a cold.So climb aboard the unsinkable ship, pour a nice drink, and request some great remixes for the gang and your Commodore captain. Have a jollyrogery fun time =)
-UID:2039@slayradio.org
+DTSTART:20180306T190000Z
+DTEND:20180306T220000Z
+SUMMARY:ziona and Slaygon - Wibbly-wobbly evening
+DESCRIPTION:Hello Slayers,We are back and we won't be alone! Wobbler joins us around 9-ish via Skype, who's been active on the remix scene since day 1, and recently came out with 11 new remixes after 6 years of break. Join us and request your favourites, also we wouldn't mind if some songs would be related to him - there are over 30 remixes to choose from! SLAY tuned! 
+UID:2038@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
