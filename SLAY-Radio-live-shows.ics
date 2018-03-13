@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20180313T190000Z
-DTEND:20180313T220000Z
-SUMMARY:ziona and Slaygon - Tuesday with Sina and some Gathering stories
-DESCRIPTION:Hej Slayers, we hope your week starts fine! If you want to cheer up more your Tuesday evening, we'll be here for you as usual, and our guest will be Sina Farhat this time, who participated at many Gatherings as photographer of the event. We bet he will have a few stories amongst your requests! Join us and SLAY tuned! 
-UID:2040@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20180314T190000Z
 DTEND:20180314T220000Z
 SUMMARY:Bozzy and the Bint - BBKB
@@ -45,6 +29,22 @@ DTEND:20180315T220000Z
 SUMMARY:KraxxUltima - Krax plays Trax
 DESCRIPTION:Ahoy mateys! Spring weather is closing in and our Commodore oceans are getting more and more sailable by each day, So join your audacious captain of the unsinkable ship, and request some C64 or Amiga tunes for jolliness! =)
 UID:2042@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T190000Z
+DTEND:20180313T220000Z
+SUMMARY:ziona and Slaygon - Tuesday with Sina and some Gathering stories
+DESCRIPTION:Hej Slayers, we hope your week starts fine! If you want to cheer up more your Tuesday evening, we'll be here for you as usual, and our guest will be Sina Farhat this time, who participated at many Gatherings as photographer of the event. We bet he will have a few stories amongst your requests! Join us and SLAY tuned! 
+UID:2040@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
