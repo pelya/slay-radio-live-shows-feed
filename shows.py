@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"2042","airdate":"1521140400","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax","blurb":"Ahoy mateys! Spring weather is closing in and our Commodore oceans are getting more and more sailable by each day, So join your audacious captain of the unsinkable ship, and request some C64 or Amiga tunes for jolliness! =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax","nice_airdate":"Thursday 15th March, 2018<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
