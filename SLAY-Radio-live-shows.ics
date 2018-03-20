@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20180320T190000Z
-DTEND:20180320T220000Z
-SUMMARY:ziona and Slaygon - TueSIDay with Marcel 
-DESCRIPTION:Ellou Everyone!We're glad to announce our next live show with our guest: Sidologie a.k.a. Marcel Donnu00e9! He is well-known as the Jean-Michel Jarre of the 64 scene, and now he is going to talk about his early years, his Project Sidologie (both I and II) with the 6+1 CD-s, and maaany more things!Join the conversation, ask questions, request songs, and SLAY tuned!
-UID:2043@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20180321T190000Z
 DTEND:20180321T220000Z
 SUMMARY:Bozzy and the Bint - BBKB
@@ -45,6 +29,22 @@ DTEND:20180322T220000Z
 SUMMARY:KraxxUltima - Krax plays Trax again indeed
 DESCRIPTION:Ahoy everyone and welcome aboard once more for another hearty voyage over the Commodore oceans. Request your favorite C64/Amiga tunes and your courageous captain shall play them to the best of capabilities. Damn the torpedoes and let's blast =)
 UID:2045@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180320T190000Z
+DTEND:20180320T220000Z
+SUMMARY:ziona and Slaygon - TueSIDay with Marcel 
+DESCRIPTION:Ellou Everyone!We're glad to announce our next live show with our guest: Sidologie a.k.a. Marcel Donnu00e9! He is well-known as the Jean-Michel Jarre of the 64 scene, and now he is going to talk about his early years, his Project Sidologie (both I and II) with the 6+1 CD-s, and maaany more things!Join the conversation, ask questions, request songs, and SLAY tuned!
+UID:2043@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
