@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20180321T190000Z
-DTEND:20180321T220000Z
-SUMMARY:Bozzy and the Bint - BBKB
-DESCRIPTION:It's the Taint of the Weeku2122 so it's time to listen to Boz to talk utter bollocks in between your requests. Unfortunately Kate isn't here to translate some of it into English, so you're going to have to listen intently! All aboard the Train-Wreck, WOO WOOH!
-UID:2044@slayradio.org
+DTSTART:20180322T190000Z
+DTEND:20180322T220000Z
+SUMMARY:KraxxUltima - Krax plays Trax again indeed
+DESCRIPTION:Ahoy everyone and welcome aboard once more for another hearty voyage over the Commodore oceans. Request your favorite C64/Amiga tunes and your courageous captain shall play them to the best of capabilities. Damn the torpedoes and let's blast =)
+UID:2045@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20180322T190000Z
-DTEND:20180322T220000Z
-SUMMARY:KraxxUltima - Krax plays Trax again indeed
-DESCRIPTION:Ahoy everyone and welcome aboard once more for another hearty voyage over the Commodore oceans. Request your favorite C64/Amiga tunes and your courageous captain shall play them to the best of capabilities. Damn the torpedoes and let's blast =)
-UID:2045@slayradio.org
+DTSTART:20180321T190000Z
+DTEND:20180321T220000Z
+SUMMARY:Bozzy and the Bint - BBKB
+DESCRIPTION:It's the Taint of the Weeku2122 so it's time to listen to Boz to talk utter bollocks in between your requests. Unfortunately Kate isn't here to translate some of it into English, so you're going to have to listen intently! All aboard the Train-Wreck, WOO WOOH!
+UID:2044@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
