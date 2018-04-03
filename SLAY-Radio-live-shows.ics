@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20180403T180000Z
-DTEND:20180403T210000Z
-SUMMARY:ziona and Slaygon - Mighty night with Romeo Knight
-DESCRIPTION:Hello Slayers! New week, new Tuesday and news at their best! Our guest will be Romeo Knight, who will talk about all the things that connects him to the music, scene and the C64 itself! As usual, you can ask questions from him, request songs from us, sit back, relax, or dance on your table enjoying the show! Join us and SLAY tuned!
-UID:2046@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
