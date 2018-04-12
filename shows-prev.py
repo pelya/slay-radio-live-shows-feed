@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"2051","airdate":"1523556000","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax indeed","blurb":"Yep ..added late again , but an improvement since last week :-) ... Come onboard and request some Commodore 64 and Amiga remixes for yer ole captain on the unsinkable ship.  Hyeah!","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax indeed","nice_airdate":"Thursday 12th April, 2018<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
