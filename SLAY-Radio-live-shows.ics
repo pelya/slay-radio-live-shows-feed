@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20180417T180000Z
+DTEND:20180417T210000Z
+SUMMARY:ziona and Slaygon - Sci-fi Tuesday
+DESCRIPTION:Hello Dear Slayers,Long time no TCP! Okay, it's been only 2 weeks. But now we are back, and we picked a favourite topic of ours for this Tuesday, which most of you might be interested too - Sci-Fi!So we might talk about movies, series, books and even games related to that (in the latter we have less experience, but who knows - for example I like Space invaders - ziona :)And you can request your favourite remixes as well (also, there are plenty of them out there related to space games, but you can ask for anything this time ;)Make some space in your calendar and come SLAY along with us!
+UID:2052@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
