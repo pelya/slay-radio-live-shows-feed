@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20180419T180000Z
+DTEND:20180419T210000Z
+SUMMARY:KraxxUltima - Krax plays Trax
+DESCRIPTION:Heya mateys , and welcome aboard the unsinkable ship once again. Sunny weather this week, the water is  warmer and infested with yummy fish and oh ..Commodore remixes!  So request away some Amiga and C64 tunes! =)(Also , R.I.P. Gunny R Lee Ermey).. We salute you!
+UID:2053@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20180417T180000Z
 DTEND:20180417T210000Z
 SUMMARY:ziona and Slaygon - Sci-fi Tuesday
