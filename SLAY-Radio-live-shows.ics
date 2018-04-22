@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20180424T180000Z
+DTEND:20180424T210000Z
+SUMMARY:ziona and Slaygon - Unusually Regular Request Show
+DESCRIPTION:Hello Our Beloved SLAYPeeps! We think last week we had a really pleasant conversation about sci-fi movies and novels, which unfortunately got lost in the virtual space as a recording, but those who were there seemed to enjoy it. So we were thinking and got to a question: if we could talk so much stupid things if needed, why didn't we ever do a very USUAL, TYPICAL, NORMAL request show which does not have any specified topic or guest? Prepare yourself and your favourite tracks because _this is what we are going to try now_! OK, to make it just a little special you could give us a reason why you love the tune you have picked so much! =) Grab a drink, sit back, relax and enjoy SLAYing with us! 
+UID:2054@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
