@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20180502T180000Z
+DTEND:20180502T210000Z
+SUMMARY:Boz - BBB
+DESCRIPTION:It's time for Boz to transmit the final regular BBB and the penultimate BBKB, where he'll utter complete bollocks in between your requests. All aboard the Train-Wreck, WOO WOOH!
+UID:2057@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
