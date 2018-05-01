@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180503T180000Z
+DTEND:20180503T210000Z
+SUMMARY:KraxxUltima - Krax plays Trax again
+DESCRIPTION:Back with a regular showname ,just what the sea doctor ordered. Tune in , request some great Commodore remixes and such , mix some potions, damn the torpedoes, and most importantly.. Have fun!!
+UID:2058@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
