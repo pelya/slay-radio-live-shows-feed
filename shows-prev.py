@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"2058","airdate":"1525370400","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax again","blurb":"Back with a regular showname ,just what the sea doctor ordered. Tune in , request some great Commodore remixes and such , mix some potions, damn the torpedoes, and most importantly.. Have fun!!","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax again","nice_airdate":"Thursday 3rd May, 2018<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
