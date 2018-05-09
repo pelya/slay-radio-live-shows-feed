@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180509T180000Z
-DTEND:20180509T210000Z
-SUMMARY:Bozzy and the Bint - The LAST BBKB in the WORLD... ever... EVER!
-DESCRIPTION:It's time to draw the curtains on a show that's been around since 2004. Join Boz (in his 14th year) and Kate (in her second) for the last regular show that the guys will be broadcasting. All good things must come to an end.All aboard the Train-Wreck, WOO WOOH!
-UID:2059@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
