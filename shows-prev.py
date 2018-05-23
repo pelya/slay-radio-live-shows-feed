@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2061","airdate":"1527184800","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax","blurb":"Hello again you pirates!  I've been away for a short while (a week)  , but i'm back into the hot air again!   So , please request lots of great Commodore remixes in the honor of SlayRadio and all :)  \n\nCheers and welcome aboard!","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax","nice_airdate":"Thursday 24th May, 2018<br \/>at 20:00 USRT"}]}
