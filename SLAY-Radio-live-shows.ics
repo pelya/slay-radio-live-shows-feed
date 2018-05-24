@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20180524T180000Z
-DTEND:20180524T210000Z
-SUMMARY:KraxxUltima - Krax plays Trax
-DESCRIPTION:Hello again you pirates!  I've been away for a short while (a week)  , but i'm back into the hot air again!   So , please request lots of great Commodore remixes in the honor of SlayRadio and all :)  Cheers and welcome aboard!
-UID:2061@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
