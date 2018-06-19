@@ -39,20 +39,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180619T180000Z
-DTEND:20180619T210000Z
-SUMMARY:ziona and Slaygon - Logging in again
-DESCRIPTION:After a long pause, we are back, and from the second Tuesday of July everything will be back to normal and we will be on air weekly. As some of you know, we had an unfortunate reason to stay away from broadcasting, since I lost my Dad recently and I was around my family whenever I could. He was the reason I got my interest very early on towards computers and sci-fi. He got all my computers in my child and teenagehood in fact. His non-stop optimism was cheering up everyone around him. Without him I would not be who I am, and I would not be where I am right now. There won't be any concept, just a free-flow show, as it is, and we will see where it goes. Take care! /ziona
-UID:2066@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
