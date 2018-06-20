@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180620T180000Z
-DTEND:20180620T210000Z
-SUMMARY:Boz - BBB
-DESCRIPTION:Boz returns for a BBB after hanging up his keys for a while. Expect the usual nonsense with your requests in between. All aboard the Train-Wreck, WOO WOOH!
-UID:2065@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
