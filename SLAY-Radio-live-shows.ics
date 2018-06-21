@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20180621T180000Z
-DTEND:20180621T210000Z
-SUMMARY:KraxxUltima - The Ultimate Summerwaves
-DESCRIPTION:Yarrr! Avast me scurvy mateys! Damn the torpedoes and..ok. But anyways, Thursday night is here and we sail forth on the unsinkable ship, once more traversing the high soundwaves of the Commodore Ocean. So stay awhile and listen, and request away great tunes =)  HYEAH!
-UID:2068@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
