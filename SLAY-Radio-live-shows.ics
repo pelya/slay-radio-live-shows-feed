@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20180710T180000Z
-DTEND:20180710T210000Z
-SUMMARY:ziona and Slaygon - Kickstarting the new season
-DESCRIPTION:Hello Dear Slayers, We are back on the waves and ready for a fresh start! After Ziona's logistic issues we will be back on air weekly again. We think there will be plenty of scene related things to talk about amongst your requests, birds are tweeting about upcoming projects and summer/autumn parties, and this will be a new warmup-show for us too. Fasten your seat belts, sit back, relax and SLAY with us! 
-UID:2070@slayradio.org
+DTSTART:20180712T180000Z
+DTEND:20180712T210000Z
+SUMMARY:KraxxUltima - Krax plays hot Trax
+DESCRIPTION:Hyeah! While the summer heat is roasting us good, the unsinkable ship luckily remains on the Commodore Ocean, unscurved (is that even a word?) and ready for command. Captain Kraxx will take your requests into heart and provide a perilous journey through coffins, rum barrels and Arrrrrghs !
+UID:2071@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20180712T180000Z
-DTEND:20180712T210000Z
-SUMMARY:KraxxUltima - Krax plays hot Trax
-DESCRIPTION:Hyeah! While the summer heat is roasting us good, the unsinkable ship luckily remains on the Commodore Ocean, unscurved (is that even a word?) and ready for command. Captain Kraxx will take your requests into heart and provide a perilous journey through coffins, rum barrels and Arrrrrghs !
-UID:2071@slayradio.org
+DTSTART:20180710T180000Z
+DTEND:20180710T210000Z
+SUMMARY:ziona and Slaygon - Kickstarting the new season
+DESCRIPTION:Hello Dear Slayers, We are back on the waves and ready for a fresh start! After Ziona's logistic issues we will be back on air weekly again. We think there will be plenty of scene related things to talk about amongst your requests, birds are tweeting about upcoming projects and summer/autumn parties, and this will be a new warmup-show for us too. Fasten your seat belts, sit back, relax and SLAY with us! 
+UID:2070@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
