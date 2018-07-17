@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180717T180000Z
-DTEND:20180717T210000Z
-SUMMARY:ziona and Slaygon - Tuesday lemonade with Citrus
-DESCRIPTION:Ahoi Everyone! Want a refreshing sweet and sour lemonade with ice in the middle of this hot summer? We certainly do, and because citrus fruits are the best to flavour it, we'll have a guest interview as well, with the guy who narrated Ziona's intros right from the start of her broadcasting!The Voice himself will talk about his everyday and demoscene life since he is a programmer as well. And amongst all those things, you can prepare your requests! SLAY tuned! 
-UID:2072@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
