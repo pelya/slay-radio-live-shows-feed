@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20180724T180000Z
+DTEND:20180724T210000Z
+SUMMARY:ziona and Slaygon - Evening stories with Spavatch
+DESCRIPTION:Knock, knock! Hello Everyone! This evening will be a bit special, because we will have an old precious Polish listener for an interview; Spavatch. He prepares with stories about Eastern Europe's retro computer scene history, demoscene and gamedev - behind the iron curtains and after it.It might be most interesting for people who do not come from that region. Ziona can relate, Slaygon assists, and we will see, how far we can go back in time! :) SLAY with us, add your memories and comments between your requests!
+UID:2074@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
