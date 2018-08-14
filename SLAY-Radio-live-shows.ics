@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20180817T200000Z
+DTEND:20180817T230000Z
+SUMMARY:ziona - u00c1rok Party Live Remix Set 2018
+DESCRIPTION:The annual Hungarian 8-bit party, u00c1rok (translates to Ditch) has its 20th anniversary this year, and - as in the latest years - Ziona does a live DJ set to boost the mood of Friday evening! Join us for the megamix experience - melodies of the 64! 
+UID:2079@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
