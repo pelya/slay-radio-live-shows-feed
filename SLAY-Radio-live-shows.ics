@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20180819T170000Z
+DTEND:20180819T200000Z
+SUMMARY:KraxxUltima - Sunday Chicken In-Show Impromptu
+DESCRIPTION:Ahoy there!  Well there was no regular Thursday show was there ,so Kraxx is here to hold yer hearts young and pumping at the very end of the week and also one hour earlier! Do request yer favorite C64/Amiga remixes or original gamemusic of a similar caliber =)  Cheers!!  and please enjoy what's left of summer.
+UID:2081@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
