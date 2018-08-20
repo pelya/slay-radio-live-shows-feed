@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2082","airdate":"1534874400","name_switch":"off","DJ":"ziona and Slaygon","showname":"Post-party ramblings","blurb":"Hello again SLAYFolks,\n\nWe are back from our trip with lot of great party memories, and some we might share on air! Prepare your requests, beers or juice, and spend a chillax-evening with us! \n\nCheers! ","nice_showname":"<strong><big>ziona and Slaygon<\/big><\/strong><br \/>Post-party ramblings","nice_airdate":"Tuesday 21st August, 2018<br \/>at 20:00 USRT"}]}
