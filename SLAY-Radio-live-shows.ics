@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180821T180000Z
-DTEND:20180821T210000Z
-SUMMARY:ziona and Slaygon - Post-party ramblings
-DESCRIPTION:Hello again SLAYFolks,We are back from our trip with lot of great party memories, and some we might share on air! Prepare your requests, beers or juice, and spend a chillax-evening with us! Cheers! 
-UID:2082@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
