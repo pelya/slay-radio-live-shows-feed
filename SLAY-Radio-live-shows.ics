@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20180904T180000Z
-DTEND:20180904T210000Z
-SUMMARY:ziona and Slaygon - Adventurous autumn-start
-DESCRIPTION:Hello Slayers,September arrived, and the weekend brought us great releases from the Riverwash Party in the Chip music, Tracked music and Streaming music categories! We will play some, amongst your requests of course. Start the new season (and the school) with us and SLAY tuned! 
-UID:2086@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
