@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2087","airdate":"1536256800","name_switch":"off","DJ":"KraxxUltima","showname":"Krax plays Trax again","blurb":"Ahoy thar! Back again on the Commodore oceans are we ,and sailing the soundwaves against all odds and political turmoil and whatnot. Strap on and enjoy another mighty request show. Damn the torpedoes once more!","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>Krax plays Trax again","nice_airdate":"Thursday 6th September, 2018<br \/>at 20:00 USRT"}]}
