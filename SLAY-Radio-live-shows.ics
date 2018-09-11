@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180911T180000Z
-DTEND:20180911T210000Z
-SUMMARY:ziona and Slaygon - Post-Function 2018
-DESCRIPTION:Ahoy Everyone,An awesome demoscene party happened on the weekend in the beautiful Budapest which Ziona attends annually but this time she had to skip it - However, great productions were released there and we will show you some in between the upcoming shows' requests! Prepare your ears for some quality songs, and don't forget to ask your favourites as well! 
-UID:2091@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
