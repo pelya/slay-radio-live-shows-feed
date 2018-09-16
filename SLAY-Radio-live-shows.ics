@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20180916T100000Z
-DTEND:20180916T130000Z
-SUMMARY:Gazoo - PMPVsTestingTheThird
-DESCRIPTION:Yes - It's true, and I am as amazed as you are that finally the time has come for the third, and hopefully final, show before the real line-up of shows commences.It seems a bit ludicrous when you consider that my first test show intended to kickstart all my forthcoming shows happened almost 3 months ago now. There's good reason though, tune in and you'll see/hear/find out.Also - a shit ton of new show features to test, too numerous to mention here. Be there, and be square!
-UID:2090@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
