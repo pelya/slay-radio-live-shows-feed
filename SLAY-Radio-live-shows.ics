@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20180918T180000Z
-DTEND:20180918T210000Z
-SUMMARY:ziona and Slaygon - Requests a la carte
-DESCRIPTION:Heyho Boys and Girls, It's high time for your requests and your requests only! So this Tuesday will be all about your favourite tracks, ask what you want to hear, you can have even multiple requests - if it fits our timeframe, we will play it. Lay down on the bed and let the melodies and rhythms circulate through your body! SLAY tuned! ;) 
-UID:2093@slayradio.org
+DTSTART:20180920T180000Z
+DTEND:20180920T210000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Alright !  We are back!  What else is there to say , it's only been a 2 week hiatus anyway  :)  Welcome aboard folks , and we're ready to once again set sail onto dangerous Commodore waters and/or beyond .  So...Get yer requests ready and humor old Kraxx here until the end :)
+UID:2092@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20180920T180000Z
-DTEND:20180920T210000Z
-SUMMARY:KraxxUltima - The Ultimate Crack
-DESCRIPTION:Alright !  We are back!  What else is there to say , it's only been a 2 week hiatus anyway  :)  Welcome aboard folks , and we're ready to once again set sail onto dangerous Commodore waters and/or beyond .  So...Get yer requests ready and humor old Kraxx here until the end :)
-UID:2092@slayradio.org
+DTSTART:20180918T180000Z
+DTEND:20180918T210000Z
+SUMMARY:ziona and Slaygon - Requests a la carte
+DESCRIPTION:Heyho Boys and Girls, It's high time for your requests and your requests only! So this Tuesday will be all about your favourite tracks, ask what you want to hear, you can have even multiple requests - if it fits our timeframe, we will play it. Lay down on the bed and let the melodies and rhythms circulate through your body! SLAY tuned! ;) 
+UID:2093@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
