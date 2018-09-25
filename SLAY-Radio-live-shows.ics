@@ -39,20 +39,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180925T180000Z
-DTEND:20180925T210000Z
-SUMMARY:ziona and Slaygon - Tuesday broad(er)cast
-DESCRIPTION:Hello SLAYers... and potential Youtube and Facebook listeners! We are broading our horizon and extending our live broadcast to Facebook and Youtube as well! This way, if some people might miss our Fb warning, still they can get a reminder. Also, Flashparty, the only demoparty in South America just happened over the weekend, and the lovely people played SLAY Radio there when there weren't any events happening, so we show some of the compo releases from their mp3 and oldschool music compo as well! Join us at any of our channels, share your experiences with us if you were there and SLAY tuned! :) 
-UID:2095@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
