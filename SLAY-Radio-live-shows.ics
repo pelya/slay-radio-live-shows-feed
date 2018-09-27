@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180927T180000Z
-DTEND:20180927T210000Z
-SUMMARY:KraxxUltima - The Ultimate Crack
-DESCRIPTION:Welcome to another voyage onto the Commodore ocean, with a hopefully functioning mixer for steering us straight ahead. Request away your C64/Amiga favorites and let's have fun!
-UID:2096@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
