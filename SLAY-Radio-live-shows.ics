@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20180927T180000Z
-DTEND:20180927T210000Z
-SUMMARY:KraxxUltima - The Ultimate Crack
-DESCRIPTION:Welcome to another voyage onto the Commodore ocean, with a hopefully functioning mixer for steering us straight ahead. Request away your C64/Amiga favorites and let's have fun!
-UID:2096@slayradio.org
+DTSTART:20180930T100000Z
+DTEND:20180930T130000Z
+SUMMARY:Gazoo - PMPVsTestingTheFourth
+DESCRIPTION:And the void opened, and out peered a solitary show.Be there and be a square sine-wave.
+UID:2094@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20180930T100000Z
-DTEND:20180930T130000Z
-SUMMARY:Gazoo - PMPVsTestingTheFourth
-DESCRIPTION:And the void opened, and out peered a solitary show.Be there and be a square sine-wave.
-UID:2094@slayradio.org
+DTSTART:20180927T180000Z
+DTEND:20180927T210000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Welcome to another voyage onto the Commodore ocean, with a hopefully functioning mixer for steering us straight ahead. Request away your C64/Amiga favorites and let's have fun!
+UID:2096@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
