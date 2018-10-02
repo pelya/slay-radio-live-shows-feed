@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20181004T180000Z
+DTEND:20181004T210000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Finally we're into the Halloween month. As if the global weather isn't spooky enough. Anyway , Kraxx is here once again to entertain us playing C64 and Amiga classics/remixes. Go ahead and request your hearts away =)
+UID:2098@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20181002T180000Z
 DTEND:20181002T210000Z
 SUMMARY:ziona and Slaygon - The Joke(r)-show
