@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"2098","airdate":"1538676000","name_switch":"off","DJ":"KraxxUltima","showname":"The Ultimate Crack","blurb":"Finally we're into the Halloween month. As if the global weather isn't spooky enough. Anyway , Kraxx is here once again to entertain us playing C64 and Amiga classics\/remixes. Go ahead and request your hearts away =)","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>The Ultimate Crack","nice_airdate":"Thursday 4th October, 2018<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
