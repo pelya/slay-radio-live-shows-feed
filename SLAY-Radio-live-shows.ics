@@ -23,4 +23,148 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181012T150000Z
+DTEND:20181012T180000Z
+SUMMARY:Back in Time Live 2018 - Commodore Cafu00e9 with GRG
+DESCRIPTION:We open the BIT Live weekend with Glenn Rune Gallefoss - he will come and play SIDs from his hypercharged C64! 
+UID:2100@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181012T170000Z
+DTEND:20181012T200000Z
+SUMMARY:Back in Time Live 2018 - Live checkin by Ziona and Slaygon
+DESCRIPTION:Around 19:00 we take over the microphones for about 2 hours and will try to send you bits and pieces of the warmup party mood! Short interviews, small talks, and remixes of course. Requests are welcome from our online listeners as well! 
+UID:2101@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181012T190000Z
+DTEND:20181012T220000Z
+SUMMARY:Back in Time Live 2018 - Reyn Ouwehand LIVE
+DESCRIPTION:The first live act of the evening is Reyn, who will undoubtedly amaze us with his talent - as usual! A true fan can't miss it! 
+UID:2102@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181012T210000Z
+DTEND:20181013T000000Z
+SUMMARY:Back in Time Live 2018 - Jeroen Tel LIVE
+DESCRIPTION:Jeroen live on stage - should we add anything more? No words needed, just pure music. Have fun! 
+UID:2103@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181012T223000Z
+DTEND:20181013T013000Z
+SUMMARY:Back in Time Live 2018 - Ziona's 64 remix set LIVE - Friday Fun
+DESCRIPTION:After the great evening, Ziona gets on stage to speed up and wind down with her selection of Commodore remixes! 
+UID:2106@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181013T170000Z
+DTEND:20181013T200000Z
+SUMMARY:Back in Time Live 2018 - Live checkin by Ziona and Slaygon
+DESCRIPTION:Ziona and Slaygon lurks again for people to talk to and warmup the mood for the saturday night fever! Requests are welcome from our online listeners as well! 
+UID:2104@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181013T190000Z
+DTEND:20181013T220000Z
+SUMMARY:Back in Time Live 2018 - Panel discussion with composers and SceneSat
+DESCRIPTION:Learn more about your favourite composers - an hour talk in a form of panel discussion with Ziphoid! 
+UID:2105@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181013T200000Z
+DTEND:20181013T230000Z
+SUMMARY:Back in Time Live 2018 - FastLoaders LIVE
+DESCRIPTION:And here is the most badass 64 band from Norway to pamper your ears on stage! Don't miss it, because it's gonna be metal at its best! 
+UID:2107@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181013T220000Z
+DTEND:20181014T010000Z
+SUMMARY:Back in Time Live 2018 - Ziona's 64 remix set LIVE - Saturday Sensation
+DESCRIPTION:And trying to make sure you have a proper post-treatment, Ziona closes the evening again with bouncy remixes, and maybe some lounge in the end to ensure your good nights' sleep! 
+UID:2108@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
