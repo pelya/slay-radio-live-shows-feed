@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20181012T170000Z
 DTEND:20181012T200000Z
-SUMMARY:Back in Time Live 2018 - Live checkin by Ziona and Slaygon
+SUMMARY:Back in Time Live 2018 - Live checkin by Ziona and Slaygon pt.1
 DESCRIPTION:Around 19:00 we take over the microphones for about 2 hours and will try to send you bits and pieces of the warmup party mood! Short interviews, small talks, and remixes of course. Requests are welcome from our online listeners as well! 
 UID:2101@slayradio.org
 CLASS:PUBLIC
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 DTSTART:20181012T190000Z
 DTEND:20181012T220000Z
 SUMMARY:Back in Time Live 2018 - Reyn Ouwehand LIVE
-DESCRIPTION:The first live act of the evening is Reyn, who will undoubtedly amaze us with his talent - as usual! A true fan can't miss it! 
+DESCRIPTION:The first live act of the evening is Reyn, who will undoubtedly amaze us with his talent - as usual! A true fan can't miss this! 
 UID:2102@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
@@ -106,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20181013T170000Z
 DTEND:20181013T200000Z
-SUMMARY:Back in Time Live 2018 - Live checkin by Ziona and Slaygon
+SUMMARY:Back in Time Live 2018 - Live checkin by Ziona and Slaygon pt.2
 DESCRIPTION:Ziona and Slaygon lurks again for people to talk to and warmup the mood for the saturday night fever! Requests are welcome from our online listeners as well! 
 UID:2104@slayradio.org
 CLASS:PUBLIC
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 DTSTART:20181013T190000Z
 DTEND:20181013T220000Z
 SUMMARY:Back in Time Live 2018 - Panel discussion with composers and SceneSat
-DESCRIPTION:Learn more about your favourite composers - an hour talk in a form of panel discussion with Ziphoid! 
+DESCRIPTION:Learn more about your favourite composers - an hour talk in the form of panel discussion with Ziphoid! 
 UID:2105@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
