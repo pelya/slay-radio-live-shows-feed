@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20181009T180000Z
-DTEND:20181009T210000Z
-SUMMARY:ziona, Slaygon and Boz - A Tribute to Ben Daglish
-DESCRIPTION:Dear Everyone, As you know, we got tragic news this week - a beloved Commodore legend left planet Earth. Ben had a huge impact on thousands of people with his music, and he certainly left a void in many peoples hearts. So, this show will be all about Ben. We will have well-known guests on Skype sharing great memories and telling stories about him amongst your requests - Please request anything related to him this time, be it a remix or a SID!
-UID:2099@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20181011T180000Z
 DTEND:20181011T210000Z
 SUMMARY:KraxxUltima - The Ultimate Spooky Crack
@@ -173,6 +157,22 @@ DTEND:20181014T010000Z
 SUMMARY:Back in Time Live 2018 - Ziona's 64 remix set LIVE - Saturday Sensation
 DESCRIPTION:And trying to make sure you have a proper post-treatment, Ziona closes the evening again with bouncy remixes, and maybe some lounge in the end to ensure your good nights' sleep! 
 UID:2108@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181009T180000Z
+DTEND:20181009T210000Z
+SUMMARY:ziona, Slaygon and Boz - A Tribute to Ben Daglish
+DESCRIPTION:Dear Everyone, As you know, we got tragic news this week - a beloved Commodore legend left planet Earth. Ben had a huge impact on thousands of people with his music, and he certainly left a void in many peoples hearts. So, this show will be all about Ben. We will have well-known guests on Skype sharing great memories and telling stories about him amongst your requests - Please request anything related to him this time, be it a remix or a SID!
+UID:2099@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
