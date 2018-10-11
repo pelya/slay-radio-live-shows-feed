@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20181011T180000Z
-DTEND:20181011T210000Z
-SUMMARY:KraxxUltima - The Ultimate Spooky Crack
-DESCRIPTION:While we will surely miss Ben Daglish for a long time forward , life goes on. Let's have a spooky and festive Thursday in between everything. Same thing as usual , make those Commodore requests and captain Kraxx plays them to capacity. Let's Ride!
-UID:2109@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20181012T150000Z
 DTEND:20181012T180000Z
 SUMMARY:Back in Time Live 2018 - Commodore Cafu00e9 with GRG
@@ -157,6 +141,22 @@ DTEND:20181014T010000Z
 SUMMARY:Back in Time Live 2018 - Ziona's 64 remix set LIVE - Saturday Sensation
 DESCRIPTION:And trying to make sure you have a proper post-treatment, Ziona closes the evening again with bouncy remixes, and maybe some lounge in the end to ensure your good nights' sleep! 
 UID:2108@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181011T180000Z
+DTEND:20181011T210000Z
+SUMMARY:KraxxUltima - The Ultimate Spooky Crack
+DESCRIPTION:While we will surely miss Ben Daglish for a long time forward , life goes on. Let's have a spooky and festive Thursday in between everything. Same thing as usual , make those Commodore requests and captain Kraxx plays them to capacity. Let's Ride!
+UID:2109@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
