@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20181012T200000Z
-DTEND:20181012T230000Z
-SUMMARY:Back in Time Live 2018 - Reyn Ouwehand LIVE
-DESCRIPTION:The first live act of the evening is Reyn, who will undoubtedly amaze us with his talent - as usual! A true fan can't miss this! 
-UID:2102@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20181012T210000Z
 DTEND:20181013T000000Z
 SUMMARY:Back in Time Live 2018 - Ziona's 64 remix set LIVE - Friday Fun
@@ -109,6 +93,22 @@ DTEND:20181014T010000Z
 SUMMARY:Back in Time Live 2018 - Ziona's 64 remix set LIVE - Saturday Sensation
 DESCRIPTION:And trying to make sure you have a proper post-treatment, Ziona closes the evening again with bouncy remixes, and maybe some lounge in the end to ensure your good nights' sleep! 
 UID:2108@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181012T200000Z
+DTEND:20181012T230000Z
+SUMMARY:Back in Time Live 2018 - Reyn Ouwehand LIVE
+DESCRIPTION:The first live act of the evening is Reyn, who will undoubtedly amaze us with his talent - as usual! A true fan can't miss this! 
+UID:2102@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
