@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20181016T180000Z
-DTEND:20181016T210000Z
-SUMMARY:ziona and Slaygon - Post BITs and more!
-DESCRIPTION:Hi Everyone! We arrived back from Norway, leaving an amazing weekend behind, about which we are gonna talk for sure. Also, if you don't request enough, we might play some of the unplayed live-requests from BIT Live! And we will have a guest in Colin Dooley (Fungus, Ben's friend) back on air for a while, since he has got a green light to publish a CD called Septima made by Ben Daglish and him back in 1991 which has never been published before. We will talk about this and play sample tracks from it too!Prepare your ears and SLAY tuned!  
-UID:2112@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
