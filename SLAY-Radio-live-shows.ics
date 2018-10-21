@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20181021T090000Z
-DTEND:20181021T120000Z
-SUMMARY:Gazoo - PMPVsTestingTheFifth
-DESCRIPTION:Even I wouldn't have expected a total of five testing shows to be required to iron out what I'd consider to be the most critical of issues, but here we are.Live video/chat system available on www.planmixplay.comSo why tune in this Sunday?It's simple - because I'll use reverse psychology and tell you not to, if you don't. So you will. See? Simple.In addition, to that, here's a little taste of the menu:- Classic SID remixes- One of a kind c-64 live style chat- The realities of rental life- PlanMixPlay moving forward- Neir: Automata- Various minor topics- Possibly (hopefully) the big finale I've been promising for a whileFor those wondering upfront - it is going to be a solo show which means you get 100% unadulterated me.
-UID:2113@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
