@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20181023T180000Z
-DTEND:20181023T210000Z
-SUMMARY:ziona and Slaygon - Just a regular request-show
-DESCRIPTION:Hello Folks!After the previous eventful weeks we thought we would chill a bit and just enjoy your requests, so if you feel like spending a pleasant regular Tuesday evening with us on the airwaves with C64 remixes, and perhaps determining what we might play, don't hesitate to join us! 
-UID:2115@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
