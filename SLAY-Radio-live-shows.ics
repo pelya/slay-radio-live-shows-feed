@@ -39,20 +39,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20181030T190000Z
-DTEND:20181030T220000Z
-SUMMARY:ziona and Slaygon - Halloween show with Bard
-DESCRIPTION:Hello our Dear Creepies! Halloween is around the corner so it's time for the scariest remixes again!We will also have Bu00e5rd, the main organizer of Back in Time Live 2018, on call to talk about his point of view and experiences of the party - Including what is it like to have an afterparty with Chris Huelsbeck, FastLoaders, Jeroen Tel and Reyn Ouwehand!X-2018 in the Netherlands is also approaching, so we might warm up for it too. Hope you will have a lot of fun with us! SLAY tuned! :)
-UID:2118@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
