@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20181101T190000Z
-DTEND:20181101T220000Z
-SUMMARY:KraxxUltima - The Post-Halloween Crack
-DESCRIPTION:So here we are , most of the Halloween craze is over by now, and we can play most anything Commodore related at least. Hope ya'll survived and also had some fun these days. Tune in and request your favorites , and if yer lucky we might get some singing as well =)
-UID:2119@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
