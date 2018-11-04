@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20181104T090000Z
-DTEND:20181104T120000Z
-SUMMARY:Gazoo - PmpVsPartialComebackTrilogy-PartOne
-DESCRIPTION:Yes my friends.We're officially out of the testing phase!...And into the next testing phase :|Honestly - I don't think PMP and the associated show can ever be classified as 'not testing' for at least the next few years or so. If that sounds odd, allow me to yield some insight:- An inherent trait of the PMPVs show, is that it's broadcast using PlanMixPlay (PMP - look it up at www.planmixplay.com)- PMP is best described as prototype (pre-alpha) software.- The resources available for developing PMP are fairly scarce. In fact - they largely comprise one person.- These resources are primarily focused on adding new features.- Every new feature will always come with bugs and require a significant amount of work to stabilize.- Given the aforementioned limited resources, properly stabilizing features will likely not be a priority for a while.- Thus PMP will, for the foreseeable future, be primarily ever-evolving and fairly unstable.That being said - an effort is made to ensure that the issues exhibited by PMP during a live broadcast are limited.Frequent listeners will know that occasionally, problems still worm their way through.But given that PMP has gone through a recent stabilization phase again (following loads of new features), I think now's as good a time as any to stop calling the shows testing shows.I hope you'll join me, possibly returning Danish guest-host, and the gang on Sunday for some C-64 tunes and silliness!
-UID:2117@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
