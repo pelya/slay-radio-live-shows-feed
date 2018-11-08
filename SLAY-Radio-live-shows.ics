@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20181108T190000Z
-DTEND:20181108T220000Z
-SUMMARY:KraxxUltima - The Ultimate Crack
-DESCRIPTION:Foggy week here sofar , and winter is almost upon us. Come inside to the Kraxx cozy corner and listen to some great Commodore tracks to warm up. Requests are on as usual ,and let's have fun! =)
-UID:2120@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
