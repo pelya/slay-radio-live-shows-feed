@@ -1,6 +1,6 @@
 #!/bin/sh
 
-curl 'http://www.slayradio.org/api.php?query=nextshows' > shows-new.py || exit
+curl 'http://www.slayradio.org/api.php?query=nextshows' > shows-new.py || exit 1
 mv -f shows.py shows-prev.py
 mv -f shows-new.py shows.py
 
@@ -90,7 +90,7 @@ done
 echo '</channel>\n</rss>' >> rss.xml
 echo 'END:VCALENDAR' >> ical.ics
 
-todos ical.ics # Convert iCal to Windows-style newlines, this is required by iCal format
+todos ical.ics || exit 1 # Convert iCal to Windows-style newlines, this is required by iCal format
 mv -f rss.xml SLAY-Radio-live-shows.xml
 rm -f SLAY-Radio-live-shows.xml # RSS feeds are available directly from SLAYRadio.org
 mv -f ical.ics SLAY-Radio-live-shows.ics
