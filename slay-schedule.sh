@@ -119,4 +119,7 @@ git push
 
 MYDIR="`realpath $0`"
 MYDIR="`dirname $MYDIR`"
-echo "Launch command\ncrontab -e\nand add line\n0 0-23/1 * * * cd $MYDIR && ./slay-schedule.sh"
+echo "Launch command"
+echo "crontab -e"
+echo "and add line"
+echo "0 0-23/1 * * * cd $MYDIR && ./slay-schedule.sh"
