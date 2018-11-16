@@ -117,4 +117,6 @@ eval `keychain --nogui --eval`
 git commit -a -m "Updated feeds"
 git push
 
-echo "Launch command\ncrontab -e\nand add line\n0 0-23/1 * * * cd /path/to/slay-schedule/script && ./slay-schedule.sh"
+MYDIR="`realpath $0`"
+MYDIR="`dirname $MYDIR`"
+echo "Launch command\ncrontab -e\nand add line\n0 0-23/1 * * * cd $MYDIR && ./slay-schedule.sh"
