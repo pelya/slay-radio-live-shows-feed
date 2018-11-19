@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2123","airdate":"1542740400","name_switch":"off","DJ":"ziona and Slaygon","showname":"RRS aka Regular Request Show","blurb":"Hello dear SLAYers! \n\nThis time it is all about your requests again. Go ahead and fill our playlist for Tuesday! =) \n","nice_showname":"<strong><big>ziona and Slaygon<\/big><\/strong><br \/>RRS aka Regular Request Show","nice_airdate":"Tuesday 20th November, 2018<br \/>at 20:00 USRT"}]}
