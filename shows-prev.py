@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"2124","airdate":"1542913200","name_switch":"off","DJ":"KraxxUltima","showname":"The Ultimate Crack","blurb":"Short blurp this time , but show should be normal , with your Commodore requests pouring in hopefully =)  Seeya on Thursday  , and keep warm!","nice_showname":"<strong><big>KraxxUltima<\/big><\/strong><br \/>The Ultimate Crack","nice_airdate":"Thursday 22nd November, 2018<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
