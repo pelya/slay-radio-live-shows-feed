@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20181202T090000Z
+DTEND:20181202T120000Z
+SUMMARY:Gazoo - PmpVsPartialComebackTrilogy-PartTwo
+DESCRIPTION:We're closing in on the extended holiday period of the year, and with that, I'll be doing a couple of more shows. Possibly even some over the holidays.There's been a bit more work occurring behind the scenes - mostly related to the automated show announcements behind the scenes. With a little luck, there'll only be one or two bugs affecting the now revived show announcement via Twitter.Either way, if you'd like yet another way to know when there's a show from me, then you should follow @PlanMixPlay on Twitter. (When working as intended) it'll tweet whenever a new show is announced (which also happens via Slay's RSS), and it'll also tweet 60, 15, and 5 minutes up to a show commencing (not happening via Slay's RSS).It'll likely be a fairly run-of-the-mill show to further narrow down bugs and possibly test one or two new features all while revelling in the magic that is C64 music :)See you there!
+UID:2125@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
