@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20181127T190000Z
-DTEND:20181127T220000Z
-SUMMARY:ziona and Slaygon - The Movie Challenge Show
-DESCRIPTION:Hello SLAYers,Every now and then, there is a movie challenge on Facebook which goes something like this: Pick 10 favourite movies of yours and post 1 movie screenshot per day.So now we challenge you: Think of the movies that had the biggest impact on you and share with us why - This way everyone can learn something new and get new tips for good pieces to watch. No genre specified this time, so it can be anything from comedy to science fiction to silent movies!As always, the Request-o-Tron 3000 will be open, so place your remix or SID wishes there and we just might play them!Join us in the conversation in the usual locations! SLAY tuned!
-UID:2126@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
