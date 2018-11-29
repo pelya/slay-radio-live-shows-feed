@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20181129T190000Z
-DTEND:20181129T220000Z
-SUMMARY:KraxxUltima - The Ultimate Winter Start
-DESCRIPTION:So ,,it seems that summertimes are well and truly finished, autumn as well. But some of us enjoy the dark and cold season to come...Even if it means less sailing on the Unsinkable Ship. But enough gloom ,we have Commodore tunes to play and as always your requests makes it more cheerful. Light some candles , prepare yer drinks, and listen in =)
-UID:2127@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
