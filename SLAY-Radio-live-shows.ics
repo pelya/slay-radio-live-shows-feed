@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20181206T190000Z
-DTEND:20181206T220000Z
-SUMMARY:KraxxUltima - The Ultimate Snowy Winter
-DESCRIPTION:Just like good old times , like the perfect winter should be ...white cold crystals everywhere..to remind us of how nice summer would be in contrast. Anyway , come on in and warm yourselves up and listen, also request nice remixes to yer captain Kraxx ..for there's some nice tunes to plow through because of recent submissions. Have fun! =)
-UID:2129@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
