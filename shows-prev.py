@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2130","airdate":"1544814000","name_switch":"off","DJ":"Boz","showname":"BBB Chrimbo Special","blurb":"It's been a while, hasn't it?! But Boz is back to have a little bit of bollocks with you. Come join him with the show he promised to do before Christmas!","nice_showname":"<strong><big>Boz<\/big><\/strong><br \/>BBB Chrimbo Special","nice_airdate":"Friday 14th December, 2018<br \/>at 20:00 USRT"}]}
