@@ -55,20 +55,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20181209T090000Z
-DTEND:20181209T120000Z
-SUMMARY:Gazoo - PmpVsXMas Part One of Two
-DESCRIPTION:Given that it's Christmas, I think it's appropriate to give the gift of prediction! A whole two shows from PlanMixPlay and me, and one of them scheduled more than a week in advance! Gasp!To heighten the excitement, the shows will not only be far apart in a time sense, but also spatially. 16,175.76 km to be exact. While it does mean the visual portion is a little in question for the second part, being I'm not too sure of the upstream in the second location, it may just end up being a classic 'Audio only' show. Who can say? Time will tell!Tune in to hear a bit about the Fallout franchise, some Immortal and PhasedBased stuff, and whatever else comes to mind at the time!See you there and stay square!Gazoo
-UID:2131@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
