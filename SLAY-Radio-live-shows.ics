@@ -39,20 +39,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20181213T190000Z
-DTEND:20181213T220000Z
-SUMMARY:KraxxUltima - The Ultimate Winter Snows Again Show
-DESCRIPTION:We're now almost knee-deep in crystals now (kidding really it's just about a decimeter sofar) but still alot in time for x-mas. Now it's Lucia ...and we get to watch the lightqueen stroll around spreading white light and stuff. Anyways ,it's a snowy show so let's have C64/Amiga requests up the.. behind us. Have a warm drink and have some fun !
-UID:2133@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
