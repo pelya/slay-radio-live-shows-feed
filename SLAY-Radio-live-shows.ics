@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20181214T190000Z
-DTEND:20181214T220000Z
-SUMMARY:Boz - BBB Chrimbo Special
-DESCRIPTION:It's been a while, hasn't it?! But Boz is back to have a little bit of bollocks with you. Come join him with the show he promised to do before Christmas!
-UID:2130@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
