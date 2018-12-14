@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20181214T190000Z
-DTEND:20181214T220000Z
-SUMMARY:Boz - BBB Chrimbo Special
-DESCRIPTION:It's been a while, hasn't it?! But Boz is back to have a little bit of bollocks with you. Come join him with the show he promised to do before Christmas!
-UID:2130@slayradio.org
+DTSTART:20181216T190000Z
+DTEND:20181216T220000Z
+SUMMARY:Gazoo - PmpVsXMas Part Two of Two
+DESCRIPTION:Given that it's Christmas, I think it's appropriate to give the gift of prediction! A whole two shows from PlanMixPlay and me, and one of them scheduled more than a week in advance! Gasp!To heighten the excitement, the shows will not only be far apart in a time sense, but also spatially. 16,175.76 km to be exact. While it does mean the visual portion is a little in question for the second part, being I'm not too sure of the upstream in the second location, it may just end up being a classic 'Audio only' show. Who can say? Time will tell!Tune in to hear a bit about the Fallout franchise, some Immortal and PhasedBased stuff, and whatever else comes to mind at the time!See you there and stay square!Gazoo
+UID:2132@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20181216T190000Z
-DTEND:20181216T220000Z
-SUMMARY:Gazoo - PmpVsXMas Part Two of Two
-DESCRIPTION:Given that it's Christmas, I think it's appropriate to give the gift of prediction! A whole two shows from PlanMixPlay and me, and one of them scheduled more than a week in advance! Gasp!To heighten the excitement, the shows will not only be far apart in a time sense, but also spatially. 16,175.76 km to be exact. While it does mean the visual portion is a little in question for the second part, being I'm not too sure of the upstream in the second location, it may just end up being a classic 'Audio only' show. Who can say? Time will tell!Tune in to hear a bit about the Fallout franchise, some Immortal and PhasedBased stuff, and whatever else comes to mind at the time!See you there and stay square!Gazoo
-UID:2132@slayradio.org
+DTSTART:20181214T190000Z
+DTEND:20181214T220000Z
+SUMMARY:Boz - BBB Chrimbo Special
+DESCRIPTION:It's been a while, hasn't it?! But Boz is back to have a little bit of bollocks with you. Come join him with the show he promised to do before Christmas!
+UID:2130@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
