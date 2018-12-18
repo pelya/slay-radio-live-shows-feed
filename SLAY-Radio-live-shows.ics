@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20181218T190000Z
-DTEND:20181218T220000Z
-SUMMARY:ziona and Slaygon - K8-bits and pieces
-DESCRIPTION:Hellooo Everyone again!After our short break, we return with our last show(?) for 2018 and we are happy to announce that we will have a virtual guest who you know very well... or maybe not so well yet? You'll have an opportunity to figure this out, because we certainly will have questions for her that she might never answered on air before :)So, we are really excited to welcome the Gothic Lady of the Remix Scene, the Musician and the Gamer: K8-bit!Prepare your requests and questions and SLAY tuned, and remember - ASCII stupid question, get a stupid ANSI! =)
-UID:2134@slayradio.org
+DTSTART:20181222T190000Z
+DTEND:20181222T220000Z
+SUMMARY:Gazoo - PmpVs2018
+DESCRIPTION:This is it. The ultimate show in the year 2018 for me.What will 2019 bring? Tune in and find out... that I don't know what 2019 will bring. I mean, I can barely predict one day ahead of time, much less an entire year. But I do know one thing; which is this. That I didn't bring my more professional than me microphone half-way around the globe to just sit and gather dust on the floor.No. It's too good for that, and damn it so am I. So there will be another show in the Europe evening time, and likely another one or two in 2019. Damn it, now I ended up making predictions after all.Somebody stop me!
+UID:2135@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20181222T190000Z
-DTEND:20181222T220000Z
-SUMMARY:Gazoo - PmpVs2018
-DESCRIPTION:This is it. The ultimate show in the year 2018 for me.What will 2019 bring? Tune in and find out... that I don't know what 2019 will bring. I mean, I can barely predict one day ahead of time, much less an entire year. But I do know one thing; which is this. That I didn't bring my more professional than me microphone half-way around the globe to just sit and gather dust on the floor.No. It's too good for that, and damn it so am I. So there will be another show in the Europe evening time, and likely another one or two in 2019. Damn it, now I ended up making predictions after all.Somebody stop me!
-UID:2135@slayradio.org
+DTSTART:20181218T190000Z
+DTEND:20181218T220000Z
+SUMMARY:ziona and Slaygon - K8-bits and pieces
+DESCRIPTION:Hellooo Everyone again!After our short break, we return with our last show(?) for 2018 and we are happy to announce that we will have a virtual guest who you know very well... or maybe not so well yet? You'll have an opportunity to figure this out, because we certainly will have questions for her that she might never answered on air before :)So, we are really excited to welcome the Gothic Lady of the Remix Scene, the Musician and the Gamer: K8-bit!Prepare your requests and questions and SLAY tuned, and remember - ASCII stupid question, get a stupid ANSI! =)
+UID:2134@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
