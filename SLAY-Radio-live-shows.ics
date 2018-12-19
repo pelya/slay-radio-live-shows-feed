@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20181220T190000Z
+DTEND:20181220T220000Z
+SUMMARY:KraxxUltima - The Pre-Christmas Show
+DESCRIPTION:Hello and welcome into the warmth within all the snow. And we have lots of it! Well over a decimeter already. But we're here to listen to Commodore tunes along with some holiday related renditions as well. So tune into yer favorite wildman and drown me with your requests =)  Seeya there!
+UID:2136@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20181222T190000Z
 DTEND:20181222T220000Z
 SUMMARY:Gazoo - PmpVs2018
