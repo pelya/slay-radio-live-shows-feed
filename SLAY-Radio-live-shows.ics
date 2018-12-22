@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20181222T190000Z
-DTEND:20181222T220000Z
-SUMMARY:Gazoo - PmpVs2018
-DESCRIPTION:This is it. The ultimate show in the year 2018 for me.What will 2019 bring? Tune in and find out... that I don't know what 2019 will bring. I mean, I can barely predict one day ahead of time, much less an entire year. But I do know one thing; which is this. That I didn't bring my more professional than me microphone half-way around the globe to just sit and gather dust on the floor.No. It's too good for that, and damn it so am I. So there will be another show in the Europe evening time, and likely another one or two in 2019. Damn it, now I ended up making predictions after all.Somebody stop me!
-UID:2135@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
