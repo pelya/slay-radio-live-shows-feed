@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20181227T190000Z
+DTEND:20181227T220000Z
+SUMMARY:KraxxUltima - The Middle Days Refinery
+DESCRIPTION:Have you all enjoyed Xmas i hope? Still lots of snow around but it'll melt eventually, at least after we get the heat up via a smoking Thursday show. Request all yuor favorite Commodore tunes and your captain will be converting raw material into products of value, or vice versa. Seeya in there =) 
+UID:2137@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
