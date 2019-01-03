@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20190103T190000Z
-DTEND:20190103T220000Z
-SUMMARY:KraxxUltima - The New Year Cracked Open
-DESCRIPTION:It's 2019 finally, and hopefully it will be an exciting new year filled with events and great music. Anyway ,i'm here for another Thursday night. We'll be playing some of the promising new tracks upped to RKO and Amigaremix during december. Any usual requests welcomed as well off course =)Don't forget about voting for the 2018 ROTY awards ,as there's only about 2 weeks left to vote , at Remix64.com.Seeya !
-UID:2138@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
