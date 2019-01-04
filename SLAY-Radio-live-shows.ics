@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20190106T190000Z
+DTEND:20190106T220000Z
+SUMMARY:Gazoo - PmpVsEurope
+DESCRIPTION:My days here in Europe are drawing to a close, so I thought, let's do one more show for the road.A few more improvements have weaseled their way into PlanMixPlay which I'll yak about. I'll probably have a few words to drop about the holidays as well, but other than that, all I can promise is a fresh set of C-64 related songs to tie you over until it's back to my usual noon-ish timeslot.Be square and be there!
+UID:2139@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
