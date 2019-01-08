@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190110T190000Z
+DTEND:20190110T220000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Winter times calls for an ice-breaker , since we're still sailing the high seas of the great Commodore Ocean. And what better way to go than having a blast on a possibly starry Thursday night. Request some tunes for yer old captain and damn all the torpedoes =)
+UID:2141@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
