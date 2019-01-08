@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20190108T190000Z
-DTEND:20190108T220000Z
-SUMMARY:ziona and Slaygon - Kickstart 2019
-DESCRIPTION:Hello Everybody! Here we go again, Happy New Year to all of you!We start the year with summing up the old one! Our plan is to play some excellent remixes from 2018. Please request from the past year only, because we want to have tips and candidates for the approaching ROTY Awards 2018!Join us and SLAY tuned! :)
-UID:2140@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
