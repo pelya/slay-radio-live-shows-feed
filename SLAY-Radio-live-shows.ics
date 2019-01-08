@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20190108T190000Z
-DTEND:20190108T220000Z
-SUMMARY:ziona and Slaygon - Kickstart 2019
-DESCRIPTION:Hello Everybody! Here we go again, Happy New Year to all of you!We start the year with summing up the old one! Our plan is to play some excellent remixes from 2018. Please request from the past year only, because we want to have tips and candidates for the approaching ROTY Awards 2018!Join us and SLAY tuned! :)
-UID:2140@slayradio.org
+DTSTART:20190110T190000Z
+DTEND:20190110T220000Z
+SUMMARY:KraxxUltima - The Ultimate Crack
+DESCRIPTION:Winter times calls for an ice-breaker , since we're still sailing the high seas of the great Commodore Ocean. And what better way to go than having a blast on a possibly starry Thursday night. Request some tunes for yer old captain and damn all the torpedoes =)
+UID:2141@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20190110T190000Z
-DTEND:20190110T220000Z
-SUMMARY:KraxxUltima - The Ultimate Crack
-DESCRIPTION:Winter times calls for an ice-breaker , since we're still sailing the high seas of the great Commodore Ocean. And what better way to go than having a blast on a possibly starry Thursday night. Request some tunes for yer old captain and damn all the torpedoes =)
-UID:2141@slayradio.org
+DTSTART:20190108T190000Z
+DTEND:20190108T220000Z
+SUMMARY:ziona and Slaygon - Kickstart 2019
+DESCRIPTION:Hello Everybody! Here we go again, Happy New Year to all of you!We start the year with summing up the old one! Our plan is to play some excellent remixes from 2018. Please request from the past year only, because we want to have tips and candidates for the approaching ROTY Awards 2018!Join us and SLAY tuned! :)
+UID:2140@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
