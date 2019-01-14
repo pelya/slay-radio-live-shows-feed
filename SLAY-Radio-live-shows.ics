@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20190115T190000Z
+DTEND:20190115T220000Z
+SUMMARY:ziona and Slaygon - The 2nd Anniversary Show
+DESCRIPTION:Hello Everyone! We hit the second year of ziona being on air, therefore we might sum it up a bit in this show :)Hope you enjoyed the ride, we certainly did, and already have great plans for this year too. Put your requests in and join us! 
+UID:2142@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
