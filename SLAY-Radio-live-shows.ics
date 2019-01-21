@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20190122T190000Z
+DTEND:20190122T220000Z
+SUMMARY:ziona and Slaygon - The TOP2 Challenge
+DESCRIPTION:Hello Everyone! After all of you made sure you voted for your personal Remixer of the Year 2018 candidates, we thought we invite you for a challenge. In case you would have to go to an unhabited island, which remixes of all time would you take with you, if you could only take 2? Don't worry, you have a life-time supply of battery power that will only power your mp3 player, so you're safe!So we want you to name and request your all-time favourite C64-or Amigaremixes! (both can be C64 or Amiga - the choice is yours!)Go ahead, think it through carefully and choose! We can't wait to hear your own personal TOP2! :) Join the fun and SLAY tuned! 
+UID:2144@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
