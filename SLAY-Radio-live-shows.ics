@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20190203T090000Z
+DTEND:20190203T120000Z
+SUMMARY:Gazoo - PmpVsBionicBoots
+DESCRIPTION:I'm going to talk a bit about bionic boots and how a video about them is making me sad.Then I'm also going to talk a bit more about the Fyre festival.You will either listen, watch, both, or neither. The choice is yours!Gazoo
+UID:2146@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20190217T170000Z
 DTEND:20190217T200000Z
 SUMMARY:Remix64.com - Remixer of the Year Awards 2018
