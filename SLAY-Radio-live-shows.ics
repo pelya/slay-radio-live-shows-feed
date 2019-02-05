@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20190205T190000Z
-DTEND:20190205T220000Z
-SUMMARY:ziona and Slaygon - Free-flow Show
-DESCRIPTION:Hi Everyone! We are back after we defeated the evil Deadly Man Fluu2122, and this time there are no rules for requesting songs - request whatever you feel like! Random SIDs are also welcome again :) Let's kick-start this month with some good vibes! Join us and SLAY tuned.
-UID:2147@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20190210T090000Z
 DTEND:20190210T120000Z
 SUMMARY:Gazoo - PmpVsBionicBoots
@@ -45,6 +29,22 @@ DTEND:20190217T200000Z
 SUMMARY:Remix64.com - Remixer of the Year Awards 2018
 DESCRIPTION:The time has come to celebrate and acknowledge the remixers' work in the C64 and Amiga community by presenting the yearly ROTY Awards, as voted by the users at www.remix64.com. This year it's SLAY Radio's turn to give out the awards and give you a run-down of what happened in 2018.
 UID:2145@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190205T190000Z
+DTEND:20190205T220000Z
+SUMMARY:ziona and Slaygon - Free-flow Show
+DESCRIPTION:Hi Everyone! We are back after we defeated the evil Deadly Man Fluu2122, and this time there are no rules for requesting songs - request whatever you feel like! Random SIDs are also welcome again :) Let's kick-start this month with some good vibes! Join us and SLAY tuned.
+UID:2147@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
