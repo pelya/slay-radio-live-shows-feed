@@ -39,20 +39,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20190205T190000Z
-DTEND:20190205T220000Z
-SUMMARY:ziona and Slaygon - Free-flow Show
-DESCRIPTION:Hi Everyone! We are back after we defeated the evil Deadly Man Fluu2122, and this time there are no rules for requesting songs - request whatever you feel like! Random SIDs are also welcome again :) Let's kick-start this month with some good vibes! Join us and SLAY tuned.
-UID:2147@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
