@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20190217T090000Z
-DTEND:20190217T120000Z
-SUMMARY:Gazoo - PmpVsBionicBoots
-DESCRIPTION:I'm going to talk a bit about bionic boots and how a video about them is making me sad.Then I'm also going to talk a bit more about the Fyre festival.You will either listen, watch, both, or neither. The choice is yours!Gazoo
-UID:2146@slayradio.org
+DTSTART:20190217T170000Z
+DTEND:20190217T200000Z
+SUMMARY:Remix64.com - Remixer of the Year Awards 2018
+DESCRIPTION:The time has come to celebrate and acknowledge the remixers' work in the C64 and Amiga community by presenting the yearly ROTY Awards, as voted by the users at www.remix64.com. This year it's SLAY Radio's turn to give out the awards and give you a run-down of what happened in 2018.
+UID:2145@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20190217T170000Z
-DTEND:20190217T200000Z
-SUMMARY:Remix64.com - Remixer of the Year Awards 2018
-DESCRIPTION:The time has come to celebrate and acknowledge the remixers' work in the C64 and Amiga community by presenting the yearly ROTY Awards, as voted by the users at www.remix64.com. This year it's SLAY Radio's turn to give out the awards and give you a run-down of what happened in 2018.
-UID:2145@slayradio.org
+DTSTART:20190217T090000Z
+DTEND:20190217T120000Z
+SUMMARY:Gazoo - PmpVsBionicBoots
+DESCRIPTION:I'm going to talk a bit about bionic boots and how a video about them is making me sad.Then I'm also going to talk a bit more about the Fyre festival.You will either listen, watch, both, or neither. The choice is yours!Gazoo
+UID:2146@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
