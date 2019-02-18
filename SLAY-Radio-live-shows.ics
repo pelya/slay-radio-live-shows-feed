@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20190219T190000Z
+DTEND:20190219T220000Z
+SUMMARY:ziona and Slaygon - Wishlist Cafu00e9
+DESCRIPTION:Hey Everyone!We barely left the awe of the ROTY Awards behind, but here we come with a (boooring) regular Tuesday again! Who wants to join and fill the request list? And the random SID cue? Be careful what you wish for! Join us on the regular channels and SLAY tuned! 
+UID:2149@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
