@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20190226T190000Z
+DTEND:20190226T220000Z
+SUMMARY:ziona and Slaygon - AAA
+DESCRIPTION:'Allo All! Analog audio-Interfaces ahoy! An absolutely awesome airing ahead! All aboard and ask anything A-related! ( http://remix.kwed.org/index.php?search=a )No batteries included, aight?
+UID:2151@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20190228T190000Z
 DTEND:20190228T220000Z
 SUMMARY:Boz - BBB
