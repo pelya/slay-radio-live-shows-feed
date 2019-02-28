@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"2150","airdate":"1551380400","name_switch":"off","DJ":"Boz","showname":"BBB","blurb":"BOZ IS BACK! Sorry. But he's back for a Boz's Bit o' Bollocks on a Thursday. It's been a little while since he's been on SLAY Radio, but let's see what he does. (Utter nonsense, we're all thinking.)","nice_showname":"<strong><big>Boz<\/big><\/strong><br \/>BBB","nice_airdate":"Thursday 28th February, 2019<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}

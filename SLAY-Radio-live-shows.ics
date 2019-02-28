@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20190228T190000Z
-DTEND:20190228T220000Z
-SUMMARY:Boz - BBB
-DESCRIPTION:BOZ IS BACK! Sorry. But he's back for a Boz's Bit o' Bollocks on a Thursday. It's been a little while since he's been on SLAY Radio, but let's see what he does. (Utter nonsense, we're all thinking.)
-UID:2150@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
