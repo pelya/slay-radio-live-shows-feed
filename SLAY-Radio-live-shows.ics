@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20190305T190000Z
-DTEND:20190305T220000Z
-SUMMARY:ziona and Slaygon - The Unz! Show
-DESCRIPTION:Hello Dancers,This evening it is time to polish the disco balls and the floor everywhere where you might listen from, because this is... the ultimate time for dance songs!Last year we went completely metal once, so we gotta try this with a proper collection of UNZ! songs. Let's see what selection of hits we can put together for a Dance-off 64 compilation!Join and SLAY tuned!
-UID:2152@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
