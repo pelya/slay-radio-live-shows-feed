@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20190312T190000Z
+DTEND:20190312T220000Z
+SUMMARY:ziona and Slaygon - Greek talk with Vaggelis
+DESCRIPTION:Hello All of you! It wasn't such a long time ago when we announced the winners of the ROTY Awards 2018. And the time has come to introduce our Newcomer of the year! Vaggelis Papadopoulos comes from the sunny land of Greece and amazed everyone with his rockmetal covers last year. We will have a lot of questions for him, and of course you can have yours too!And don't worry - We won't be talking Greek!We welcome him on air at 9 PM after the warmup hour, when you can have your requests as usual. Make sure you SLAY tuned with us and this cheerful guy! 
+UID:2154@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
