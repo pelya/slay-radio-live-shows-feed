@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20190402T180000Z
+DTEND:20190402T210000Z
+SUMMARY:ziona and Slaygon - New studio setup with new fckups
+DESCRIPTION:Hello Slayers! As we return from a short pause, we have a brand new studio setup - let's hope it doesn't pull an April's fool on us!Spring really started to spread all around Europe (according to Ziona's first-hand experience), so let's chase away the last traces of winter with some nice energetic requests of yours!Join us and SLAY tuned as usual! 
+UID:2156@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
