@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20190409T180000Z
-DTEND:20190409T210000Z
-SUMMARY:ziona and Slaygon - The Space Games Show
-DESCRIPTION:Hi Everyone,Back as usual. And since we have watched some documentaries about reaching out to aliens, we thought how funny it would be if you would request soundtrack originals and remixes of space-related games in our next show! What do you think?R-Type, Space Harrier, Clystron and maaaany mooore... Come and give us some SPACE! Join on the usual channels and SLAY tuned! 
-UID:2158@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
