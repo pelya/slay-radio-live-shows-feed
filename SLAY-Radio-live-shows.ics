@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20190423T180000Z
-DTEND:20190423T210000Z
-SUMMARY:ziona and Slaygon - FastLoaders on air
-DESCRIPTION:Hello Everyone! Ready for a comeback after your Easter-break? LOADING. READY. That was FAST! Yes, this evening our virtual companions will be Jarle and Kjetil from FastLoaders! We're going to talk about a lot of things related to the band, their history, their upcoming gigs, BIT Lives and everything you wanted to know about them, shortly after our warmup-hour.So, a lot of fun is coming up. Don't forget to join our live interview and SLAY tuned!
-UID:2158@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
