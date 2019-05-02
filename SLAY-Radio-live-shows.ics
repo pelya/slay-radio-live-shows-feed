@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20190502T180000Z
-DTEND:20190502T210000Z
-SUMMARY:ziona and Slaygon - Re-visioning bits'n pieces
-DESCRIPTION:Hello Everyone! It's time to present some nice ear-worms with bits'n pieces of releases from the Revision party, which is the biggest demoscene-related event of the year held on Easter weekends! Join the fun and put your regular requests in-between our chosen songs to play! You can join us either here on the website, chat on IRC, Facebook or Youtube! SLAY tuned!
-UID:2159@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
