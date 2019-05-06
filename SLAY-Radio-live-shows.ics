@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20190507T180000Z
+DTEND:20190507T210000Z
+SUMMARY:ziona and Slaygon - Super professional AV setup
+DESCRIPTION:Hello Everyone! Here we are wilth our shiny fantastic brandnew super professional audio&video setup, which made Slaygon busy for the entire weekend but now we have the fruit of his dedication! You can tune in here as usual, OR you can join our YouTube stream where you can not only hear, but see us as well! And if Facebook decides to cooperate after the latest weeks, we will be broadcasting there too. Too many options, huh? But to keep the retro-vibes, requests are still preferred on slayradio.org or on our regular IRC channel. Join us and SLAY tuned! 
+UID:2160@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
