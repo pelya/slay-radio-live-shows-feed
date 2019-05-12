@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20190516T180000Z
+DTEND:20190516T210000Z
+SUMMARY:ziona and Slaygon - Kickstart Thursdays with LMan
+DESCRIPTION:Hello Slayers! We are still waiting for your votes regarding the Tuesday vs. Thursday question, but so far it seems like Thursday is better for most of the listeners to join in, and also we can cooperate better with BozRadio this way.Joining us will be the well-known SID wizard LMan, who recently reached the funding goal for his Kickstarter, but there is still plenty of time left to back him!He will talk about the idea, the project and the motivation behind it!We also have some nice exclusives to share with you.Join in and check out how Thursdays work for you when it comes to our live shows!And of course, SLAY tuned!
+UID:2161@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
