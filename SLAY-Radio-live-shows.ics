@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20190530T180000Z
-DTEND:20190530T210000Z
-SUMMARY:ziona and Slaygon - Symphonic Show starring Hubbard
-DESCRIPTION:Hello Everyone,Prepare yourselves for Thursday because it's going to be a treat!Less than 3 weeks until the 8-Bit Symphony, so for this occasion we had a phone call with Rob Hubbard, who shared some details on how the preparations are going!You can also tune in to YouTube or Facebook, where occasionally you can not only hear, but see us as well.Since the concert is approaching, we would like to warm up for that: Request symphonic remixes this time!SLAY tuned ;)
-UID:2163@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
