@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20190604T180000Z
+DTEND:20190604T210000Z
+SUMMARY:ziona and Slaygon - Regular Request Tuesday
+DESCRIPTION:Hello Everyone,We are back with a very Regular Request Show that you could get used to, this time on a Tuesday. Feel free to request your song of choice! Also you can win 2 tickets to the 8-Bit Symphony concert which is within 2 weeks, you just have to stay with us and solve the puzzle! Join the discussions or just listen, request and SLAY tuned! :) 
+UID:2164@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
