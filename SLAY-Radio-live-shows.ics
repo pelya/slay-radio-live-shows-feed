@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20190611T180000Z
-DTEND:20190611T210000Z
-SUMMARY:ziona and Slaygon - Epic warmup
-DESCRIPTION:Hello Everyone,We are counting the days to 8-Bit Symphony!Even if you stay at home, you can also be part of the experience because SLAY Radio will broadcast the studio versions the same time the concert starts, following the programme of the actual concert - This will be broadcast only on Facebook (facebook.com/SLAYRadio) and Youtube (youtube.com/slayradio), so set your reminders accordingly!Since it will be an epic experience, we thought we would share some epic memories of yours regarding your favourite 64/Amiga Remixes this time - request any song that you think of as epic memory! And if you feel like it, explain why.Also, we have 2 last-minute tickets for the concert in Hull, and due to the short notice we wonu2019t have a puzzle this time, but if someone is interested, please provide us a good reason why the ticket(s) should be yours. The best reasoning wins!Warm up with us and SLAY tuned!
-UID:2165@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
