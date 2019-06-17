@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20190620T180000Z
+DTEND:20190620T210000Z
+SUMMARY:ziona and Slaygon - Pre-Midsummer Post-Vibes
+DESCRIPTION:Hello Beautiful 8-Bit People! After a fantastic weekend in Hull, we are still in the mood and we want to convey that to all those who couldn't make it to the 8-Bit Symphony!So amongst your requests and other bits, we'll talk about our experiences, and looking forward to hear your stories as well!Also, Swedish Midsummer is here on Friday, so prepare for a fun night on the longest day of the year, and as always - SLAY tuned!
+UID:2166@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
