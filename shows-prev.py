@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2168","airdate":"1562004000","name_switch":"off","DJ":"Boz","showname":"BBB","blurb":"Boz is back for a BBB on a Monday! Join him as he talks a load of bollocks in between your requests. All aboard the Train-Wreck, WOO-WOOH!","nice_showname":"<strong><big>Boz<\/big><\/strong><br \/>BBB","nice_airdate":"Monday 1st July, 2019<br \/>at 20:00 USRT"}]}
