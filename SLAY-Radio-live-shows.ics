@@ -23,4 +23,20 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190728T100000Z
+DTEND:20190728T130000Z
+SUMMARY:Gazoo - PmpVsMassiveComebackSpecial
+DESCRIPTION:It's been a solid five months since I last said that I'd simply do shows a bit more sparsely and I do apologize for the long void. Fortunately, Slaygon and Ziona have generally been picking up the slack.The good news - hopefully - is that this show will be choc-full of a one or two new features. Given that they're not complete and that announcing this show is partially an intentional self-motivator on my behalf, I'd rather not note what exactly the show will feature. All the more reason to tune in and find out ;)I'll be talking quite a bit about how I put my foot in my mouth in a few social situations as well as playing the usual plethora of C-64 game tunez.
+UID:2169@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
