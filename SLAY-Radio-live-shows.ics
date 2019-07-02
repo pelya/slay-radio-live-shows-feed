@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20190704T180000Z
+DTEND:20190704T210000Z
+SUMMARY:ziona and Slaygon - Request Cafu00e9
+DESCRIPTION:Hellooo Everyone,Again we are back with a Request Cafu00e9, or so-called RRS (Regular Request Show), so make sure you join a cozy evening, post all your requests and SLAY tuned - loudly!
+UID:2170@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20190728T100000Z
 DTEND:20190728T130000Z
 SUMMARY:Gazoo - PmpVsMassiveComebackSpecial
