@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20190718T180000Z
-DTEND:20190718T210000Z
-SUMMARY:ziona and Slaygon - Request flood with our Special Guest Star
-DESCRIPTION:Hello Everyone!Your weekly dose of blippy-bloppy remixes is here again! We want to keep it cozy, so flood us with your requests and we will try to create an enjoyable playlist for everyone tuning in or listening to us later :) Oh, and we will have a Special Guest Star in the studio, too; Andreas Wallstru00f6m!Tune in and SLAY with us! 
-UID:2172@slayradio.org
+DTSTART:20190728T100000Z
+DTEND:20190728T130000Z
+SUMMARY:Gazoo - PmpVsMassiveComebackSpecial
+DESCRIPTION:It's been a solid five months since I last said that I'd simply do shows a bit more sparsely and I do apologize for the long void. Fortunately, Slaygon and Ziona have generally been picking up the slack.The good news - hopefully - is that this show will be choc-full of a one or two new features. Given that they're not complete and that announcing this show is partially an intentional self-motivator on my behalf, I'd rather not note what exactly the show will feature. All the more reason to tune in and find out ;)I'll be talking quite a bit about how I put my foot in my mouth in a few social situations as well as playing the usual plethora of C-64 game tunez.
+UID:2169@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20190728T100000Z
-DTEND:20190728T130000Z
-SUMMARY:Gazoo - PmpVsMassiveComebackSpecial
-DESCRIPTION:It's been a solid five months since I last said that I'd simply do shows a bit more sparsely and I do apologize for the long void. Fortunately, Slaygon and Ziona have generally been picking up the slack.The good news - hopefully - is that this show will be choc-full of a one or two new features. Given that they're not complete and that announcing this show is partially an intentional self-motivator on my behalf, I'd rather not note what exactly the show will feature. All the more reason to tune in and find out ;)I'll be talking quite a bit about how I put my foot in my mouth in a few social situations as well as playing the usual plethora of C-64 game tunez.
-UID:2169@slayradio.org
+DTSTART:20190718T180000Z
+DTEND:20190718T210000Z
+SUMMARY:ziona and Slaygon - Request flood with our Special Guest Star
+DESCRIPTION:Hello Everyone!Your weekly dose of blippy-bloppy remixes is here again! We want to keep it cozy, so flood us with your requests and we will try to create an enjoyable playlist for everyone tuning in or listening to us later :) Oh, and we will have a Special Guest Star in the studio, too; Andreas Wallstru00f6m!Tune in and SLAY with us! 
+UID:2172@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
