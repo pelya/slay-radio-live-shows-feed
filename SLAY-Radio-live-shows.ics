@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20190730T180000Z
+DTEND:20190730T210000Z
+SUMMARY:ziona and Slaygon - Pre-Datastorm Tuesday
+DESCRIPTION:Hello PartyPeepz and SofaSceners!Here we go, the week of Datastorm has arrived and we start with a warmup for it! Can you request songs that have a party mood or that you have great party memories of? Thank you in advance!Join us and SLAY tuned!
+UID:2174@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20190804T100000Z
 DTEND:20190804T130000Z
 SUMMARY:Gazoo - PmpVsMassiveComebackSpecial
