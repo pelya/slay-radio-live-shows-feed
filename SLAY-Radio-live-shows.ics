@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20190808T180000Z
-DTEND:20190808T210000Z
-SUMMARY:ziona and Slaygon - Post-Party Special
-DESCRIPTION:Hello Everyone,The weekend was a blast for many of us! Datastorm, u00c1rok Party and Assembly provides us with many things to play you amongst your requests, so prepare for a fun evening with a lot of new tunes!Join us here, on IRC, on YouTube or on Facebook - will be worth it! SLAY Tuned!
-UID:2175@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
