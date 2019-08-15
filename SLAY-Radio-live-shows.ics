@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20190815T180000Z
-DTEND:20190815T210000Z
-SUMMARY:ziona and Slaygon - A nice evening with Mordi
-DESCRIPTION:Hello again!After a long wait, we finally get on air with a guest you have been waiting for - Mordi!He will answer all the questions you ever wanted to ask, and probably a few you didn't even think to ask!Oh, and there might be some exclusives and not-yet-known tunes from him as well!As usual, we start the interview after the warm-up hour, and since he has so many excellent remixes, the evening will be MORDI ONLY. So request your favourites from him - we will play them all! ;)SLAY relays, IRC, YouTube or Facebook - Join us and SLAY tuned!NICE!
-UID:2176@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
