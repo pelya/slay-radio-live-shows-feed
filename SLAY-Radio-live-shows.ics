@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20190829T180000Z
-DTEND:20190829T210000Z
-SUMMARY:ziona and Slaygon - Healthy Comeback
-DESCRIPTION:Hellooo again SLAY Radio waves!We defeated the Ultimate Deadly Man Flu (tm) so we are back on track and canu2019t wait to play your requests! No requirements this time, except that the tunes should be GOOD!Join us here, on YouTube or on Facebook and on IRC as well - and as usual: SLAY tuned! ;)
-UID:2177@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
