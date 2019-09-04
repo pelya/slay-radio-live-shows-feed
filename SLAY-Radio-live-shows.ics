@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20190905T180000Z
+DTEND:20190905T210000Z
+SUMMARY:ziona and Slaygon - Cozy evening with Symphony bitsu2019n Chris
+DESCRIPTION:Hello Slayers and 8-Bit Symphony-lovers!4 days left until an 8-bit dream can come true and it is up to all of us if we can make it happen! Among your beloved requests, we will have a cozy interview with Chris Abbott about the 8-bit Symphony Pro project:https://www.kickstarter.com/projects/8-bit-symphony/8-bit-symphony-pro-double-orchestral-cd-of-8-bit-classicsFeel free to add your thoughts and requests, and if you can afford it, contribute! There might not be a second chance to do this later.Tune in and SLAY the radiowaves with us!
+UID:2178@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
