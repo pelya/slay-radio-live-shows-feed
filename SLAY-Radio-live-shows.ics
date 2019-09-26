@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20190926T180000Z
-DTEND:20190926T210000Z
-SUMMARY:ziona and Slaygon - Request flood again
-DESCRIPTION:Hello Folks of Slayland,We are back and now the focus is on you and your requests - flood us with them, let it be SID, remixes or scene-related tunes! We will just sit back, relax and enjoy this... thing! :) Join us and SLAY tuned! 
-UID:2180@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
