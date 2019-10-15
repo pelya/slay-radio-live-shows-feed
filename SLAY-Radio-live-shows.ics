@@ -10,7 +10,7 @@ UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
 DTSTART:20191018T160000Z
 DTEND:20191018T190000Z
-SUMMARY:Back in Time Live 2019 - Commodore Cafu00e9 with GRG
+SUMMARY:Back in Time Live 2019 - Commodore Cafe with GRG
 DESCRIPTION:Enjoy the cozy selection of SIDs played by Glenn Rune Gallefoss while everyone is warming up for the evening! 
 UID:2184@slayradio.org
 CLASS:PUBLIC
@@ -61,6 +61,118 @@ DTEND:20191019T010000Z
 SUMMARY:Back in Time Live 2019 - Ziona's 64 remix set LIVE - Funky Friday
 DESCRIPTION:Non-stop live mix set by Ziona - invade the dancefloor or just sit back, relax and enjoy the flood of energy blast with 64 remixes! 
 UID:2187@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191019T130000Z
+DTEND:20191019T160000Z
+SUMMARY:Back in Time Live 2019 - Commodore Cafe with GRG
+DESCRIPTION:Afternoon's cozy selection v2.0 of SIDs played by Glenn Rune Gallefoss while everyone is warming up for the evening!
+UID:2188@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191019T150000Z
+DTEND:20191019T180000Z
+SUMMARY:Back in Time Live 2019 - Live checkin by Ziona, Slaygon and Boz
+DESCRIPTION:Oh noes, those peepz again! With talking bollocks in-between the requests they get there on the spot live! 
+UID:2189@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191019T170000Z
+DTEND:20191019T200000Z
+SUMMARY:Back in Time Live 2019 - Remix Competition
+DESCRIPTION:Yes, the long-awaited Remix Compo! Brandnew hot Rob Hubbard and Matt Gray-remixes just out of the oven! 
+UID:2190@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191019T180000Z
+DTEND:20191019T210000Z
+SUMMARY:Back in Time Live 2019 - Interview with Rob Hubbard and Matt Gray
+DESCRIPTION:Our special guest stars on stage interviewed by Ziphoid and potentially answering questions from the audience! 
+UID:2191@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191019T190000Z
+DTEND:20191019T220000Z
+SUMMARY:Back in Time Live 2019 - Jeroen Tel LIVE
+DESCRIPTION:Jeroen on stage - making you dance at your home as well! 
+UID:2192@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191019T203000Z
+DTEND:20191019T233000Z
+SUMMARY:Back in Time Live 2019 - FastLoaders LIVE - 64 favourites
+DESCRIPTION:FastLoaders performing well-known 64 favourites with our very special guest Rob Hubbard on stage! 
+UID:2193@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191019T220000Z
+DTEND:20191020T010000Z
+SUMMARY:Back in Time Live 2019 - Ziona's 64 remix set LIVE - Sweet Speedy Saturday
+DESCRIPTION:Non-stop live mix set by Ziona - this time comes with the partyfeel of a proper Saturday Night! 
+UID:2194@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
