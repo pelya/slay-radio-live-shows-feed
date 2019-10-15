@@ -7,4 +7,68 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20191018T160000Z
+DTEND:20191018T190000Z
+SUMMARY:Back in Time Live 2019 - Commodore Cafu00e9 with GRG
+DESCRIPTION:Enjoy the cozy selection of SIDs played by Glenn Rune Gallefoss while everyone is warming up for the evening! 
+UID:2184@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191018T180000Z
+DTEND:20191018T210000Z
+SUMMARY:Back in Time Live 2019 - Live checkin by Ziona, Slaygon and Boz
+DESCRIPTION:Okay, let's do this! We check in, chitchat and play also live requests. Join the fun! 
+UID:2185@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191018T200000Z
+DTEND:20191018T230000Z
+SUMMARY:Back in Time Live 2019 - FastLoaders LIVE - Ninja Musicology
+DESCRIPTION:FastLoaders on stage - They will play the entire Last Ninja 2 - Ninja Musicology! 
+UID:2186@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191018T220000Z
+DTEND:20191019T010000Z
+SUMMARY:Back in Time Live 2019 - Ziona's 64 remix set LIVE - Funky Friday
+DESCRIPTION:Non-stop live mix set by Ziona - invade the dancefloor or just sit back, relax and enjoy the flood of energy blast with 64 remixes! 
+UID:2187@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
