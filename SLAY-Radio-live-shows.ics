@@ -152,8 +152,8 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20191019T203000Z
-DTEND:20191019T233000Z
+DTSTART:20191019T200000Z
+DTEND:20191019T230000Z
 SUMMARY:Back in Time Live 2019 - FastLoaders LIVE - 64 favourites
 DESCRIPTION:FastLoaders performing well-known 64 favourites with our very special guest Rob Hubbard on stage! 
 UID:2193@slayradio.org
