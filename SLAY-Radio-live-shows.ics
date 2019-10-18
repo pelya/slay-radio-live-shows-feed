@@ -103,20 +103,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20191018T220000Z
-DTEND:20191019T010000Z
-SUMMARY:Back in Time Live 2019 - Ziona's 64 remix set LIVE - Funky Friday
-DESCRIPTION:Non-stop live mix set by Ziona - invade the dancefloor or just sit back, relax and enjoy the flood of energy blast with 64 remixes! 
-UID:2187@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
