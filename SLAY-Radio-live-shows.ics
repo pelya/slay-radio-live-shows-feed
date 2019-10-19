@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20191019T200000Z
-DTEND:20191019T230000Z
-SUMMARY:Back in Time Live 2019 - FastLoaders & Rob Hubbard LIVE, Ziona's 64 remix set
-DESCRIPTION:22:00 - FastLoaders LIVE with Rob Hubbard - 64 favourites:  FastLoaders performing well-known favourites with our very special guest Rob Hubbard on stage!00:00 - Ziona's 64 remix set LIVE - Sweet Saturday Fever: Non-stop live mix set by Ziona - this time comes with the partyfeel of a proper Saturday Night!
-UID:2186@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
