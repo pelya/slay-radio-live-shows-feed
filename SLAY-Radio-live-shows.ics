@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20191019T130000Z
-DTEND:20191019T160000Z
-SUMMARY:Back in Time Live 2019 - Commodore Cafe with GRG
-DESCRIPTION:Afternoon's cozy selection v2.0 of SIDs played by Glenn Rune Gallefoss while everyone is warming up for the evening!
-UID:2188@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20191019T150000Z
 DTEND:20191019T180000Z
 SUMMARY:Back in Time Live 2019 - Live checkin by Ziona, Slaygon and Boz
@@ -93,6 +77,22 @@ DTEND:20191020T010000Z
 SUMMARY:Back in Time Live 2019 - Ziona's 64 remix set LIVE - Sweet Saturday Fever
 DESCRIPTION:Non-stop live mix set by Ziona - this time comes with the partyfeel of a proper Saturday Night! 
 UID:2194@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191019T130000Z
+DTEND:20191019T160000Z
+SUMMARY:Back in Time Live 2019 - Commodore Cafe with GRG
+DESCRIPTION:Afternoon's cozy selection v2.0 of SIDs played by Glenn Rune Gallefoss while everyone is warming up for the evening!
+UID:2188@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
