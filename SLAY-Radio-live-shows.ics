@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20191024T180000Z
-DTEND:20191024T210000Z
-SUMMARY:ziona and Slaygon - Post-Bits
-DESCRIPTION:Hello Beautiful 8-bit People,How are you after BIT Live? We are tired and happy, and we are glad to talk about it! Either you were with us live, or on the streams, or completely missed the event - we will have something for you all! And listen in to get familiar with the Remix Compo entries too, since soon theyu2019ll be flooding RKO!You can join us on the usual channels: here, on Facebook or on YouTube. SLAY tuned!
-UID:2187@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
