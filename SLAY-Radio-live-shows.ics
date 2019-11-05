@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20191107T190000Z
+DTEND:20191107T220000Z
+SUMMARY:ziona and Slaygon - WarmYouUp Show 
+DESCRIPTION:What's up Slayers?We got a bit busy the past weeks but we are back, so prep your requests and spend a pleasant evening with us under your blanket with a hot tea (or rum, if you prefer!) in this continuously cooling weather.Winter is coming!SLAY tuned!
+UID:2188@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
