@@ -8,8 +8,8 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20191113T190000Z
-DTEND:20191113T220000Z
+DTSTART:20191111T190000Z
+DTEND:20191111T220000Z
 SUMMARY:Boz - BBB
 DESCRIPTION:Boz is back for a BBB! All the usual bollocks in between your requests. All aboard the Train Wreck, WOOH-WOOH!
 UID:2189@slayradio.org
