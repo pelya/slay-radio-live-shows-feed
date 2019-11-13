@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20191114T190000Z
+DTEND:20191114T220000Z
+SUMMARY:ziona and Slaygon - Thursday Things
+DESCRIPTION:This Thursday they, thankfully, throw the theme thoroughly through thorns....As usual.Hello Peepz, here we are again, let's pack the request backpack and wander off a bit from everyday problems to Melodyland! Non-melodic things work too. Just reach out to us and you'll get it!Join us and SLAY tuned!
+UID:2190@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
