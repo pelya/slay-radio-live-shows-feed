@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20191128T190000Z
+DTEND:20191128T220000Z
+SUMMARY:ziona and Slaygon - Black Thursday
+DESCRIPTION:Helloo SLAYPeepz,Are you preparing for the worldwide rush of consumption?  Or are you preparing to avoid it? No worries, you won't need your wallet here, just join us and forget about the rest of the world for a pleasant evening! No discounts on quality tracks here, because all of us are worth it!See you around, SLAY tuned!(PS. The first 500 to tune in gets a bucket of FREE TCP packets!)
+UID:2192@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
