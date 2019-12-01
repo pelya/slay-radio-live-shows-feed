@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2193","airdate":"1575313200","name_switch":"off","DJ":"Boz","showname":"BBB","blurb":"Holy Guacamole it's Monday and Boz is doing a BBB! Kate MIGHT join but remember - she's ethereal! Boz will be talking a bunch of bollocks in between your requests. All aboard the Train-Wreck, WOO WOOH!","nice_showname":"<strong><big>Boz<\/big><\/strong><br \/>BBB","nice_airdate":"Monday 2nd December, 2019<br \/>at 20:00 USRT"}]}
