@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20191205T190000Z
-DTEND:20191205T220000Z
-SUMMARY:ziona and Slaygon - December vibes
-DESCRIPTION:Hello-hi-ho-ho-ho!Whether you love or hate the vibes around this month, you still came to the right place. We have things to offer for everyone, Christmas remixes for those who like it, and Metal ones for those who protest against it!Either way, there will be TCP packets for everyone!Join us and SLAY tuned!
-UID:2194@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
