@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20191219T190000Z
+DTEND:20191219T220000Z
+SUMMARY:ziona and Slaygon - Year-closing holiday mood
+DESCRIPTION:Hello Everyone,Yes, we are back for the last time in 2019, and yes, Slaygon tried to write some marketingtext here before, but I had to take over :) Since it is the last show of the year from us, we might talk a little about how we feel about the year, the coming holidays and some christmas perhaps too. And we are happy to listen to your experences of the year and some christmas whamageddon too! Join us for the last time in 2019 and see you in the New Year afterwards! SLAY tuned!
+UID:2195@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
