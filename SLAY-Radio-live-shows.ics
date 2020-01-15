@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20200116T190000Z
+DTEND:20200116T220000Z
+SUMMARY:ziona and Slaygon - Letu2019s start this year
+DESCRIPTION:Hello Everyone!Yes, we are still alive, after this long holiday due to activities we had to attend to. And now we will kickstart the year! Send us your favourite tracks of 2019, letu2019s make the ROTY Awards voting easier for everyone! See&hear you soon! SLAY tuned! 
+UID:2196@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
