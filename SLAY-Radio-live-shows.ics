@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20200123T190000Z
+DTEND:20200123T220000Z
+SUMMARY:ziona and Slaygon - Show, requests and things
+DESCRIPTION:Hello All,Here is a completely plain show concept again, where anything (scene-related ofc.) you request, will be played, no rules this time! (Will we regret this?)So make sure you drop by and throw some requests in as well! SLAY you soon! ;)
+UID:2197@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
