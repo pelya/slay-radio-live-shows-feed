@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20200206T190000Z
+DTEND:20200206T220000Z
+SUMMARY:ziona and Slaygon - Share your taste!
+DESCRIPTION:Ello Everyone,Showtime again! This time, share with us your absolute favourite genre by requesting a song made in it! We are curious about the scene's overall taste, and it would be interesting to see which genre is the most popular.We will register your request as a vote for the genre, and at the end of the show we will announce the winning one!Also, we have a completely new feature to introduce!So join us and SLAY tuned, as always! :)
+UID:2199@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
