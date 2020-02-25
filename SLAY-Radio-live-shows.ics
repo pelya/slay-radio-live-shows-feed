@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20200227T190000Z
+DTEND:20200227T220000Z
+SUMMARY:ziona and Slaygon - The recovery
+DESCRIPTION:Hello folks!We are back from Prague after some fantastic sessions of 8-Bit Symphony Pro recordings, and still trying to recover from our colds a bit, but we are almost cured!We will most likely discuss our experience and in-between the chit-chats, play your requests.Join us for a fun evening and SLAY tuned! ;)
+UID:2200@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
