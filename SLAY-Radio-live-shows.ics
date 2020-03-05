@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200305T190000Z
-DTEND:20200305T220000Z
-SUMMARY:ziona and Slaygon - Bring on the spring
-DESCRIPTION:Hello there!Dear Diary, you would never believe, but spring has arrived! So far only technically, since there is no difference when it comes to the weather around here, but let's hope for some sun and great remixes soon!February is over so we have our Remix News section with Lea as well! Make sure you don't miss it!Join us and SLAY tuned!
-UID:2201@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
