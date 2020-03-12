@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20200312T190000Z
-DTEND:20200312T220000Z
-SUMMARY:ziona and Slaygon - Quarantine ideas
-DESCRIPTION:Hello Everyone,With your awesome input, we will be talking quarantine ideas, because this thing seems to be inevitable, so it is better if everyone feels prepared!Let's talk about all the activities you can engage in during a possible quarantine and inspire each other!Meanwhile, we will take your requests as usual!The best thing with our radio (and video) waves, is that the virus can't come through them! We hope! :oJoin us and SLAY tuned!
-UID:2202@slayradio.org
+DTSTART:20200314T190000Z
+DTEND:20200314T220000Z
+SUMMARY:Remix64.com - Remixer of the Year Awards 2019
+DESCRIPTION:Yet again, we celebrate and acknowledge the work of the remixers in the C64 and Amiga community by presenting the yearly ROTY Awards, as voted by the users at remix64.com.This year it's SceneSat Radio's turn to give out the awards and give you a run-down of what happened in 2019.As usual the show will be jointly broadcast on SLAY Radio and SceneSat Radio, and show chat will be on EFNet in the channel #remix64.
+UID:2203@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20200314T190000Z
-DTEND:20200314T220000Z
-SUMMARY:Remix64.com - Remixer of the Year Awards 2019
-DESCRIPTION:Yet again, we celebrate and acknowledge the work of the remixers in the C64 and Amiga community by presenting the yearly ROTY Awards, as voted by the users at remix64.com.This year it's SceneSat Radio's turn to give out the awards and give you a run-down of what happened in 2019.As usual the show will be jointly broadcast on SLAY Radio and SceneSat Radio, and show chat will be on EFNet in the channel #remix64.
-UID:2203@slayradio.org
+DTSTART:20200312T190000Z
+DTEND:20200312T220000Z
+SUMMARY:ziona and Slaygon - Quarantine ideas
+DESCRIPTION:Hello Everyone,With your awesome input, we will be talking quarantine ideas, because this thing seems to be inevitable, so it is better if everyone feels prepared!Let's talk about all the activities you can engage in during a possible quarantine and inspire each other!Meanwhile, we will take your requests as usual!The best thing with our radio (and video) waves, is that the virus can't come through them! We hope! :oJoin us and SLAY tuned!
+UID:2202@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
