@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20200312T190000Z
-DTEND:20200312T220000Z
-SUMMARY:ziona and Slaygon - Quarantine ideas
-DESCRIPTION:Hello Everyone,With your awesome input, we will be talking quarantine ideas, because this thing seems to be inevitable, so it is better if everyone feels prepared!Let's talk about all the activities you can engage in during a possible quarantine and inspire each other!Meanwhile, we will take your requests as usual!The best thing with our radio (and video) waves, is that the virus can't come through them! We hope! :oJoin us and SLAY tuned!
-UID:2202@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
