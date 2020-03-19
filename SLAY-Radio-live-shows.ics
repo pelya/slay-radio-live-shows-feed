@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20200319T190000Z
-DTEND:20200319T220000Z
-SUMMARY:ziona and Slaygon - ROTY-talk with Peter Clarke
-DESCRIPTION:Hello Peepz!Awesomeness ahead, because we have the honour to welcome the dual award winner (Remixer of the Year and Best C64 Remix categories) Peter Clarke on air, and we have a lot of things to talk about!Make sure to prepare your questions and requests, join us and SLAY tuned! ;)
-UID:2204@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
