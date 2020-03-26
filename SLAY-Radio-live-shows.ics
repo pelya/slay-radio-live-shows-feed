@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20200326T190000Z
-DTEND:20200326T220000Z
-SUMMARY:ziona and Slaygon - Quarantunes
-DESCRIPTION:Hello Folks,Are you enjoying the wellness services of your own kitchen, living room or bedroom? Or are you getting a bit bonkers? Either way, we have some tunes for you, and you can have some tunes for us! We will just sit back, relax, comment and enjoy them this time.Join us in your nicest home pants! ;) Dress code: cozy casual. And of course, SLAY tuned! 
-UID:2205@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
