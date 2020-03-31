@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20200402T180000Z
+DTEND:20200402T210000Z
+SUMMARY:ziona and Slaygon - Foolish April
+DESCRIPTION:Hello Everyone,New month, new start, spring is already around the corner and all of April is April fool's day because we have to stay inside. But as usual, we have some nice tunes for you and since a new month just started and the old one finished (they usually don't overlap), we have an installment of Lea's Remix News to look forward to, in which she sums up March on the remix scene! Join, participate, comment, request and SLAY tuned! 
+UID:2206@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
