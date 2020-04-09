@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20200409T180000Z
-DTEND:20200409T210000Z
-SUMMARY:ziona and Slaygon - Pre-Easter Eggs
-DESCRIPTION:Hello Everyone,This will be a special Easter, but we will try to get into the Easter-egg mood anyway! Prepare all chicks, bunnies and eggs in your household and bring in your Easter ideas with your requests!  Join us and as usual - SLAY tuned! 
-UID:2207@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
