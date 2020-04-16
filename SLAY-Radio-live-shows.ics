@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20200416T180000Z
-DTEND:20200416T210000Z
-SUMMARY:ziona and Slaygon - Annual Re-visioning show
-DESCRIPTION:Hello Everyone,Here we are after Easter and more importantly, after the first online demoscene party in history (are we correct on this one? Let us know. if not).Anyway, plenty of audio wonders to choose from in 5 music categories, so the rules are as usual: We play one entry from the party followed by one of your requests, which can be any of your favourite remixes as usual.And don't forget - the results of last week's Easter Egg hunt will be announced as well!Join our chit-chat and SLAY tuned! :)
-UID:2208@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
