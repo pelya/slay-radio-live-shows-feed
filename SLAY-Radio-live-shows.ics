@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20200507T180000Z
+DTEND:20200507T210000Z
+SUMMARY:ziona and Slaygon - Test 3, 2, 1... studio upgrade! 
+DESCRIPTION:Hello Everyone,Not only sorting out last week's glitches, but making some changes in our studio furniture, hopefully for a better arrangement, this week's show will be a live test as well, to see how we are doing with the new setup!We also have a brand new edition of Remix News with Lea, and possibly an exclusive to play. Bare with us, because this week will warm up a better setup to expect Instant Remedy for real next week, on 14th May!Join us and SLAY tuned! :)
+UID:2211@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
