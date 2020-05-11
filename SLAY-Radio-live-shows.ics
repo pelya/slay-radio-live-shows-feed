@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20200514T180000Z
+DTEND:20200514T210000Z
+SUMMARY:ziona and Slaygon - On air with Instant Remedy - for real!
+DESCRIPTION:Hello Everyone,Yes, here we are! The time has come to make it happen for real - Instant Remedy will be our guest, but this time with an upgraded, improved, and most importantly; A working setup.Put in your requests, prepare your questions, and get to know one of the real pioneers and eurodance masters of the remix scene!Show starts at 8, and we welcome him on air at 9! Join us and SLAY tuned!
+UID:2212@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
