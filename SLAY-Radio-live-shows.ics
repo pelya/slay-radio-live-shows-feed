@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20200528T180000Z
+DTEND:20200528T210000Z
+SUMMARY:ziona and Slaygon - Are we there yet?
+DESCRIPTION:Hello All of you,We are back, this time there is a high chance that it will happen with a somewhat finalized new studio! We still have some bits and pieces to put together, but we really hope it was worth the wait and skipping last week!So, let's see how it goes! Join us and SLAY tuned!
+UID:2213@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
