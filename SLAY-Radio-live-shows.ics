@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20200611T180000Z
+DTEND:20200611T210000Z
+SUMMARY:ziona and Slaygon - Pre-birthday party
+DESCRIPTION:Hello Everyone,This time we invite all of you to our pre-birthday party, which we keep this year mostly here on our radiowaves (or internet waves, maybe Outrun Splash waves, who knows). Since both of our birthdays are approaching, both of us will send you a TCP packet and a virtual slice of cake!And daXX provided a special gift for ziona: she can pick which track he should remix next! We will announce her choice as well during the show. Of course, a party is not a party without your requests, so please feel free to send them as well! Join us and SLAY tuned, yay!
+UID:2215@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
