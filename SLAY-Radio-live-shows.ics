@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20200625T180000Z
+DTEND:20200625T210000Z
+SUMMARY:ziona and Slaygon - Regular Request cafu00e9
+DESCRIPTION:Hello Everyone,Business as usual - Welcome to a regular request show on this beautiful June evening. Join us with your requests and discussions and make our evening even better with your presence!IRC, YouTube, Facebook, Twitch... join us and SLAY tuned!
+UID:2217@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
