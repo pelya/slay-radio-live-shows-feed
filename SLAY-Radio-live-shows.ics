@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20200702T180000Z
-DTEND:20200702T210000Z
-SUMMARY:ziona and Slaygon - Hi July! with Remix News
-DESCRIPTION:Hello Everyone,Another month has passed, so another edition of Remix News is coming up with Lea!Not to mention that the Remix Competition happening on 13th August is officially announced - have you checked it out yet?Don't forget to add your favourite requests either. As always, we are at your service!Join us on our regular channels and SLAY tuned!
-UID:2218@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
