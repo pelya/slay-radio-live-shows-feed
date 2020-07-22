@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2221","airdate":"1595527200","name_switch":"off","DJ":"ziona and Slaygon","showname":"Hooray, vacay! ","blurb":"Hello Everyone,\n\nBoth our holidays have started, so now we can focus on music related things, especially shooows and the remix competition!\nChill through the evening with us and prepare! Hear you soon! SLAY tuned!","nice_showname":"<strong><big>ziona and Slaygon<\/big><\/strong><br \/>Hooray, vacay! ","nice_airdate":"Thursday 23rd July, 2020<br \/>at 20:00 USRT"}]}
