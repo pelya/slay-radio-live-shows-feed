@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20200723T180000Z
+DTEND:20200723T210000Z
+SUMMARY:ziona and Slaygon - Hooray, vacay! 
+DESCRIPTION:Hello Everyone,Both our holidays have started, so now we can focus on music related things, especially shooows and the remix competition!Chill through the evening with us and prepare! Hear you soon! SLAY tuned!
+UID:2221@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
