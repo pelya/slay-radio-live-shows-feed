@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2222","airdate":"1596132000","name_switch":"on","DJ":"ziona and Slaygon","showname":"A show!","blurb":"Hello-hello,\n\nYes, indeed, confirmed it is a show! You can expect requests and the usual random conversations with us. Still isolating but this is almost like sitting in a pub together. Almost!\n\nJoin us and SLAY tuned!","nice_showname":"<strong>A show!<\/strong> with ziona and Slaygon","nice_airdate":"Thursday 30th July, 2020<br \/>at 20:00 USRT"}]}
