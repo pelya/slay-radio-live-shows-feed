@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20200813T180000Z
-DTEND:20200813T210000Z
-SUMMARY:ziona, Slaygon and Boz - Arok Tribute Remix Competition
-DESCRIPTION:Hello All Commodore Remix fanatics!The time has come for the u00c1rok Party Tribute Remix Competition, which probably will be one of the biggest remix compos in history!Prepare your ears for our fully exclusive show, which is also a tribute for u00c1rok Party held in Hungary, the only 8-bit party with a remix competition, which sadly got cancelled this year for obvious reasons.Let's celebrate online with loads of great entries! Voting will be open for about 24 hours after the show ends, until Friday, 14th Aug 23:00 CEST.Join us and SLAY tuned for real! :)
-UID:2224@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
