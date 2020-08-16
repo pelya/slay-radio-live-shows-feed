@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20200816T180000Z
+DTEND:20200816T210000Z
+SUMMARY:ziona and Slaygon - Arok Tribute Remix Competition Results
+DESCRIPTION:Hello Everyone!We have finally arrived at the results of the Remix Competition! It will be a short live check-in, rather than a show, but tune in and SLAY with us!
+UID:2225@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
