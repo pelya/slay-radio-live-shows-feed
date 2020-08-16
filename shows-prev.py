@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"2225","airdate":"1597600800","name_switch":"on","DJ":"ziona and Slaygon","showname":"Arok Tribute Remix Competition Results","blurb":"Hello Everyone!\n\nWe have finally arrived at the results of the Remix Competition! It will be a short live check-in, rather than a show, but tune in and SLAY with us!","nice_showname":"<strong>Arok Tribute Remix Competition Results<\/strong> with ziona and Slaygon","nice_airdate":"Sunday 16th August, 2020<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}
