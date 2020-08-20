@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20200820T180000Z
-DTEND:20200820T210000Z
-SUMMARY:ziona and Slaygon - Post-party mood
-DESCRIPTION:Hey Eveyone, The Remix compo has ended and it enriched the scene with a lot of high-quality productions! We are still in awe, and we may have a bit of a chit-chat about this, and some other things as usual. And finally you can request songs again ;)Join in here, on IRC, on Facebook, on YouTube or on Twitch and SLAY tuned! :)
-UID:2226@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
