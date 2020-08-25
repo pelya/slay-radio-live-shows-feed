@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20200827T180000Z
+DTEND:20200827T210000Z
+SUMMARY:ziona and Slaygon - Goodbye Summer! 
+DESCRIPTION:Hello Everyone, This is the last show in Summer edition (winter is coming, hehe), so let's enjoy the good weather until it lasts! Join in with your cocktail on a beach, or from an isle in your livingroom! Audio streams, or video on Facebook, YouTube and Twitch - your choice! And - as usual - wash your hands! SLAY tuned! 
+UID:2227@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
