@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20200903T180000Z
+DTEND:20200903T210000Z
+SUMMARY:ziona and Slaygon - New season, longest Remix News
+DESCRIPTION:Hello Folks,Let's welcome autumn with the longest Remix News edition so far, thanks to the remix competition. And you can count on our weekly chit-chats, moreover, finally WE HAVE A DISCORD CHANNEL where you can join our chat too. So: IRC, YouTube, Facebook, Twitch, Discord - Slaygon, did I forgot anything? :)Anyway, join us and SLAY tuned! 
+UID:2228@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
