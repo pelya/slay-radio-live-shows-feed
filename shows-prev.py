@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2229","airdate":"1599760800","name_switch":"on","DJ":"ziona and Slaygon","showname":"Just a usual Thursday","blurb":"Hello all,\n\nNothing to see here, it is just another Thursday where we sit back, relax and enjoy this... thing :) Grab a beer and chill with us! \n\nAnd don't forget that Slaygon caved, so we have Discord as well! ","nice_showname":"<strong>Just a usual Thursday<\/strong> with ziona and Slaygon","nice_airdate":"Thursday 10th September, 2020<br \/>at 20:00 USRT"}]}
