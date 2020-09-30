@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20201001T180000Z
+DTEND:20201001T210000Z
+SUMMARY:ziona and Slaygon - Back on track! 
+DESCRIPTION:Hello Folks! We are alive and we are back! Welcome in October everyone, where the wind cools you down and you warm yourself up with pumpkin spice lattes... and your favourite remixes! Looking forward to hear your requests again, let's hope ziona will stay awake after the 565353699 hours of sleep she had, following her return to Sweden! Join us and SLAY tuned! 
+UID:2231@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
