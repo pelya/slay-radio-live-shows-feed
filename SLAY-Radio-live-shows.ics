@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20201022T180000Z
-DTEND:20201022T210000Z
-SUMMARY:ziona and Slaygon - Octobear with us
-DESCRIPTION:Hello Everyone,...and sorry for the pun. We heard somewhere recently that continuous pun-ning might be a sign of some serious brain damage. Our bad! Anyway, a show is ahead of us again, where we sit back, relax and play tunes. This time Slaygon does not have to stress about technical details either :) So, we will be as chilled as possible. Wind down the week with us and SLAY tuned! 
-UID:2234@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
