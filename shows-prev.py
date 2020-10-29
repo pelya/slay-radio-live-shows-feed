@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[{"show_ID":"2235","airdate":"1603998000","name_switch":"on","DJ":"ziona and Slaygon","showname":"Beer before the Break","blurb":"Hi Everyone, \n\nBefore we go on a little break in the first part of November, here is an evening with some of our beloved tracks requested by you and yours truly! \n\nJoin us, recharge your batteries, and SLAY tuned!","nice_showname":"<strong>Beer before the Break<\/strong> with ziona and Slaygon","nice_airdate":"Thursday 29th October, 2020<br \/>at 20:00 USRT"}]}
+{"error":0,"message":"","data":[]}

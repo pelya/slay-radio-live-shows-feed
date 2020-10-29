@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20201029T190000Z
-DTEND:20201029T220000Z
-SUMMARY:ziona and Slaygon - Beer before the Break
-DESCRIPTION:Hi Everyone, Before we go on a little break in the first part of November, here is an evening with some of our beloved tracks requested by you and yours truly! Join us, recharge your batteries, and SLAY tuned!
-UID:2235@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
