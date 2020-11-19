@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20201119T190000Z
-DTEND:20201119T220000Z
-SUMMARY:ziona and Slaygon - Return of the SIDh
-DESCRIPTION:Hello Everyone, A late notice, but we will be able to make it - expect us to return today at the usual time and on the usual channels! Yesterday, Ziona returned from the labyrinth of logistics and lockdowns, so we might not be in our best shape yet, but we will try our best to provide you a pleasant evening.Don't forget your favourite requests - join us at 20:00 CET!
-UID:2236@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
