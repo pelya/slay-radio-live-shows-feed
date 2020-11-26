@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20201126T190000Z
-DTEND:20201126T220000Z
-SUMMARY:ziona and Slaygon - Late Movember
-DESCRIPTION:Hello Everyone,Who is up for the last show of Movember? We certainly are! Let's say goodbye to this unusually crazy season and embrace the approaching winter which hopefully leads us to a better next year!Let's cheer everyone up with your chit-chat and requests!
-UID:2237@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
