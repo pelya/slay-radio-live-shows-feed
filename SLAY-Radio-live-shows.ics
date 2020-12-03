@@ -8,22 +8,6 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20201203T190000Z
-DTEND:20201203T220000Z
-SUMMARY:ziona and Slaygon - Frozen beer & hot Remix News
-DESCRIPTION:Hi SLAYfolks,December brings us the coldest cellars and the hottest schedule with a brand new edition of Remix News! Come in and join the fun on one of the usual channels - most of the people chat on Discord and watch us on Twitch, let's see which platform wins this time.Request great tracks and SLAY tuned!
-UID:2238@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20201205T190000Z
 DTEND:20201205T220000Z
 SUMMARY:Gazoo - PMPVsMorning
@@ -61,6 +45,22 @@ DTEND:20201210T220000Z
 SUMMARY:ziona and Slaygon - Come and PRESS PLAY ON TAPE! 
 DESCRIPTION:Hi Ladies and Gentlemen,Yes, you read it right - We won't be on our own this time, Press Play On Tape will join us for a long chit-chat! We have a lot of questions for them! Do you? Make sure to prepare them and send them to us on one of our channels. Requests allowed, PPOT-related ones are prioritized of course :)And there will be a couple of PPOT exclusives as well!Hope you are looking forward to this evening as much as we do! On the video streams you can also watch, not only listen.Join the discussions and SLAY tuned!
 UID:2241@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201203T190000Z
+DTEND:20201203T220000Z
+SUMMARY:ziona and Slaygon - Frozen beer & hot Remix News
+DESCRIPTION:Hi SLAYfolks,December brings us the coldest cellars and the hottest schedule with a brand new edition of Remix News! Come in and join the fun on one of the usual channels - most of the people chat on Discord and watch us on Twitch, let's see which platform wins this time.Request great tracks and SLAY tuned!
+UID:2238@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
