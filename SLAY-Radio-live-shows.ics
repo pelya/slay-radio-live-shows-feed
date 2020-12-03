@@ -55,20 +55,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20201203T190000Z
-DTEND:20201203T220000Z
-SUMMARY:ziona and Slaygon - Frozen beer & hot Remix News
-DESCRIPTION:Hi SLAYfolks,December brings us the coldest cellars and the hottest schedule with a brand new edition of Remix News! Come in and join the fun on one of the usual channels - most of the people chat on Discord and watch us on Twitch, let's see which platform wins this time.Request great tracks and SLAY tuned!
-UID:2238@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
