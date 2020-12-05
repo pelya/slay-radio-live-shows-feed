@@ -8,8 +8,8 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20201205T190000Z
-DTEND:20201205T220000Z
+DTSTART:20201205T090000Z
+DTEND:20201205T120000Z
 SUMMARY:Gazoo - PMPVsMorning
 DESCRIPTION:Let's keep it short and sweet as I seriously wonder how many people give a toss about these blurbs. The show will contain:- The latest PlanMixPlay magic- The latest PlanMixPlay jank- C64 tunes- A monologue or two about my recent corporate purchasing experiencesJoin, listen, and enjoy!
 UID:2239@slayradio.org
@@ -24,8 +24,8 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20201206T090000Z
-DTEND:20201206T120000Z
+DTSTART:20201205T210000Z
+DTEND:20201206T000000Z
 SUMMARY:Gazoo - PMPVsEvening
 DESCRIPTION:Let's keep it short and sweet as I seriously wonder how many people give a toss about these blurbs. The show will contain:- The latest PlanMixPlay magic- The latest PlanMixPlay jank- C64 tunes- A monologue or two about my recent corporate purchasing experiencesJoin, listen, and enjoy!
 UID:2240@slayradio.org
