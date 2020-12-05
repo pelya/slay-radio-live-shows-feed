@@ -39,20 +39,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20201205T090000Z
-DTEND:20201205T120000Z
-SUMMARY:Gazoo - PMPVsMorning
-DESCRIPTION:Let's keep it short and sweet as I seriously wonder how many people give a toss about these blurbs. The show will contain:- The latest PlanMixPlay magic- The latest PlanMixPlay jank- C64 tunes- A monologue or two about my recent corporate purchasing experiencesJoin, listen, and enjoy!
-UID:2239@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
