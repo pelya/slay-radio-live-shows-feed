@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20201217T190000Z
-DTEND:20201217T220000Z
-SUMMARY:ziona, Slaygon and Gazoo - Pre-Christmassy co-production
-DESCRIPTION:Hello Everyone,Guess who is joining us this week?! No distance can stand in our way (not even early mornings on the other end of the globe) and we will welcome Gazoo as our co-host - his presence is a guarantee for some interesting discussions, so make sure to tune in, join our chat with your thoughts, requests and SLAY tuned! 
-UID:2242@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
