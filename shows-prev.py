@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2243","airdate":"1609449300","name_switch":"on","DJ":"ziona and Slaygon","showname":"Happy New Year","blurb":"2020 is closing, and a new year is about to start. Let's see if we can kick this shitty year off the books entirely and start off anew!\n\nJoin us on the regular places (Discord, IRC, Youtube, Facebook, Twitch, etc!)\n\nSLAY Tuned!","nice_showname":"<strong>Happy New Year<\/strong> with ziona and Slaygon","nice_airdate":"Thursday 31st December, 2020<br \/>at 22:15 USRT"}]}
