@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20201231T211500Z
+DTEND:20210101T001500Z
+SUMMARY:ziona and Slaygon - Happy New Year
+DESCRIPTION:2020 is closing, and a new year is about to start. Let's see if we can kick this shitty year off the books entirely and start off anew!Join us on the regular places (Discord, IRC, Youtube, Facebook, Twitch, etc!)SLAY Tuned!
+UID:2243@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
