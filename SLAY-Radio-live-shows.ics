@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20210107T190000Z
+DTEND:20210107T220000Z
+SUMMARY:ziona and Slaygon - Made in 2020
+DESCRIPTION:Hello Everyone! Hope you had a nice holiday and got some well-deserved rest! Now that we left 2020 behind us, it's time to sum it up and start to prepare for the ROTY Awards' voting, so in this show we will only play c64 and Amiga remixes that were produced in 2020 and are available to vote for on Remix64.com. Requests are welcome, but please, only request tracks from 2020!Let's point out some nice gems to each other! SLAY tuned on all our channels!
+UID:2244@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
