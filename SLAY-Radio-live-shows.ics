@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20210128T190000Z
+DTEND:20210128T220000Z
+SUMMARY:ziona and Slaygon - From First to Last vol. 2. 
+DESCRIPTION:Hello Peepz, A while ago we had a show where we highlighted the very first and the latest track of an artist of the scene. Preparing for the ROTY show, it is also exciting for us to remember sometimes, how some of our best remixers have started their journey.So this time just request your artist of choice and we will play the very first and last RKO release from them! Time travel on, join us and SLAY tuned! 
+UID:2247@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
