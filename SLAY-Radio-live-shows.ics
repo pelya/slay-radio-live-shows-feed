@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20210204T190000Z
-DTEND:20210204T220000Z
-SUMMARY:ziona and Slaygon - Kickstart of February
-DESCRIPTION:Hello All,Last month of the winter to survive, and soon everything will look greener!Say Happy Birthday to Remix News - The first edition was done exactly one year ago by Lea and Mordi, and thus begins a riveting season 2, where we sum up the releases of January 2021 :)Join us and SLAY tuned!
-UID:2248@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
