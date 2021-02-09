@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20210211T190000Z
+DTEND:20210211T220000Z
+SUMMARY:ziona and Slaygon - Hello there, Valentine!
+DESCRIPTION:Hi Folks,Not that we care so much, but there is a thing coming up that is called Valentine's day by Earthlings. Want to show off your favourite C64 or Amiga related love songs? Maybe this is your time to shine then! =)We don't take it very seriously, so chill, this is not a requirement for requests, but inserting a few of those could be fun, we think!Join us with all your ears and fingers for chatting!
+UID:2249@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20210220T190000Z
 DTEND:20210220T220000Z
 SUMMARY:Remix64.com - Remixer of the Year Awards 2020
