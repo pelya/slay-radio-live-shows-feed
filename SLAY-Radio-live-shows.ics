@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20210211T190000Z
-DTEND:20210211T220000Z
-SUMMARY:ziona and Slaygon - Hello there, Valentine!
-DESCRIPTION:Hi Folks,Not that we care so much, but there is a thing coming up that is called Valentine's day by Earthlings. Want to show off your favourite C64 or Amiga related love songs? Maybe this is your time to shine then! =)We don't take it very seriously, so chill, this is not a requirement for requests, but inserting a few of those could be fun, we think!Join us with all your ears and fingers for chatting!
-UID:2249@slayradio.org
+DTSTART:20210220T190000Z
+DTEND:20210220T220000Z
+SUMMARY:Remix64.com - Remixer of the Year Awards 2020
+DESCRIPTION:The time has come to celebrate and acknowledge the remixers' work in the C64 and Amiga community by presenting the yearly ROTY Awards, as voted by the users at www.remix64.com.This year it's SLAY Radio's turn to give out the awards and give you a run-down of what happened in 2020.2020 was one of the most active years in recent memory, with 174 c64 remixes, 48 Amiga remixes and a whopping 194 tracks over 11 albums, giving us a grand total of 416 tracks to enjoy!So, join us as we go through some highlights of 2020 and announce the runner-ups and winners of each category!
+UID:2251@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20210220T190000Z
-DTEND:20210220T220000Z
-SUMMARY:Remix64.com - Remixer of the Year Awards 2020
-DESCRIPTION:The time has come to celebrate and acknowledge the remixers' work in the C64 and Amiga community by presenting the yearly ROTY Awards, as voted by the users at www.remix64.com.This year it's SLAY Radio's turn to give out the awards and give you a run-down of what happened in 2020.2020 was one of the most active years in recent memory, with 174 c64 remixes, 48 Amiga remixes and a whopping 194 tracks over 11 albums, giving us a grand total of 416 tracks to enjoy!So, join us as we go through some highlights of 2020 and announce the runner-ups and winners of each category!
-UID:2251@slayradio.org
+DTSTART:20210211T190000Z
+DTEND:20210211T220000Z
+SUMMARY:ziona and Slaygon - Hello there, Valentine!
+DESCRIPTION:Hi Folks,Not that we care so much, but there is a thing coming up that is called Valentine's day by Earthlings. Want to show off your favourite C64 or Amiga related love songs? Maybe this is your time to shine then! =)We don't take it very seriously, so chill, this is not a requirement for requests, but inserting a few of those could be fun, we think!Join us with all your ears and fingers for chatting!
+UID:2249@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
