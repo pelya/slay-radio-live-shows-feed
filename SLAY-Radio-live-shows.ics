@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20210220T190000Z
-DTEND:20210220T220000Z
-SUMMARY:Remix64.com - Remixer of the Year Awards 2020
-DESCRIPTION:The time has come to celebrate and acknowledge the remixers' work in the C64 and Amiga community by presenting the yearly ROTY Awards, as voted by the users at www.remix64.com.This year it's SLAY Radio's turn to give out the awards and give you a run-down of what happened in 2020.2020 was one of the most active years in recent memory, with 174 c64 remixes, 48 Amiga remixes and a whopping 213 tracks over 11 albums, giving us a grand total of 435 tracks to enjoy!So, join us as we go through some highlights of 2020 and announce the runner-ups and winners of each category!
-UID:2250@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
