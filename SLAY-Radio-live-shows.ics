@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20210225T190000Z
-DTEND:20210225T220000Z
-SUMMARY:ziona and Slaygon - Winter-closing request show
-DESCRIPTION:Hello Everyone,After the ROTY Award-show, we just want to sit back, relax and enjoy your requests again! Make the most out of a pleasant evening with some good vibes and your companionship & SLAY tuned! 
-UID:2251@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
