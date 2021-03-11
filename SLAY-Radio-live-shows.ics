@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20210311T190000Z
-DTEND:20210311T220000Z
-SUMMARY:ziona and Slaygon - Spring on a thing & Remix News
-DESCRIPTION:Ahoy Everybody, After a few cumbersome days due to the migration for Slaygon, we are back, alive and kicking! Spring has arrived and delivered some sunshine as well, although we still could use some more, but it will do as a start. Remix News will help even more! Join our discussions and SLAY tuned!  
-UID:2252@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
