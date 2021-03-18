@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2253","airdate":"1616094000","name_switch":"on","DJ":"ziona and Slaygon","showname":"Thursday Twinkles","blurb":"Hi Everyone, \n\nAs per usual, we warm your ears and body up for Friday and an appropriate closing of the week! \nRequest, chit-chat, and enjoy this thing! (Or suffer. After all, we won't tell you what to do ;) \n\nJoin us and SLAY tuned!  ","nice_showname":"<strong>Thursday Twinkles<\/strong> with ziona and Slaygon","nice_airdate":"Thursday 18th March, 2021<br \/>at 20:00 USRT"}]}
