@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20210318T190000Z
-DTEND:20210318T220000Z
-SUMMARY:ziona and Slaygon - Thursday Twinkles
-DESCRIPTION:Hi Everyone, As per usual, we warm your ears and body up for Friday and an appropriate closing of the week! Request, chit-chat, and enjoy this thing! (Or suffer. After all, we won't tell you what to do ;) Join us and SLAY tuned!  
-UID:2253@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
