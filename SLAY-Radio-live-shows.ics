@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20210325T190000Z
-DTEND:20210325T220000Z
-SUMMARY:ziona and Slaygon - Thursday Tea then! 
-DESCRIPTION:Hi Everyone,We started to drink tea more frequently, so tea it is this time then (dedicated to Boz)! Have a nice tea with us (okay, it can be beer or White Russian as well) and request your favourites.And don't forget - approximately 1 week left until the deadline of the Remix64 20th Anniversary remix compo! Prepare your tunage!Join us and SLAY tuned!
-UID:2254@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
