@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20210403T180000Z
-DTEND:20210403T210000Z
-SUMMARY:Remix64.com - Remix64 20th Anniversary Remix Compo
-DESCRIPTION:As Remix64.com will turn 20 years old on April 17th, 2021, a lot of entries have already been submitted to the Remix Compo - All of which will be premiered on this show!All the entries are anonymized and voting for them will open as we play them.For more information, please see https://www.remix64.com/news/remix64-20th-anniversary-remix-compo.html
-UID:2255@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
