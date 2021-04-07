@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20210408T180000Z
+DTEND:20210408T210000Z
+SUMMARY:ziona and Slaygon - Thursday Time! 
+DESCRIPTION:Ahoy all,We are back after the blast which was the Remix Competition, and luckily for Lea, the entries are not yet included in the fresh edition of Remix News that will be featured on this show! Join in and have a good Thursday Time (cheers Boz ;)! 
+UID:2256@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
