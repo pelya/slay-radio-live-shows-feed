@@ -8,11 +8,11 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
-DTSTART:20210415T180000Z
-DTEND:20210415T210000Z
-SUMMARY:ziona and Slaygon - rand(weather)
-DESCRIPTION:Hello there,How are you feeling in these weird times in your quarantine with the random weather outside? We think it's better than a Kinder Surprise: you never know what view you get from your window - snow, rain, hail, wind or vibrant sunshine...So we expect the most random requests popping into your head. We might do random SIDs too!Join in and SLAY tuned!
-UID:2257@slayradio.org
+DTSTART:20210417T180000Z
+DTEND:20210417T210000Z
+SUMMARY:Remix64.com - 20th Anniversary Remix Compo results
+DESCRIPTION:Hi Everyone,The public has spoken, so we announce the winners of the 20th Anniversary Remix Competition in several categories! We will also have a little historical round table discussion with some of the board members.Excited? Us too! Join in and SLAY tuned!
+UID:2258@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -24,11 +24,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20210417T180000Z
-DTEND:20210417T210000Z
-SUMMARY:Remix64.com - 20th Anniversary Remix Compo results
-DESCRIPTION:Hi Everyone,The public has spoken, so we announce the winners of the 20th Anniversary Remix Competition in several categories! We will also have a little historical round table discussion with some of the board members.Excited? Us too! Join in and SLAY tuned!
-UID:2258@slayradio.org
+DTSTART:20210415T180000Z
+DTEND:20210415T210000Z
+SUMMARY:ziona and Slaygon - rand(weather)
+DESCRIPTION:Hello there,How are you feeling in these weird times in your quarantine with the random weather outside? We think it's better than a Kinder Surprise: you never know what view you get from your window - snow, rain, hail, wind or vibrant sunshine...So we expect the most random requests popping into your head. We might do random SIDs too!Join in and SLAY tuned!
+UID:2257@slayradio.org
 CLASS:PUBLIC
 SEQUENCE:0
 STATUS:CONFIRMED
