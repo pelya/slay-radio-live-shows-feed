@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20210417T180000Z
-DTEND:20210417T210000Z
-SUMMARY:Remix64.com - 20th Anniversary Remix Compo results
-DESCRIPTION:Hi Everyone,The public has spoken, so we announce the winners of the 20th Anniversary Remix Competition in several categories! We will also have a little round table discussion with some of the remix64 board members.Excited? Us too! Join in and SLAY tuned!
-UID:2258@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
