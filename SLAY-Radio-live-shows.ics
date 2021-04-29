@@ -8,6 +8,22 @@ X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
 BEGIN:VEVENT
+DTSTART:20210501T110000Z
+DTEND:20210501T140000Z
+SUMMARY:ziona, Slaygon and Gazoo - Good afternight!
+DESCRIPTION:Hello Everyone, Surprise-surprise, finally we managed to sync our calendars with Gazoo, so we will have an eveningnoon show! Live straight from Australia and Sweden, here we are chatting about all sorts of things! Spend a cozy afternoon-evening with us! 
+UID:2261@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20210429T180000Z
 DTEND:20210429T210000Z
 SUMMARY:ziona and Slaygon - Sunny side (up)
