@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20210429T180000Z
-DTEND:20210429T210000Z
-SUMMARY:ziona and Slaygon - Sunny side (up)
-DESCRIPTION:Hello Sunny days,Our cats are charged with more and more Vitamin D, too bad that we are still hiding in the dark, indoors. Okay, Slaygon can cope with it somehow and ziona would get a sunburn anyway, so it's all fine. Let's get back to our beloved remixes and chats during the night instead, this is when we really live anyway. Join us and SLAY tuned! 
-UID:2260@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
