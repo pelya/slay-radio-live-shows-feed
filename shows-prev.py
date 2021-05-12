@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2263","airdate":"1620928800","name_switch":"off","DJ":"ziona and Slaygon","showname":"Funsies and Remix News vol. 2. ","blurb":"Hi Everyone,\n\nWill we make it this time? Will it blend? Of course - we are well-prepared this time! And we might have some more easter eggs for you. \nTune in and find out what those might be! ","nice_showname":"<strong><big>ziona and Slaygon<\/big><\/strong><br \/>Funsies and Remix News vol. 2. ","nice_airdate":"Thursday 13th May, 2021<br \/>at 20:00 USRT"}]}
