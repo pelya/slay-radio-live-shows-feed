@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20210513T180000Z
-DTEND:20210513T210000Z
-SUMMARY:ziona and Slaygon - Funsies and Remix News vol. 2. 
-DESCRIPTION:Hi Everyone,Will we make it this time? Will it blend? Of course - we are well-prepared this time! And we might have some more easter eggs for you. Tune in and find out what those might be! 
-UID:2263@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
