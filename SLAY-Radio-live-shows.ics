@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20210520T180000Z
-DTEND:20210520T210000Z
-SUMMARY:ziona and Slaygon - Synth-estesia?
-DESCRIPTION:Hi Everyone, Slowly, very slowly we are opening the door of summer and we hope that you are happy about it too, but still safe of course!Some of us have a special condition called Synesthesia, which means that our brain creates mysterious automatic connection between a color and a track. This is what we will talk about a bit today. Any of you who feels similar, can enter the game and share the colors of the tracks we play - ziona certainly will. These experiences are usually unique and no one hears/sees these colors the same way, this is why it can be even more interesting :) Looking forward to hear your impressions! Join us and SLAY tuned!   
-UID:2264@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
