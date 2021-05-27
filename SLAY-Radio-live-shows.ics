@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20210527T180000Z
-DTEND:20210527T210000Z
-SUMMARY:ziona and Slaygon - Last days of spring
-DESCRIPTION:Hi Everyone,Would you believe, that this is our last show of spring? Yes, it is! However, summer is still doing its best to hide here in Sweden, but never mind that part! We are here to cheer you up with tunes, and other people cheer us up through our mailbox, not to mention our new dancecam feature, so join us and SLAY tuned for more fun to come!
-UID:2265@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
