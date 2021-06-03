@@ -23,20 +23,4 @@ DESCRIPTION:This is an event reminder
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-DTSTART:20210603T180000Z
-DTEND:20210603T210000Z
-SUMMARY:ziona and Slaygon - Hello Summer
-DESCRIPTION:Hi Everyone,Here we are - finally the weather is aligned with the calendar! Join, dip your toes in the remix waters and have fun in the sun! PS.: Remix News for May is coming next week.
-UID:2266@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
