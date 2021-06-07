@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20210606T100000Z
-DTEND:20210606T130000Z
-SUMMARY:Gazoo - PmpVsChillin
-DESCRIPTION:This show is going to be laid back with very limited direction.But it'll be fun *and* I'll be show casing newer cooler and not-so-seen-before things in PlanMixPlay!
-UID:2267@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
