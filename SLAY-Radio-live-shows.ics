@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20210610T180000Z
-DTEND:20210610T210000Z
-SUMMARY:ziona and Slaygon - Palm trees with Remix News
-DESCRIPTION:Hi everyone,Hope you are doing well! We started to miss some palm trees around here, adapting to the weather. And of course, some islands and sea... oh wait... we have some sea around, we only would need to get up from the couch and that won't happen in quite a while. Never mind!Sit back and relax while you enjoy the newest edition of Remix News - it was a productive month again! Join us on the usual channels and SLAY tuned!
-UID:2268@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
