@@ -1,1 +1,1 @@
-{"error":0,"message":"","data":[]}
+{"error":0,"message":"","data":[{"show_ID":"2270","airdate":"1625767200","name_switch":"on","DJ":"ziona and Slaygon","showname":"We are Bach! ","blurb":"Hello Everyone,\n\nYes, we are back for a short while and after these weeks we promise to finish with our holidays for the summer at least!\n\nCome join our chats, add your requests and SLAY tuned!","nice_showname":"<strong>We are Bach! <\/strong> with ziona and Slaygon","nice_airdate":"Thursday 8th July, 2021<br \/>at 20:00 USRT"}]}
