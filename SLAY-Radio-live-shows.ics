@@ -7,20 +7,4 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
-BEGIN:VEVENT
-DTSTART:20210708T180000Z
-DTEND:20210708T210000Z
-SUMMARY:ziona and Slaygon - We are Bach! 
-DESCRIPTION:Hello Everyone,Yes, we are back for a short while and after these weeks we promise to finish with our holidays for the summer at least!Come join our chats, add your requests and SLAY tuned!
-UID:2270@slayradio.org
-CLASS:PUBLIC
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:This is an event reminder
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
 END:VCALENDAR
