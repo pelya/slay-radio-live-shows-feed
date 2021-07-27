@@ -7,4 +7,20 @@ X-WR-TIMEZONE:UTC
 X-WR-CALNAME:slay.shows
 X-WR-CALDESC:SLAY Radio live shows schedule
 UID:live-show-schedule@slayradio.org
+BEGIN:VEVENT
+DTSTART:20210729T180000Z
+DTEND:20210729T210000Z
+SUMMARY:ziona and Slaygon - End the heatwave!
+DESCRIPTION:Hi Everyone,The big pause is over and we are finally back to our normal schedule! Although Sweden seems to be way more generous with its weather than the middle of Europe, we still feel for those who live more towards the South. Perhaps we can do a raindance for you to the remixes you all request! Join us and enjoy all the breeze you can get with some nice cocktails! 
+UID:2271@slayradio.org
+CLASS:PUBLIC
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
